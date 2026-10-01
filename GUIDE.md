@@ -529,6 +529,35 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 | **Rooibos** | Low (caffeine-free) | Not known to inhibit | Very low (10/10, the safest pick) | Low–moderate (lists disagree) |
 | Plain water, fresh herbal infusions (peppermint is high salicylate; pick low-salicylate options like fresh ginger in small amounts) | Low | None | Very low | Varies |
 
+#### If you drink alcohol: harm-reduction choices
+
+**Ground rule:** every type of alcohol blocks DAO and competes with histamine for breakdown. Alcohol is also linked to psoriasis severity and to treatment failure, and it is off-limits on **methotrexate** (liver). With **acitretin**, alcohol converts the drug into a longer-lasting form (etretinate), which extends the pregnancy-avoidance period to 3 years. The best choice is none, but some drinks are clearly worse than others.
+
+| Drink | Histamine | Salicylate (RPAH) | Other issues | Rank |
+|---|---|---|---|---|
+| **Vodka + soda water** | Very low (distilled) | Low | Cleanest option | **Best** |
+| **Gin + soda water** | Very low (distilled) | Low on RPAH lists (despite juniper botanicals) | Test your own reaction to the botanicals | **Best** |
+| **Gin + tonic** | Very low | Low | **Tonic adds about 30 g sugar per 12 oz and quinine.** Quinine is a mild photosensitizer, so skip it on UVB or hiking days. The antimalarial drug relatives of quinine are known psoriasis triggers, though tonic's dose is tiny. Use **diet or light tonic**, or switch to soda | Good |
+| Whisky (plain or with water) | Low–moderate (barrel-aged congeners) | Low on RPAH lists | Congeners make hangovers worse | OK |
+| Tequila blanco, white rum | Low | Moderate–high (rum) | | OK–fair |
+| Hard seltzer | Low–moderate (fermented sugar base) | Varies (fruit flavors) | Unflavored is better | Fair |
+| Champagne / sparkling wine, white wine | Moderate | High | Sulfites | Poor |
+| **Beer** | **High** (fermented; yeast) | Moderate | Gluten; a personal trigger | **Avoid** |
+| **Red wine** | **Highest** | **High** | Sulfites; a personal trigger | **Avoid** |
+| Brandy, liqueurs, flavored spirits, sangria | Moderate–high | **High** | Sugar, fruit and herb extracts | Avoid |
+
+**Mixer and garnish rules**
+- Use **soda water**, or diet or light tonic.
+- **Skip the lime or lemon wedge** (citrus releases histamine and is high in salicylate). Use cucumber instead.
+- Avoid cola (caffeine), energy drinks, citrus juice, cranberry juice (high salicylate) and pre-made sweet mixers.
+
+**If you do drink**
+- **One drink, with food.**
+- Take a **DAO enzyme 15–20 min before.**
+- Alternate with water.
+- Not on oozing-flare days, and not within 24 h of a UV session (dehydration and photosensitivity).
+- Log it in your n-of-1 diary (section 8).
+
 ### 6.8 Plant milks compared
 
 | Plant milk | Histamine | Salicylate | Nickel | Eczema safety (community rating) | Notes |
