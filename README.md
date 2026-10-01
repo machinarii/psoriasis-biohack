@@ -1,13 +1,15 @@
 # Psoriasis Biohack
 
-An evidence-graded guide to managing psoriasis (with notes on eczema and oozing flares). It covers:
+This guide comes from my own experience and research. I've lived with psoriasis since I was a child, and it collects what I've tried, what I've learned the hard way, and what the research actually supports.
+
+It is an evidence-graded guide to managing psoriasis (with notes on eczema and oozing flares). It covers:
 
 - narrowband UVB phototherapy and sun exposure while hiking
 - red, near-infrared and blue light
 - a DIY 311 nm lamp / 308 nm SMT LED phototherapy build
 - topicals, including correct clobetasol use
 - diet, dairy/whey triggers and dairy-free protein
-- supplements
+- supplements, including histamine- and salicylate-lowering options, and supplements and foods with immune activation risk
 - n-of-1 self-experiments
 
 ➡️ **[Read the guide](GUIDE.md)**

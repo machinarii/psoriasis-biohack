@@ -18,6 +18,9 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Clobetasol rules, Rx non-steroid topicals, OTC adjuncts | §4 |
 | Diet, dairy/whey, dairy-free protein with leucine targets | §5 |
 | Supplement evidence check | §6 |
+| Histamine-lowering supplements (DAO, vitamin C, PEA, luteolin, low-histamine probiotics) | §6.1 |
+| Salicylate clearance support and the low-salicylate approach | §6.2 |
+| Supplements and foods with immune activation risk, plus a low-risk "safe base" food list | §6.3 |
 | Triggers and lifestyle | §7 |
 | n-of-1 tracking and the ABAB elimination protocol | §8 |
 | PsA screening, when to escalate, biologics, cost help | §9 |

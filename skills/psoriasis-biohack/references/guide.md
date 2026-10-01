@@ -289,6 +289,12 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 
 **Hidden dairy to avoid during the trial:** Greek yogurt, casein, "milk protein isolate," and whey in bars and pre-mixed shakes. Read labels.
 
+**If you're also histamine-sensitive** (see section 6.1):
+- Low-histamine diet lists flag **egg white** as a histamine liberator, and **tuna, mackerel and leftover fish** as high-histamine.
+- Safer post-workout options are **freshly cooked chicken or beef**, or a **beef protein isolate**.
+- Eat meat within a day of cooking, or freeze it straight away. Histamine builds up in leftovers.
+- Test egg white separately rather than assuming it's safe.
+
 ---
 
 ## 6. Supplements: evidence check against your Notion stack
@@ -305,6 +311,103 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 | **Quercetin, EGCG** | No psoriasis RCTs | Neutral |
 | **Berberine** | Preclinical only (IL-17 suppression in mice) | Neutral. Helps metabolic health, which indirectly helps |
 | Oral indigo, apple cider vinegar, "leaky gut" kits, collagen-as-protein | None, or harmful | **Avoid** |
+
+Sections 6.1–6.3 below use the same columns as the Notion Supplements table: Histamine level, Salicylate level, Immune activation risk. They are aimed at people who suspect **histamine intolerance**, **salicylate sensitivity**, or flares from immune-stimulating products.
+
+**Caveats:**
+- **Histamine intolerance** is a contested diagnosis. The only objective clues are low blood DAO activity and a clear response to a low-histamine diet.
+- **Salicylate sensitivity** has no validated test outside aspirin-exacerbated respiratory disease (AERD). The main approach is the RPAH (Royal Prince Alfred Hospital) elimination diet.
+- Neither is a recognized psoriasis driver. Both are more relevant to hives, flushing and eczema-type flares.
+- Test these with the same n-of-1 method as dairy (section 8).
+
+### 6.1 Supplements that lower histamine load
+
+| Supplement | Potential benefits | Histamine level | Salicylate level | Immune activation risk | Evidence and dosing |
+|---|---|---|---|---|---|
+| **DAO enzyme** (diamine oxidase, e.g. Umbrellux DAO, Histamine Block, NaturDAO) | Breaks down histamine from food inside the gut | Low / lowers dietary histamine | Low | Not identified | **B-.** Small RCTs show fewer symptoms in people with low DAO (Schnedl 2019; Izquierdo-Casas 2019 for migraine). Take 1–2 capsules (10,000–20,000 HDU) 15 min before histamine-rich meals. It works only on histamine you eat, not on histamine your body releases |
+| **Vitamin C** (non-citrus buffered ascorbate or ascorbyl palmitate) | Speeds histamine breakdown; supports collagen | Low / lowers blood histamine | Low (if not from citrus or rosehip) | Not identified | **C.** 2 g/day lowered blood histamine about 38% (Johnston 1992). Use 500–1000 mg twice daily. Avoid citrus-flavored forms: your table flags citrus concentrates as a histamine liberator |
+| **Quercetin** (you take it) | Stabilizes mast cells; inhibited histamine release about as well as cromolyn in lab studies (Weng 2012) | Low / mast-cell stabilizer | **High** | Not identified | **C.** 250–500 mg twice daily. **Conflict:** high in salicylates, and it inhibits the DAO enzyme in some studies. Drop it if you're running a salicylate trial |
+| **Luteolin** (often combined with PEA) | Mast-cell stabilizer, stronger than quercetin in lab studies | Low / mast-cell stabilizer | Medium | Not identified | **C.** 50–100 mg/day. Mostly lab and small pilot data |
+| **PEA** (palmitoylethanolamide, micronized or ultramicronized) | Calms mast cells and nerve-driven itch; a natural fat-derived compound | Low / mast-cell stabilizer | Low | Not identified | **C/B-.** 300–600 mg twice daily. Small trials for itch and eczema (topical PEA cream helped eczema itch). Very safe |
+| **Vitamin B6** (P5P) | Cofactor the DAO enzyme needs | Low / supports DAO | Low | Not identified | **C.** 10–25 mg/day. **Stay under 50 mg/day** because long-term high doses cause nerve damage |
+| **Copper** (you take copper glycinate) | Cofactor the DAO enzyme needs | Low / supports DAO | Low | Not identified | **C.** 1–2 mg/day. Keep a zinc-to-copper ratio of about 10–15:1, since you also take zinc |
+| **Magnesium glycinate** (you take it) | Low magnesium increases histamine release in animal studies | Low | Low | Not identified | **C.** 200–400 mg elemental. Already in your stack |
+| **Low-histamine probiotic strains** | Some strains break down histamine; others make it | Strain-dependent (your note) | Unknown | Strain-dependent | **C.** Strains considered neutral or histamine-lowering: *B. infantis*, *B. longum*, *B. breve*, *L. plantarum*, *L. rhamnosus* GG. **Avoid** *L. casei*, *L. bulgaricus* and *L. reuteri*, which produce histamine. The psoriasis RCT mix (*B. longum*, *B. lactis*, *L. rhamnosus*) is mostly low-histamine |
+| **Stinging nettle leaf** (freeze-dried) | Antihistamine and anti-inflammatory | Low / possible antihistamine | Medium | Low–Medium (plant immune modulator) | **C.** 300–600 mg. One small allergy-symptom RCT. Mixed results |
+| **H1/H2 antihistamines** (cetirizine, fexofenadine, famotidine) | Block histamine receptors directly | n/a: blocks histamine | Low | Not identified | **A** for hives. These are drugs, not supplements, and the most reliable option. Cetirizine at night also helps itchy flares |
+
+**Supplements in your stack that work against DAO (from your Notion table):**
+- **EGCG** (green tea extract) inhibits DAO.
+- **Citrus concentrates** release histamine.
+- **Shiitake** and the **fermented or lactic-acid products** carry histamine.
+- **Curcumin** inhibits DAO in some lab studies, but this is weak evidence.
+
+### 6.2 Supplements that support salicylate clearance
+
+No supplement is proven to "lower salicylate levels." The body clears salicylate mainly by combining it with **glycine** (to make salicyluric acid) and with **glucuronide**, then excreting it in urine. The supplements below support those pathways. All are **grade C or anecdotal**. The real treatment is a **low-salicylate diet** (RPAH elimination), plus aspirin desensitization for AERD under a doctor.
+
+| Supplement | Potential benefits | Histamine level | Salicylate level | Immune activation risk | Evidence and dosing |
+|---|---|---|---|---|---|
+| **Glycine** (you take it) | The main amino acid the body attaches to salicylate to clear it | Low | Low | Not identified | **C.** Glycine supply can limit clearance at high salicylate loads, as shown in aspirin overdose studies. 3–5 g/day. Also helps sleep |
+| **Magnesium sulfate (Epsom salt) baths** | Supplies sulfate for detox pathways | Low | Low | Not identified | **Anecdotal.** Popular in salicylate-sensitivity communities. 2 cups per bath, 2–3 times a week. Very low risk. Moisturize afterward |
+| **Molybdenum** | Cofactor for sulfite oxidase; sometimes paired with sulfur and amine sensitivity | Low | Low | Not identified | **Anecdotal.** 75–150 mcg/day. Don't exceed the 2 mg/day upper limit |
+| **Taurine** | Amino acid for conjugation; calms nerves | Low | Low | Not identified | **C/anecdotal.** 500–2000 mg/day |
+| **Vitamin B12 (methylcobalamin)** (you take it) | Sometimes listed for sulfite and salicylate sensitivity | Low | Low | Not identified | **Anecdotal.** Keep at the current dose |
+| **Low-salicylate versions of your current supplements** | — | — | — | — | Swap curcumin (high salicylate) for **PEA**. Swap quercetin for **luteolin**. Pause beetroot, ginkgo, grape seed, kumazasa, mulberry and ume extracts, all flagged high in your table, during a salicylate trial |
+
+**Other salicylate sources to watch:**
+- Mint and wintergreen toothpaste (methyl salicylate) — switch to an unflavored toothpaste.
+- Aspirin, Pepto-Bismol (bismuth subsalicylate) and muscle rubs.
+- Salicylic acid skin products, including **your PanOxyl spray**: some is absorbed through the skin, so pause it during a strict salicylate trial.
+- Herbal teas.
+
+### 6.3 Supplements and foods with immune activation risk
+
+**Why it matters:** psoriasis is driven by an overactive IL-23/IL-17 pathway. Products that stimulate the innate immune system (TLR agonists, beta-glucans, interferon inducers) could push it the wrong way. There is precedent: imiquimod (a TLR7 stimulant) and interferon drugs both trigger psoriasis. Most entries below are **theoretical or based on case reports**, not trials.
+
+**Supplements**
+
+| Supplement | Mechanism | Immune activation risk | Evidence |
+|---|---|---|---|
+| **Spirulina, chlorella, AFA blue-green algae** | Stimulate NK cells and interferon | **High** | Case series of autoimmune skin disease starting or flaring after use, especially dermatomyositis and pemphigus (Lee & Werth, *Arch Dermatol* 2004) |
+| **Echinacea** | Activates macrophages and stimulates TNF | **High** | Case reports of erythema nodosum and autoimmune flares. Often listed as "avoid in autoimmune disease" |
+| **Alfalfa** (tablets and sprouts) | L-canavanine | **High** | Causes lupus-like disease in primates. Human lupus flare case reports |
+| **Medicinal mushrooms**: chaga, reishi, cordyceps, lion's mane, shiitake (in your table), turkey tail, maitake | Beta-glucans activate macrophages and dendritic cells | **High** | Lab and immunology data. Shiitake causes "shiitake dermatitis," a whip-like rash. Little or no psoriasis data |
+| **Beta-glucan supplements** (yeast or oat "immune" products) | Act on the Dectin-1 receptor and drive an IL-17-type response | **High** | Mechanistic. Dectin-1 signaling promotes Th17 cells |
+| **Korean or Panax ginseng** (in your table) | Stimulates T, B and NK cells | **High** | Mechanistic. Rare reports of skin reactions |
+| **Astragalus** | Stimulates T cells and interferon | **High** | Mechanistic. Traditionally avoided in autoimmune disease |
+| **Elderberry** | Raises cytokines (IL-1β, TNF, IL-6) in vitro | **Medium–High** | Mechanistic |
+| **Black seed oil** (in your table) | Activates macrophages and T cells | **Medium–High** | Mixed: it is also anti-inflammatory in some studies. One small topical psoriasis study was positive |
+| **Ashwagandha** | Immunomodulator with Th1 shift in some studies | **Medium** | Case reports of liver injury and autoimmune flares (thyroid) |
+| **Andrographis** | Immunostimulant | **Medium** | Mechanistic. Allergic reactions reported |
+| **Colostrum** | Immune factors from cow's milk | **Medium** | Also dairy, so remove it during the dairy trial |
+| **Garlic extract, high dose** | Activates NK cells and macrophages | **Low–Medium** | Mechanistic. Food amounts are fine |
+| **High-dose zinc** (>40 mg/day long-term) | Immune boosting; causes copper deficiency | **Low–Medium** | Stay under 40 mg/day and pair with copper |
+
+**Foods**
+
+| Food or group | Concern | Immune activation risk | Histamine | Salicylate |
+|---|---|---|---|---|
+| Spirulina, chlorella, alfalfa sprouts | Same as the supplements above | **High** | Low | Medium |
+| Mushrooms, especially shiitake (undercooked shiitake causes a flagellate rash) | Beta-glucans | **Medium–High** | Medium (biogenic amines) | Medium |
+| Dairy, especially whey (your observed trigger) | Insulin/IGF-1 → mTORC1 | Medium (personal trigger) | High (aged cheese) | Low |
+| Alcohol, especially beer and wine | Gut permeability; associated with psoriasis severity | **Medium–High** | **High** (wine, beer) | Medium |
+| Gluten (only if celiac antibodies are positive) | Gluten-specific immune activation | High if celiac, otherwise none | Low | Low |
+| Aged, fermented and cured foods: aged cheese, salami, sauerkraut, kimchi, soy sauce, vinegar, kombucha | Histamine load | Low | **High** | Medium–High |
+| Histamine liberators: citrus, strawberries, tomato, pineapple, papaya, chocolate, shellfish, egg white, nuts | Trigger mast cells to release histamine | Low–Medium (mast cell) | **High (release)** | Variable |
+| High-salicylate foods: berries, dried fruit, tomato, peppers, curry, paprika, cinnamon, mint, honey, almonds, tea, coffee, wine, most herbs and spices | Salicylate load | Low | Variable | **High** |
+| Nightshades: tomato, potato, peppers, eggplant | Anecdotal psoriasis trigger (NPF survey, self-report) | Low (anecdotal) | Medium (tomato, eggplant) | High (tomato, peppers) |
+| Ultra-processed food, refined sugar, high saturated fat | Western-diet pattern linked to IL-17 inflammation in mice | Medium | Low | Low |
+| Smoked or leftover fish, tuna, mackerel | Bacterial histamine production | Low | **High** | Low |
+
+**Foods that are low on all three** (a reasonable "safe base" while testing):
+- Fresh meat and poultry (cooked fresh or frozen straight away)
+- Freshly caught white fish
+- Rice, oats, quinoa
+- Peeled potato
+- Cabbage, Brussels sprouts, celery, lettuce, peeled zucchini, leeks, chives, green beans
+- Pears (peeled), bananas, mango
+- Olive oil (low salicylate in mild or refined grades; extra-virgin is moderate)
 
 ---
 
