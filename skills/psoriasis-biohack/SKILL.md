@@ -33,6 +33,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Triggers and lifestyle | §7 |
 | n-of-1 tracking and the ABAB elimination protocol | §8 |
 | PsA screening, when to escalate, biologics, cost help | §9 |
+| Latest drug approvals and pipeline (icotrokinra, zasocitinib, envudeucitinib, biosimilars, GUIDE, TOGETHER) as of Oct 2026 | §9.1 |
 | Sample weekly protocol | §10 |
 
 ## How to answer

@@ -713,11 +713,65 @@ Escalate if **BSA >10%, PASI >10, or DLQI >10**, or if the scalp, face, genitals
 | IL-23 | risankizumab, guselkumab, tildrakizumab | Dosed every 8–12 weeks. Very durable, good safety |
 | IL-12/23 | ustekinumab | Cheap biosimilars available |
 | TNF | adalimumab | Cheap biosimilars available. Less effective for skin |
-| Oral | deucravacitinib (TYK2), apremilast, methotrexate | Methotrexate needs folate and labs. Oral IL-23 (icotrokinra) is emerging |
+| Oral | deucravacitinib (TYK2), apremilast, methotrexate | Methotrexate needs folate and labs. **Oral IL-23 icotrokinra (Icotyde) approved Mar 2026.** See section 9.1 |
 
 **Cost help:** manufacturer copay cards (Skyrizi Complete, Cosentyx Connect, Taltz Together, Tremfya withMe, etc.), patient assistance programs, the **NPF Patient Navigation Center (psoriasis.org)**, PAN Foundation, HealthWell and NeedyMeds.
 
 **AD-specific escalation** (if the oozing turns out to be eczema): dupilumab, lebrikizumab or tralokinumab, nemolizumab, JAK inhibitors (upadacitinib, abrocitinib), ruxolitinib cream.
+
+### 9.1 Latest drug progress (as of October 2026)
+
+*Sources: FDA/EMA notices, company press releases, NEJM/BJD, and AAD 2026 trade-press coverage. Items marked [unverified] could not be confirmed from a primary source.*
+
+**Big picture**
+- **Effective pills have arrived.** Three new oral drugs reach about **55–65% PASI 90** (90% clearance) at week 16. That is roughly double deucravacitinib and approaches the older injectables. Injectable IL-17 and IL-23 biologics are still the most effective, and no pill has yet been shown to beat them head-to-head.
+- **Ustekinumab biosimilars cut prices 85–95%.**
+- **Treating early** (within about 2 years of onset) may give longer drug-free remissions.
+
+**Newly approved, 2024–2026**
+
+| Drug | Type | What's new | Date |
+|---|---|---|---|
+| **Icotrokinra (Icotyde)** | **Oral IL-23 receptor blocker**, once-daily pill | Moderate-to-severe psoriasis, ages ≥12 (≥40 kg). PASI 90: 50% vs 4% placebo (ICONIC-LEAD). **Beat deucravacitinib**: 55–58% vs 30–34% (ICONIC-ADVANCE). 75% of adolescents reached PASI 100 | FDA 18 Mar 2026; EU 2026 |
+| Deucravacitinib (Sotyktu) | Oral TYK2 inhibitor | Now also approved for **psoriatic arthritis** | FDA Mar 2026 |
+| Guselkumab (Tremfya) | IL-23 injection | **Children ≥6 years** | FDA Sep 2025 |
+| Roflumilast (Zoryve) | Topical PDE4 inhibitor | Foam for scalp and body (≥12 y, May 2025). Cream down to **age 2** (Jun 2026) | 2025–26 |
+| Spesolimab (Spevigo) | IL-36 receptor injection | Generalized pustular psoriasis: monthly injections to prevent flares; ages ≥12. Now owned by LEO Pharma | 2024 |
+| Tildrakizumab (Ilumya) | IL-23 injection | Psoriatic arthritis: **FDA decision due 29 Oct 2026** | Pending |
+
+**Coming next**
+
+| Drug | Type | Key result | Timing |
+|---|---|---|---|
+| **Zasocitinib (TAK-279, Takeda)** | Next-gen oral TYK2 inhibitor, once daily | **Head-to-head vs deucravacitinib:** PASI 100 36.5% vs 13.9%; PASI 90 62.5% vs 34.0% (week 16) | FDA Priority Review; **decision expected Q1 2027** |
+| **Envudeucitinib (ESK-001, Alumis)** | Oral TYK2 inhibitor, twice daily | PASI 90 about 53–60% at week 16, rising to 62–68% at week 24; PASI 100 about 40% at week 24. No heart, TB or lipid safety signals | FDA filing Q4 2026 → possible approval late 2027 |
+| Sonelokimab (MoonLake) | IL-17A/F nanobody injection | Psoriatic arthritis phase 3: ACR50 42%, PASI 90 61% | Full data 2027. No psoriasis-only phase 3 |
+| Icotrokinra vs ustekinumab (ICONIC-ASCEND) | Pill vs injectable | First test of whether a pill can beat a biologic | Results pending |
+| Simepdekinra (Lilly) | **Oral IL-17 inhibitor** | Phase 2 | About 2029 or later |
+| Izokibep | Small IL-17A binder | Dropped by Acelyrin; rights back with Affibody | Stalled |
+
+**Cost and access**
+- **Ustekinumab (Stelara) biosimilars launched in 2025.** About 9 versions: Wezlana, Steqeyma, Imuldosa, Pyzchiva, Otulfi, Yesintek and others.
+  - Stelara lists at about $25,500 per dose. Biosimilars list **85–95% cheaper** (Imuldosa about $2,300).
+  - Many US insurers now make cheap ustekinumab the first biologic you must try.
+- **Adalimumab biosimilars** are cheap and widely available.
+- **Secukinumab (Cosentyx):** biosimilars expected around 2029–30. Novartis runs a direct-to-patient cash program [unverified].
+- **Icotrokinra price:** not yet public.
+
+**How treatment strategy is changing**
+- **Treat early (GUIDE trial, guselkumab):** patients treated within about 15 months of onset stayed clear about **456 days** after stopping, vs 259 days for long-standing disease. Super-responders kept control with dosing every 16 weeks instead of every 8. Whether this truly modifies the disease is still a hypothesis.
+- **Short high-dose induction (KNOCKOUT, risankizumab, n=20):** 44% were still completely clear 36 weeks after the last dose, with a drop in the "memory" immune cells that cause plaques to return in the same spots. Small, early, but promising.
+- **Spacing out doses** of IL-23 drugs in fast clearers works in real-world studies.
+
+**Weight-loss drug combinations (TOGETHER trials, ixekizumab + tirzepatide)**
+- **Psoriasis:** PASI 100 plus ≥10% weight loss in 27% vs 6%. PASI 100 alone: 41% vs 29%.
+- **Psoriatic arthritis:** ACR50 plus ≥10% weight loss in 32% vs 1%.
+- These were open-label trials, and the combined endpoints favor the combination by design. Tirzepatide is not labeled for psoriasis.
+
+**What this means for you**
+- If you've relied on clobetasol for years and have more than about 10% body surface involved, the options have never been better. **A daily pill (icotrokinra) now rivals older injectables**, and cheap ustekinumab biosimilars make biologics easier to get covered.
+- Diagnosed recently, or still having frequent flares? Ask about **starting early** with an IL-23 biologic.
+- Bring your PASI/BSA photo log (section 8) to the appointment. It speeds up insurance approval.
 
 ---
 
