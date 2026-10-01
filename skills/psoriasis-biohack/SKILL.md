@@ -21,6 +21,14 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Histamine-lowering supplements (DAO, vitamin C, PEA, luteolin, low-histamine probiotics) | §6.1 |
 | Salicylate clearance support and the low-salicylate approach | §6.2 |
 | Supplements and foods with immune activation risk, plus a low-risk "safe base" food list | §6.3 |
+| High-histamine/high-sodium foods, DAO-inhibiting drinks and drugs | §6.4 |
+| DAO enzyme vs desiccated beef kidney; DAO, vitamin C and diet evidence | §6.5 |
+| Mast-cell stabilizers (luteolin, quercetin, curcumin, EGCG) | §6.6 |
+| Coffee, matcha, green tea, rooibos and coffee alternatives | §6.7 |
+| Plant milks (histamine, salicylate, nickel) | §6.8 |
+| Caffeine-free energy and a pre-workout protocol | §6.9 |
+| Fruits ranked by histamine and salicylate | §6.10 |
+| Dairy-free protein ranked for muscle gain; the user's personal triggers and swaps | §5 |
 | Triggers and lifestyle | §7 |
 | n-of-1 tracking and the ABAB elimination protocol | §8 |
 | PsA screening, when to escalate, biologics, cost help | §9 |
@@ -48,5 +56,6 @@ The full guide is at `references/guide.md`. Read only the section you need:
    - Taper to weekend pulse therapy plus calcipotriene.
    - No occlusion or wet wraps without a doctor.
 6. **Escalation:** state the rule of tens (BSA, PASI or DLQI over 10). Past that point, a biologic beats every biohack.
-7. **Self-experiments:** change one variable at a time, run a 2–4 week baseline, and keep a 6–8 week elimination window.
-8. Keep a friendly, practical tone. End with "not medical advice; confirm Rx and UV dosing with a dermatologist" only once, briefly.
+7. **Flag conflicts:** when an item is low-histamine but high-salicylate (or the reverse), say so. Separate personal-experience claims from trial evidence.
+8. **Self-experiments:** change one variable at a time, run a 2–4 week baseline, and keep a 6–8 week elimination window.
+9. Keep a friendly, practical tone. End with "not medical advice; confirm Rx and UV dosing with a dermatologist" only once, briefly.

@@ -313,7 +313,7 @@ These come from my own experience, not from trials. Each swap is lower-histamine
 | Dairy / cheese | Aged cheese, milk | Coconut milk, macadamia milk | Coconut is moderate in salicylate |
 | Condiments | Teriyaki sauce (fermented soy) | Coconut aminos | Coconut aminos is lightly fermented. Most people tolerate it, but test it |
 | Dips / legumes | Hummus (chickpeas, tahini) | Zucchini "hummus" (no tahini), pumpkin seed dip | Guacamole: avocado is **high in histamine and salicylate** on most lists. Some lists also flag pumpkin seeds |
-| Fruit | Banana | Pears (peeled), apples | Blueberries, cherries and apples are **high in salicylate**. Peeled pear is the only option that is low in both |
+| Fruit | Banana | Peeled golden pear, peeled golden delicious apple | Blueberries, cherries, tart and unpeeled apples are **high in salicylate**. See section 6.10 |
 | Sweets / drinks | Chocolate, wine, beer | Carob, fresh herbal tea; clear spirits (vodka or gin with plain soda) | Clear spirits are lower in histamine than wine or beer, but **alcohol of any kind is linked to psoriasis severity**. Keep it rare. Many herbal teas are high in salicylate |
 
 ---
@@ -427,8 +427,152 @@ No supplement is proven to "lower salicylate levels." The body clears salicylate
 - Rice, oats, quinoa
 - Peeled potato
 - Cabbage, Brussels sprouts, celery, lettuce, peeled zucchini, leeks, chives, green beans
-- Pears (peeled), mango (banana is a personal trigger, so it is left off)
+- Peeled golden pear, peeled golden delicious apple (banana is a personal trigger, so it is left off; mango is borderline)
 - Olive oil (low salicylate in mild or refined grades; extra-virgin is moderate)
+
+### 6.4 High-histamine and high-sodium foods, and DAO inhibitors
+
+**Why sodium matters for psoriasis:** high salt pushes immune cells toward Th17, the same IL-17 pathway that drives psoriasis (Kleinewietfeld, *Nature* 2013). High-salt diets also worsen psoriasis-like skin inflammation in mice. Foods that are both aged and salty hit you twice.
+
+**High-histamine and high-sodium foods to avoid**
+
+| Category | Foods | Why |
+|---|---|---|
+| Cured and processed meats | Bacon, sausage, salami, pepperoni, hot dogs | Aged (histamine) + high sodium |
+| Aged cheeses | Parmesan, cheddar, Swiss, Gouda, blue cheese | Very high histamine; also dairy |
+| Fermented foods and sauces | Soy sauce, teriyaki, sauerkraut, kimchi, pickles, fish sauce | Fermentation produces histamine; high sodium |
+| Canned and preserved foods | Canned soups, canned fish (sardines, tuna), canned vegetables | Canned fish is very high in histamine. Soups and vegetables are mainly a sodium problem |
+| Alcohol and salty snacks | Beer, wine, salted nuts, pretzels, commercial potato chips | Beer and wine carry histamine and block DAO. Nuts are histamine liberators |
+
+**DAO inhibitors to avoid or minimize**
+
+| Category | Items | Notes |
+|---|---|---|
+| Drinks | Alcohol, green tea, black tea, energy drinks | Alcohol inhibits DAO and competes for the same breakdown pathway. Tea catechins (EGCG) inhibit DAO, matching your Notion note. Energy drinks are a weaker, mostly additive-based concern |
+| Medications (**never stop a prescribed drug without your doctor**) | NSAIDs (ibuprofen, naproxen); certain antibiotics; **cimetidine** | NSAIDs mostly raise gut permeability and can release histamine; they are also a possible psoriasis trigger. Antibiotics with lab or clinical evidence of DAO inhibition: **clavulanic acid** (in Augmentin), isoniazid. Other DAO inhibitors include metoclopramide, verapamil, amitriptyline and chloroquine. Among H2 blockers, **cimetidine** inhibits DAO. Famotidine is not a meaningful inhibitor and is used to *treat* histamine symptoms (section 6.1), though long-term acid suppression does change the gut microbiome |
+| Gut irritants | Artificial sweeteners, ultra-processed additives (emulsifiers), chronic stress | DAO is made in the gut lining, so anything that damages the lining lowers DAO output. The evidence is mostly animal and mechanistic |
+
+### 6.5 DAO sources: isolated enzyme vs desiccated beef kidney
+
+| Feature | Isolated DAO supplement (e.g. Umbrellux, NaturDAO) | Desiccated beef kidney |
+|---|---|---|
+| Active ingredient | Purified DAO from pork kidney (Umbrellux, Histamine Block) or pea sprouts (NaturDAO; vegan) | 100% freeze-dried grass-fed bovine kidney |
+| Potency | Standardized, about 10,000 HDU per capsule and higher for some brands | Not standardized; enzyme activity varies batch to batch |
+| Cofactors | No, unless the product adds them | Naturally contains copper, B6, B12 and selenium |
+| Fillers | Often microcrystalline cellulose and enteric coatings | Usually just organ tissue in a gelatin capsule |
+| Best use | Taken 15 min before a high-histamine meal for reliable breakdown | Food-based support plus cofactors |
+| Evidence | **B-** (small RCTs) | **None.** No trials. The idea that it "supports your body's long-term DAO production" is unproven: swallowed DAO works on food histamine in the gut, it isn't absorbed to build your own |
+| Cautions | Pork-derived versions are not suitable for some diets | Very high in purines (gout or kidney stone risk). Copper and selenium add up if you also take them separately (you take both). Some low-histamine lists flag organ meats. Test with the n-of-1 method |
+
+**Choose an isolated DAO supplement if** you need reliable relief at a specific high-histamine meal, want a plant-based option (pea-sprout DAO), or want a standardized dose (HDU on the label).
+
+**Choose beef kidney if** you want a whole-food option with cofactors and a short ingredient list. Claims that it supports "kidney function" or "thyroid health" have no evidence behind them.
+
+**How to take either:** 15–20 minutes before your first bite. DAO only works inside the gut, so it has to be there when the food arrives.
+
+**What the evidence shows**
+
+| Intervention | Mechanism | Evidence (as reported) |
+|---|---|---|
+| DAO supplement | Breaks down histamine from food inside the small intestine | Fewer **digestive** symptoms in histamine intolerance (Schnedl 2019, n=14, open-label). Lower hives scores and less antihistamine use in **chronic hives** patients with low DAO (Yacoub 2018, RCT n=20). **No study has tested it on eczema weeping or psoriasis.** The skin benefit is an extrapolation |
+| Vitamin C | Speeds the breakdown of histamine in the blood | Blood histamine is higher when vitamin C is low (Clemetson 1980, observational). **2 g/day** cut blood histamine by about 38% (Johnston 1992). That figure comes from 2 g/day, not 1 g |
+| Low-histamine diet | Removes histamine from food and the foods that release it | Uncontrolled studies show improvement in a subset of eczema patients, mostly those with low DAO (Maintz 2006). The claim that it prevents capillary leak and oozing is a mechanism, not a measured result. Test it with the n-of-1 method |
+
+**Verdict:** if you want a reliable effect at specific meals, use a standardized DAO enzyme. Beef kidney is reasonable as a whole-food cofactor source, but don't count on it for meal-time histamine breakdown, and adjust your separate copper and selenium doses to avoid getting too much.
+
+### 6.6 Natural mast-cell stabilizers compared
+
+**Caveat:** almost all the mast-cell data comes from lab studies on cells (Theoharides lab; Weng 2012, *PLoS One*). There are very few human skin trials. Several of these compounds and their food sources are **high in salicylate** or **inhibit DAO**, so match them to the sensitivity you're testing.
+
+| Compound | Food sources | Mechanism (lab studies) | Potency and absorption | Salicylate / DAO conflicts | Verdict |
+|---|---|---|---|---|---|
+| **Luteolin** | Celery (low salicylate), chamomile, green peppers, oregano | Blocks mast-cell signaling; lowers IL-6 and TNF-α | **Most potent of the group in lab studies.** Beat cromolyn (a prescription mast-cell stabilizer) at blocking human mast-cell release (Weng 2012). Cromolyn itself works poorly on human skin mast cells, so this is a low bar in practice | Chamomile, peppers and oregano are high in salicylate. Supplement luteolin is moderate | **Best pick** if you take one, especially during a salicylate trial. 50–100 mg/day, often combined with PEA |
+| **Quercetin** | Red onion, capers, apples, berries | Lowers NF-κB and inhibits protein kinase C, stabilizing the mast-cell membrane | Effective in lab studies, but plain quercetin is **poorly absorbed**. Use phytosome or liposomal forms | **High salicylate** (supplement and the listed foods), and it may inhibit DAO in some lab studies | Calling it the "gold standard" overstates the evidence. Good if you're not salicylate-sensitive. 250–500 mg twice daily (phytosome) |
+| **Curcumin** | Turmeric | Inhibits COX-2 and NF-κB; reduces histamine release and vascular leak | Needs piperine or a phytosome/liposomal form to be absorbed | **High salicylate** (your table). Weak DAO inhibition in lab studies. **Piperine changes how the liver processes many drugs** (CYP3A4, P-gp), so check it against cyclosporine, methotrexate, blood thinners and other medications | Has the best psoriasis evidence of the four (Antiga 2015, Meriva). Prefer a **phytosome form without piperine** if you take medications |
+| **EGCG** | Green tea | Binds the IgE receptor (FcεRI) on mast cells and blocks allergy signals | Moderate | **Inhibits DAO** (your Notion note). High doses (over about 800 mg/day of EGCG) carry a **liver toxicity** risk (EFSA 2018) | **Skip if you're histamine-sensitive.** Topical green tea is fine |
+
+### 6.7 Coffee: a possible hidden trigger for oozing flares
+
+Fresh green coffee beans are low in histamine, but coffee may still raise histamine activity. The proposed mechanisms, with the strength of evidence for each:
+
+| Proposed mechanism | Evidence strength |
+|---|---|
+| **Caffeine blocks DAO**, so histamine from food lingers | Weak. Caffeine appears on most DAO-inhibitor lists, but the data is mostly lab work |
+| **Coffee triggers mast cells to release histamine** | Weak. The "histamine spike" seen in studies is in the *brain* (caffeine's wake-up effect), not the skin |
+| **Fermentation and storage** add biogenic amines, especially in pre-ground and cheap coffee | Plausible. Levels are generally low |
+| **It widens skin blood vessels and pushes fluid out of broken skin** | Speculative. Caffeine mostly *narrows* blood vessels. No study has linked coffee to oozing |
+| **Coffee is very high in salicylate** (RPAH lists) | **Solid.** If you're salicylate-sensitive, this is the most likely problem |
+
+**For psoriasis specifically:** large cohort studies found no link between coffee and developing psoriasis (Nurses' Health Study). For eczema-type oozing, test it the same way as dairy: 3–4 weeks without coffee, then reintroduce it.
+
+**Alternatives**
+
+| Option | Histamine | Salicylate | Notes |
+|---|---|---|---|
+| **Rooibos tea** | Low (generally tolerated) | Moderate | Caffeine-free. Contains small amounts of quercetin and luteolin. "Rich in" overstates it |
+| **Swiss Water decaf**, single origin, fresh beans | Lower (no caffeine) | Moderate (lower than regular coffee) | Keeps the coffee ritual. Buy whole beans and grind fresh to limit amines |
+| **Roasted carob drink** | Low | Low–moderate | Coffee-like roasted flavor. Also replaces chocolate (one of your triggers) |
+| **Roasted grain "coffee"** (barley, rye, e.g. Pero, Inka) | Low | Low | Contains gluten, so only if gluten isn't a problem for you |
+| Roasted chicory or dandelion | Low | Moderate | Some people get gut reactions (inulin) |
+
+**Drink comparison (how the low-histamine community ranks them)**
+
+These are not trial results. "Weeping risk" is a ranking extrapolated from mechanisms.
+
+| Drink | Histamine effect | DAO effect | Weeping risk (estimated) | Salicylate |
+|---|---|---|---|---|
+| Coffee | High (proposed histamine releaser + DAO inhibitor) | Inhibits (weak evidence) | High | **High** |
+| Matcha | Moderate (concentrated EGCG + caffeine) | Inhibits (EGCG) | Moderate–high | High |
+| Steeped green tea | Low–moderate | Mild inhibition | Moderate | High |
+| Rooibos | Low (caffeine-free) | Not known to inhibit | Very low | Moderate |
+| Plain water, fresh herbal infusions (peppermint is high salicylate; pick low-salicylate options like fresh ginger in small amounts) | Low | None | Very low | Varies |
+
+### 6.8 Plant milks compared
+
+| Plant milk | Histamine | Salicylate | Nickel | Eczema safety (community rating) | Notes |
+|---|---|---|---|---|---|
+| **Rice milk** | Very low | Very low | Low | Safest (10/10). Lowest allergy profile | Very low in protein. Contains **inorganic arsenic**: fine in moderation, but the UK Food Standards Agency advises against it for children under 5 |
+| **Oat milk** (clean, oil-free) | Low | Low | **Moderate–high** (oats are one of the higher-nickel grains) | High (8.5/10) | Creamy. Check labels for seed oils and added phosphates. Use certified gluten-free oats if gluten is a concern |
+| **Flax milk** | Low | Low | Low | High (8/10) | Its omega-3 is ALA, and only a small fraction converts to EPA/DHA. Not a fish-oil substitute |
+| **Hemp milk** | Low | Low–moderate | Low–moderate | Good | A middle option |
+| **Almond milk** | Moderate (nuts release histamine) | **High** | Moderate | Poor (4/10) | Avoid during a salicylate trial |
+| **Coconut milk** | Low | **Moderate–high** (lists disagree) | Low | Poor (3/10) if salicylate-sensitive | Fine if histamine is your only issue (it was listed as a swap in "My personal triggers"). Avoid during a salicylate trial |
+| **Macadamia milk** | Low | Moderate | Low–moderate | Fair | Your current swap. Test it |
+| **Soy milk** | Moderate–high (soy releases histamine) | Moderate | **Very high** | Avoid (1/10) | Mainly a problem with **systemic nickel allergy** (a positive nickel patch test) or histamine sensitivity |
+
+**Nickel only matters if you have systemic nickel allergy** (a positive patch test plus hand or flexural eczema). It is not a psoriasis trigger.
+
+### 6.9 Caffeine-free energy (DAO- and skin-friendly)
+
+| Category | Option | How it helps energy | Skin and histamine profile | Evidence and notes |
+|---|---|---|---|---|
+| Metabolic | **CoQ10 (ubiquinol)** (you take it) | Part of the mitochondrial ATP chain | Non-stimulating, no known DAO effect, antioxidant | **C.** It noticeably raises energy only in people who are deficient (statin users, older adults). 100–200 mg with fat |
+| Adaptogen | **Rhodiola rosea** | Reduces stress-related fatigue | Effects on mast cells and DAO are **unknown, not proven safe** | **B-** for fatigue (several small RCTs). 200–400 mg (3% rosavins) in the morning. Interacts with SSRIs and MAOIs; avoid in bipolar disorder. Some immune-modulating data, so introduce it on its own and track |
+| B-vitamin | **P5P (active B6)** | Energy-metabolism cofactor; the DAO enzyme needs it | Supports DAO | Gives no "energy boost" unless you're low. 10–25 mg/day. **Keep under 50 mg/day** (nerve damage risk), and count B6 from multivitamins |
+| Drink | **Rooibos tea** (hot or iced) | Ritual and hydration | Caffeine-free, generally low-histamine | Contains only small amounts of quercetin/luteolin. The mast-cell benefit is minor |
+| Pre-workout carbs | Tart cherry juice | Fast carbs | Low histamine, but **cherries are high in salicylate**. Diluting doesn't change that | Fine if you aren't salicylate-sensitive. Low-salicylate alternatives: **peeled pear, rice cakes with maple syrup, white rice** |
+| Training | **Creatine monohydrate** 3–5 g/day | Improves high-intensity work and muscle gain (grade **A** for performance) | No histamine or DAO concerns; non-stimulating | Strongest evidence of anything here for gym performance |
+
+**Non-caffeine energy products to avoid**
+- **Ginseng and maca:** ginseng is an immune stimulant (section 6.3). Maca has little data either way, so if you try it, test it on its own.
+- **Guarana, yerba mate and green tea extract:** caffeine plus catechins (DAO inhibition), and yerba mate is high in salicylate.
+- **Chicory and dandelion "coffee":** the claim that roasting creates amines is speculative. Inulin gut reactions and moderate salicylate are the more realistic issues.
+
+**Pre-workout protocol (histamine- and salicylate-friendly)**
+1. **Hydrate:** 16 oz cold water. Add a pinch of salt only if you sweat heavily. Your daily sodium total matters more (section 6.4).
+2. **Supplements with a light snack** (peeled pear or a rice cake): 100 mg CoQ10 + 10–25 mg P5P. Add 3–5 g creatine any time of day.
+3. **Drink:** chilled rooibos. Have the egg white protein shake **after** training, when you need the leucine. Shaking protein into tea works but foams a lot. Test egg white tolerance if you're histamine-sensitive (section 5).
+### 6.10 Fruits compared
+
+| Fruit | Histamine | Salicylate (RPAH lists) | Eczema safety | Notes |
+|---|---|---|---|---|
+| **Peeled golden pear** | Very low | Very low | Safest fruit | Ripe and peeled. Canned pears in syrup are also low |
+| **Peeled golden delicious apple** | Very low | Low | Safe | **Variety matters.** Red delicious is moderate. Granny Smith and other tart apples, and unpeeled apples, are high |
+| **Papaya** (fresh) | **Histamine liberator** on SIGHI lists | Low–moderate | Moderate (better than pineapple) | Test it yourself. Some people react |
+| **Blueberries** | Low | **High** (most berries are very high on RPAH lists) | Safe in moderation **only if not salicylate-sensitive** | Avoid during a salicylate trial |
+| Banana | Liberator on some lists | Low | Personal trigger for me | Avoid (my experience) |
+| Mango | Low | Moderate–high (lists disagree) | Test it | |
+| Citrus, strawberries, pineapple | Liberators | High | Avoid when histamine-sensitive | |
 
 ---
 
@@ -539,3 +683,9 @@ Supplements: omega-3 2–3 g, bioavailable curcumin, strain-specific probiotic, 
 - Philips PL-L 36W/01 — https://solarcsystems.com/product/pl-l36w01/
 - AAD bleach bath — https://www.aad.org/public/diseases/eczema/childhood/itch-relief/bleach-bath
 - FDA 21 CFR 878.4630 — https://www.law.cornell.edu/cfr/text/21/878.4630
+- Clemetson CAB (1980). Histamine and ascorbic acid in human blood. *J Nutr* 110(4):662–668 — https://doi.org/10.1093/jn/110.4.662
+- Johnston CS et al. (1992). Antihistamine effect of supplemental ascorbic acid and neutrophil chemotaxis. *J Am Coll Nutr* 11(2):172–176 — https://pubmed.ncbi.nlm.nih.gov/1578094/
+- Schnedl WJ et al. (2019). Diamine oxidase supplementation improves symptoms in patients with histamine intolerance. *Food Sci Biotechnol* 28(6):1779–1784 — https://doi.org/10.1007/s10068-019-00627-3
+- Yacoub M-R et al. (2018). Diamine oxidase supplementation in chronic spontaneous urticaria: a randomized, double-blind placebo-controlled study. *Int Arch Allergy Immunol* 176(3–4):268–271 — https://doi.org/10.1159/000488142
+- Kleinewietfeld M et al. (2013). Sodium chloride drives autoimmune disease by the induction of pathogenic TH17 cells. *Nature* 496:518–522 — https://doi.org/10.1038/nature11868
+- Lee AN, Werth VP (2004). Activation of autoimmunity following use of immunostimulatory herbal supplements. *Arch Dermatol* 140(6):723–727 — https://doi.org/10.1001/archderm.140.6.723
