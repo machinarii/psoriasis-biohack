@@ -522,10 +522,11 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 
 | Drink | Histamine effect | DAO effect | Weeping risk (estimated) | Salicylate |
 |---|---|---|---|---|
-| Coffee | High (proposed histamine releaser + DAO inhibitor) | Inhibits (weak evidence) | High | **High** |
-| Matcha | Moderate (concentrated EGCG + caffeine) | Inhibits (EGCG) | Moderate–high | High |
+| Coffee (about 95–150 mg caffeine) | High (proposed histamine releaser + DAO inhibitor) | Inhibits (weak evidence) | High (2/10) | **High.** Some tables rate coffee "low–moderate", but RPAH lists rate coffee high and instant coffee very high |
+| Matcha (about 40–90 mg caffeine) | Moderate (concentrated EGCG + caffeine) | Inhibits strongly (EGCG) | Moderate–high (3.5/10) | High |
 | Steeped green tea | Low–moderate | Mild inhibition | Moderate | High |
-| Rooibos | Low (caffeine-free) | Not known to inhibit | Very low | Moderate |
+| **Hojicha** (roasted green tea, about 10–20 mg caffeine) | Low–moderate | Lower than green tea. Roasting **reduces** EGCG but doesn't eliminate it | Moderate–low (rated 7.5/10 in community tables) | **High** (still tea leaf; RPAH rates most teas high) |
+| **Rooibos** | Low (caffeine-free) | Not known to inhibit | Very low (10/10, the safest pick) | Low–moderate (lists disagree) |
 | Plain water, fresh herbal infusions (peppermint is high salicylate; pick low-salicylate options like fresh ginger in small amounts) | Low | None | Very low | Varies |
 
 ### 6.8 Plant milks compared
