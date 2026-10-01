@@ -273,27 +273,48 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 - **Plausible mechanism:** whey spikes insulin and casein raises IGF-1. Both activate mTORC1, which is overactive in psoriatic skin. (That mechanism is established in acne.)
 - Your consistent pattern is a good reason to **formally test it** (section 8) and to switch protein sources.
 
-### Dairy-free post-workout animal protein
+### Dairy-free protein for building muscle
 
-**Target:** about 2.5–3 g leucine per serving, roughly 0.4 g protein per kg body weight.
+Three things decide how well a protein builds muscle:
+1. **Leucine content.** Leucine is the amino acid that switches on muscle protein synthesis. Aim for about **2.5 g leucine per meal**.
+2. **Digestibility and digestion speed.** How much of the protein you actually absorb, and how fast.
+3. **Complete amino-acid profile.** All 9 essential amino acids in useful amounts.
 
-| Source | Leucine | Serving for about 2.5 g leucine | Notes |
-|---|---|---|---|
-| **Egg white protein powder** | about 8.5–8.8% | about 30 g protein | Best dairy-free powder. Complete protein, cheap, mixes like whey |
-| **Beef protein isolate** | varies | 30–40 g | **Check the amino-acid panel.** Many are mostly collagen (high glycine/proline = low quality) |
-| Chicken breast | about 8% | 120–150 g cooked | Whole food |
-| Salmon / tuna | about 8% | about 130 g cooked | Salmon adds omega-3s |
-| Whole eggs + liquid whites | about 8.5% | 2 eggs + 200 ml whites | Easy post-workout scramble |
-| Collagen peptides | about 3%, incomplete | n/a | **Doesn't count toward muscle building.** Add 2–3 g free leucine if you use it |
-| Pea/soy blend (if plant is OK) | about 7–8% | about 35 g | Add 1–2 g leucine |
+**Ranking (non-dairy animal protein)**
+
+| Rank | Source | Leucine | Digestibility | Serving for about 2.5 g leucine | Notes |
+|---|---|---|---|---|---|
+| 1 | **Egg white protein powder / whole eggs** | about 8.5–8.8% | PDCAAS 1.0 (the maximum score) | about 30 g protein (2.2–2.5 g leucine) | Best powder for muscle. Digests moderately fast. Mix with water, oat or macadamia milk |
+| 2 | **Lean whole meat**: chicken, turkey, beef, fresh fish | about 8% | about 0.92–0.96 | 120–150 g cooked chicken, about 130 g fish | Complete muscle-tissue profile. **Whole beef beats beef powder** |
+| 3 | **Beef protein isolate (BPI)** | about 6–7%, varies by brand | High, fast | 35–40 g | Most are made from hydrolyzed beef gelatin and collagen, so lower in essential amino acids. Check the amino-acid panel, or add 1 g leucine |
+| — | Collagen peptides | about 3%, incomplete | n/a | n/a | Good for joints and skin, **not muscle**. Don't count it toward your protein target |
+| — | Plant options (rice, hemp, pea) if tolerated | about 6–8% | 0.6–0.9 | about 35–40 g | Add 1–2 g leucine. Rice + pea blends complete each other |
+
+**Practical verdict**
+- **Best powder:** egg white protein isolate.
+- **Best whole food:** lean poultry, or whole eggs and egg whites, eaten within 1–2 hours after training.
+- **What matters most:** total daily protein of **1.6–2.2 g/kg (about 0.7–1.0 g/lb)**. Once you hit that, all of these complete animal sources build muscle about equally well. The leucine threshold per meal is a secondary optimization.
 
 **Hidden dairy to avoid during the trial:** Greek yogurt, casein, "milk protein isolate," and whey in bars and pre-mixed shakes. Read labels.
 
 **If you're also histamine-sensitive** (see section 6.1):
-- Low-histamine diet lists flag **egg white** as a histamine liberator, and **tuna, mackerel and leftover fish** as high-histamine.
-- Safer post-workout options are **freshly cooked chicken or beef**, or a **beef protein isolate**.
+- Some low-histamine diet lists flag **raw egg white** as a histamine liberator. Cooked eggs and egg white powder seem to be tolerated by most people, but test them yourself.
+- Tuna, mackerel and leftover fish are high-histamine.
+- Freshly cooked chicken or beef is the safest fallback.
 - Eat meat within a day of cooking, or freeze it straight away. Histamine builds up in leftovers.
-- Test egg white separately rather than assuming it's safe.
+
+### My personal triggers and swaps
+
+These come from my own experience, not from trials. Each swap is lower-histamine, but some are **high in salicylate** (noted), so pick based on which sensitivity you're testing.
+
+| Category | My triggers | Swaps that work for me | Watch-outs |
+|---|---|---|---|
+| Protein / powders | Milk, whey protein | Egg white protein; rice or hemp protein | Plant powders are lower in leucine, so add 1–2 g |
+| Dairy / cheese | Aged cheese, milk | Coconut milk, macadamia milk | Coconut is moderate in salicylate |
+| Condiments | Teriyaki sauce (fermented soy) | Coconut aminos | Coconut aminos is lightly fermented. Most people tolerate it, but test it |
+| Dips / legumes | Hummus (chickpeas, tahini) | Zucchini "hummus" (no tahini), pumpkin seed dip | Guacamole: avocado is **high in histamine and salicylate** on most lists. Some lists also flag pumpkin seeds |
+| Fruit | Banana | Pears (peeled), apples | Blueberries, cherries and apples are **high in salicylate**. Peeled pear is the only option that is low in both |
+| Sweets / drinks | Chocolate, wine, beer | Carob, fresh herbal tea; clear spirits (vodka or gin with plain soda) | Clear spirits are lower in histamine than wine or beer, but **alcohol of any kind is linked to psoriasis severity**. Keep it rare. Many herbal teas are high in salicylate |
 
 ---
 
@@ -406,7 +427,7 @@ No supplement is proven to "lower salicylate levels." The body clears salicylate
 - Rice, oats, quinoa
 - Peeled potato
 - Cabbage, Brussels sprouts, celery, lettuce, peeled zucchini, leeks, chives, green beans
-- Pears (peeled), bananas, mango
+- Pears (peeled), mango (banana is a personal trigger, so it is left off)
 - Olive oil (low salicylate in mild or refined grades; extra-virgin is moderate)
 
 ---
