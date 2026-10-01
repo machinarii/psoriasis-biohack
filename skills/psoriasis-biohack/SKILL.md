@@ -28,6 +28,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Plant milks (histamine, salicylate, nickel) | §6.8 |
 | Caffeine-free energy and a pre-workout protocol | §6.9 |
 | Fruits ranked by histamine and salicylate | §6.10 |
+| Electrolytes, potassium citrate trigger and potassium-vs-citrate test, salicylate-free vitamin C | §6.11 |
 | Dairy-free protein ranked for muscle gain; the user's personal triggers and swaps | §5 |
 | Triggers and lifestyle | §7 |
 | n-of-1 tracking and the ABAB elimination protocol | §8 |

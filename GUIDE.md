@@ -311,6 +311,7 @@ These come from my own experience, not from trials. Each swap is lower-histamine
 |---|---|---|---|
 | Protein / powders | Milk, whey protein | Egg white protein; rice or hemp protein | Plant powders are lower in leucine, so add 1–2 g |
 | Dairy / cheese | Aged cheese, milk | Coconut milk, macadamia milk | Coconut is moderate in salicylate |
+| Electrolytes / drinks | Potassium citrate, coconut water | Plain water + a pinch of salt; magnesium glycinate | See section 6.11. Coconut water is very high in potassium |
 | Condiments | Teriyaki sauce (fermented soy) | Coconut aminos | Coconut aminos is lightly fermented. Most people tolerate it, but test it |
 | Dips / legumes | Hummus (chickpeas, tahini) | Zucchini "hummus" (no tahini), pumpkin seed dip | Guacamole: avocado is **high in histamine and salicylate** on most lists. Some lists also flag pumpkin seeds |
 | Fruit | Banana | Peeled golden pear, peeled golden delicious apple | Blueberries, cherries, tart and unpeeled apples are **high in salicylate**. See section 6.10 |
@@ -572,7 +573,51 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 | **Blueberries** | Low | **High** (most berries are very high on RPAH lists) | Safe in moderation **only if not salicylate-sensitive** | Avoid during a salicylate trial |
 | Banana | Liberator on some lists | Low | Personal trigger for me | Avoid (my experience) |
 | Mango | Low | Moderate–high (lists disagree) | Test it | |
-| Citrus, strawberries, pineapple | Liberators | High | Avoid when histamine-sensitive | |
+| Citrus, strawberries, pineapple | Liberators | High | Avoid when histamine-sensitive. **Pineapple is a personal trigger** | |
+### 6.11 Electrolytes, potassium citrate, and choosing vitamin C
+
+#### Potassium citrate: a personal trigger
+
+**My experience:** potassium citrate (as an electrolyte or supplement) reliably triggers oozing for me. I react the same way to pineapple, coconut water and teriyaki. During an active oozing flare I stop it completely. *Eczema safety rating (personal): avoid, 2/10.*
+
+**What the evidence says about the proposed mechanisms:**
+
+| Proposed mechanism | Evidence |
+|---|---|
+| Citrate acts like a salicylate and releases mast-cell histamine | **Unsupported.** Citrate is not a salicylate. It is a normal body chemical (part of the energy cycle that makes ATP), and the body handles grams of it daily. The low-histamine reference list (SIGHI) generally rates added citric acid as tolerated. Your Notion table's salicylate rating for potassium and calcium citrate has no chemical basis |
+| A sudden dose of potassium widens skin blood vessels and pushes fluid out | **Speculative.** Potassium does relax blood vessels locally, but normal supplement doses keep blood potassium in range. No study has linked oral potassium to eczema weeping |
+| **Pattern worth noticing:** coconut water, banana, avocado (guacamole) and chickpeas (hummus) are all **very high in potassium**, and most of them are on your trigger list | This fits a potassium explanation (or a "plant food concentrate" explanation) better than a citrate one |
+
+**An n-of-1 test that separates potassium from citrate** (only when the skin is calm, and only if you have normal kidney function and take no ACE inhibitors, ARBs or spironolactone):
+1. **Potassium without citrate:** a little potassium chloride salt substitute (e.g. NoSalt, about 1/8 tsp ≈ 300–400 mg potassium) in water, once daily for 3 days.
+2. Wait for the skin to settle completely.
+3. **Citrate without potassium:** buffered **sodium** citrate or plain citric acid at a similar dose, for 3 days.
+- **Reaction to 1 only:** potassium is the trigger. **Reaction to 3 only:** citrate is the trigger. **Both:** a general sensitivity to concentrates or acids.
+
+**Safety:**
+- If potassium citrate was **prescribed** (e.g. for kidney stones), don't stop it without your doctor.
+- Don't cut *dietary* potassium low long-term. It protects blood pressure and the heart, and psoriasis already raises cardiovascular risk. Low-trigger potassium sources: potatoes (peeled), chicken, fish, pears, cabbage, rice.
+
+#### Hydrating safely after workouts
+
+- **Plain cold water** plus a **small pinch of salt** if you sweat heavily. "Unrefined sea salt" is nutritionally the same as table salt; trace minerals are negligible.
+- Keep **total daily sodium moderate** (section 6.4, the Th17 link). A pinch after a sweaty workout is fine; salty processed foods are not.
+- **Magnesium glycinate** for minerals: gentle on the gut and low-histamine.
+- **Electrolyte powders:** read labels and avoid potassium citrate, magnesium citrate and calcium citrate (based on your own experience). Also skip fruit-flavored and "natural flavor" powders (salicylates).
+
+#### Vitamin C without salicylates
+
+**Pure ascorbic acid contains no salicylate** (it is chemically unrelated). Many commercial vitamin C products contain salicylate from other ingredients:
+- **Botanical sources:** acerola cherry, rose hips, camu camu and citrus bioflavonoids are high in salicylate.
+- **Flavorings and colors:** orange, berry and citrus-oil flavors in chewables and gummies.
+- **Plant-based coatings and binders.**
+
+**How to choose:**
+1. Buy **unflavored 100% USP ascorbic acid** powder or capsules. A buffered form (**calcium ascorbate** or **sodium ascorbate**) is gentler on the stomach. Sodium ascorbate adds about 110 mg of sodium per gram, so count it toward your sodium total.
+2. Check the "other ingredients" line: no fruit flavors, bioflavonoids, rose hips or plant colorings.
+3. **Skip chewables and gummies.**
+
+This makes vitamin C compatible with both a low-histamine and a low-salicylate plan (section 6.1 dosing: 500–1000 mg twice daily). It also replaces the advice to "avoid ascorbate forms," which conflicts with using vitamin C for histamine.
 
 ---
 
