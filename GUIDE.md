@@ -249,6 +249,15 @@ Your current tools (Hibiclens, bleach bath, steroid) are standard. Add the follo
 - Large areas, occlusion or more than 50 g a week risk HPA-axis suppression.
 - Repeated cycles of "stop → red, burning flare" suggest steroid dependence. Discuss it with your dermatologist.
 
+**Plastic-wrap occlusion for stubborn plaques (personal experience; grade B)**
+
+Wrapping clobetasol cream under plastic wrap (Saran or cling film) helped me clear thick plaques. Dermatologists use this too: occlusion pushes far more steroid into thick scale, and trials of clobetasol under occlusive dressings show faster clearing than open application. The same boost in absorption is why it needs tight limits:
+- **Only on a few small, thick, stubborn plaques** (elbows, knees, shins, palms, soles). Never on the face, folds, groin, thin skin, or oozing, cracked or infected skin.
+- **Thin layer, wrap overnight** (or a few hours), then remove and let the skin breathe. Use it for a short run of nights, not as the daily routine.
+- **Count it toward the 50 g/week and 2-week limits,** and step down to weekend pulse therapy once plaques flatten.
+- **Stop and tell your dermatologist** if you notice thinning, shiny skin, stretch marks, visible blood vessels, or folliculitis or pus bumps under the wrap.
+- Best done with your dermatologist's OK, especially for children or larger areas.
+
 ### Non-steroid prescription topicals (no time limit, safe on face and folds)
 
 Ask your dermatologist about these to replace or rotate with clobetasol:

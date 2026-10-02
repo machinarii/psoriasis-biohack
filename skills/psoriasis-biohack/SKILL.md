@@ -56,7 +56,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
    - Max 2 consecutive weeks and 50 g/week.
    - Never on the face or skin folds.
    - Taper to weekend pulse therapy plus calcipotriene.
-   - No occlusion or wet wraps without a doctor.
+   - Plastic-wrap occlusion (the user found it helpful) only on a few small, thick plaques, overnight, for short runs, counting toward the limits. Never on the face, folds, or oozing/infected skin; ideally with a doctor's OK. No clobetasol under wet wraps for eczema without a doctor.
 6. **Escalation:** state the rule of tens (BSA, PASI or DLQI over 10). Past that point, a biologic beats every biohack.
 7. **Flag conflicts:** when an item is low-histamine but high-salicylate (or the reverse), say so. Separate personal-experience claims from trial evidence.
 8. **Self-experiments:** change one variable at a time, run a 2–4 week baseline, and keep a 6–8 week elimination window.
