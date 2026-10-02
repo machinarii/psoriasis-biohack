@@ -692,7 +692,11 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
   - Change pillowcases 2–3× a week and sheets and duvet covers weekly.
   - Wash hot (at least 60 °C / 140 °F) to kill dust mites, with fragrance-free detergent and no fabric softener or dryer sheets.
   - Use a **hypoallergenic pillow** and **allergen-proof (dust-mite) encasements** for the pillow, mattress and duvet. Encasements alone have mixed trial results, but they're cheap and pair well with hot washing.
-- **Sauna and cold plunges:** no psoriasis data. Heat can worsen itch and AD.
+- **Sauna:** no psoriasis data. Heat can worsen itch and AD.
+- **Cold plunge (personal experience; grade C):** cold plunges calm my skin inflammation, and it feels less itchy and less hot afterwards. There are no psoriasis trials, but cold quiets itch nerves (the same cooling pathway as an ice pack, section 7.1) and temporarily narrows inflamed, dilated blood vessels.
+  - Start mild: about 10–15 °C (50–59 °F) for 1–3 minutes, and build up slowly.
+  - Pat dry and moisturize right after; cold water and wind dry out the skin barrier.
+  - Skip it with cold urticaria (hives from cold), Raynaud's, heart disease or uncontrolled blood pressure, and never plunge alone.
 
 ### 7.1 Itch control without scratching (personal experience)
 
