@@ -141,7 +141,7 @@ This gives the same spectrum as clinical units, so the AAD dose table applies di
 - **No front cover, or quartz only.** Glass and polycarbonate block UVB.
 - **Lamp sourcing:** only genuine Philips (now sold as Signify) /01 lamps, from a lighting distributor or phototherapy supplier. Many Amazon/eBay "311nm" listings are fakes or broadband tubes, and you can't tell by looking. A 311 nm meter will catch a fake.
 - **Lamp aging:** output drops as lamps age. Re-measure monthly and recompute exposure times.
-- **Cost check:** a **used Daavlin or SolRx ($500–2,000)** is often the best value overall.
+- **Cost check:** a **used Daavlin or SolRx ($500–2,000)** is often the best value overall. For low-cost UVB lights, also try an [eBay search for "uvb psoriasis"](https://www.ebay.com/sch/i.html?_nkw=uvb+psorasis). Check the listing names a genuine Philips /01 (311 nm) lamp, and confirm the output with a meter before your first session.
 
 #### Option B: SMT UVB LED panel on a PCB (experimental)
 
