@@ -10,7 +10,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Topic | Section in guide |
 |---|---|
 | Ranked levers, TL;DR | TL;DR |
-| User's products (CeraVe ointment, HOCl spray, PanOxyl 2% SA spray, clobetasol) | §1 |
+| User's products (CeraVe ointment, HOCl spray, PanOxyl 2% SA spray, CeraVe Acne Control Cleanser, Dove Sensitive Skin body wash, clobetasol) | §1 |
 | NB-UVB dosing, home units, excimer, UVA, sun while hiking, red/NIR/blue | §2.1–2.5 |
 | DIY build: choosing a Philips /01 lamp (PL-S 9W vs PL-L 36W vs TL 100W), lamp fixture, SMT 308 nm LED PCB, meters, MED test | §2.6 |
 | UV safety and contraindications | §2.7 |
