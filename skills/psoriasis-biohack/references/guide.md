@@ -379,7 +379,7 @@ Sections 6.1–6.3 below use the same columns as the Notion Supplements table: H
 | **Magnesium glycinate** (you take it) | Low magnesium increases histamine release in animal studies | Low | Low | Not identified | **C.** 200–400 mg elemental. Already in your stack |
 | **Low-histamine probiotic strains** | Some strains break down histamine; others make it | Strain-dependent (your note) | Unknown | Strain-dependent | **C.** Strains considered neutral or histamine-lowering: *B. infantis*, *B. longum*, *B. breve*, *L. plantarum*, *L. rhamnosus* GG. **Avoid** *L. casei*, *L. bulgaricus* and *L. reuteri*, which produce histamine. The psoriasis RCT mix (*B. longum*, *B. lactis*, *L. rhamnosus*) is mostly low-histamine |
 | **Stinging nettle leaf** (freeze-dried) | Antihistamine and anti-inflammatory | Low / possible antihistamine | Medium | Low–Medium (plant immune modulator) | **C.** 300–600 mg. One small allergy-symptom RCT. Mixed results |
-| **H1/H2 antihistamines** (cetirizine, fexofenadine, famotidine) | Block histamine receptors directly | n/a: blocks histamine | Low | Not identified | **A** for hives. These are drugs, not supplements, and the most reliable option. Cetirizine at night also helps itchy flares |
+| **H1/H2 antihistamines** (cetirizine, fexofenadine, famotidine) | Block histamine receptors directly | n/a: blocks histamine | Low | Not identified | **A** for hives. These are drugs, not supplements, and the most reliable option. Cetirizine at night also helps itchy flares. **Personal experience:** cetirizine and fexofenadine noticeably cut my itch and histamine-driven breakouts. They block histamine's effect rather than lower histamine levels, so pair them with the diet and DAO steps. Psoriasis-itch evidence is weaker (**C**) than for hives. **Fexofenadine 180 mg** is non-drowsy, good for daytime; take it with water, not fruit juice (grapefruit, orange and apple juice cut absorption). **Cetirizine 10 mg** can be drowsy, good for bedtime. Higher doses only with a doctor |
 
 **Supplements in your stack that work against DAO (from your Notion table):**
 - **EGCG** (green tea extract) inhibits DAO.
@@ -698,7 +698,7 @@ Scratching causes Koebner plaques and keeps the itch-scratch cycle going, so hav
   - Start on the shortest, mildest setting.
   - Use it on intact skin only: never on oozing, cracked, infected or freshly steroid-thinned skin, or the face. Even a minor burn can trigger new plaques (Koebner).
   - Not for children without the kids' setting, or for anyone with reduced sensation.
-- **Also helps:** keep nails short, moisturize right after showers, take a nighttime antihistamine during flares (section 6.1), and use HOCl spray on itchy spots (section 1).
+- **Also helps:** keep nails short, moisturize right after showers, take an antihistamine during flares (fexofenadine by day, cetirizine at night; section 6.1), and use HOCl spray on itchy spots (section 1).
 
 ---
 
