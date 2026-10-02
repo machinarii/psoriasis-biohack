@@ -12,7 +12,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Ranked levers, TL;DR | TL;DR |
 | User's products (CeraVe ointment, HOCl spray, PanOxyl 2% SA spray, clobetasol) | §1 |
 | NB-UVB dosing, home units, excimer, UVA, sun while hiking, red/NIR/blue | §2.1–2.5 |
-| DIY build: Philips 311 nm lamp fixture, SMT 308 nm LED PCB, meters, MED test | §2.6 |
+| DIY build: choosing a Philips /01 lamp (PL-S 9W vs PL-L 36W vs TL 100W), lamp fixture, SMT 308 nm LED PCB, meters, MED test | §2.6 |
 | UV safety and contraindications | §2.7 |
 | Oozing flare rescue (Burow's, bleach bath, Hibiclens, wet wraps, infection signs) | §3 |
 | Clobetasol rules, Rx non-steroid topicals, OTC adjuncts | §4 |

@@ -117,15 +117,29 @@ UVA alone (365/385/395 nm LEDs, tanning beds) **does not clear plaque psoriasis.
 
 This gives the same spectrum as clinical units, so the AAD dose table applies directly once you measure irradiance.
 
+**Picking a lamp from the Philips /01 (311 nm) family:**
+
+| Lamp | Base / length | Best for |
+|---|---|---|
+| **PL-S 9W/01/2P** | G23, about 17 cm | Handheld wands and single spots (one plaque, fingers, a scalp comb). Lowest output, so sessions are long and the useful area is about palm-sized. |
+| **PL-L 36W/01/4P** ⭐ | 2G11, about 41 cm | **The DIY sweet spot.** 2–4 tubes make a panel for elbows, knees, shins or hands and feet. Commercial spot panels (Daavlin, Waldmann) use this tube. |
+| **TL 20W/01** | T12, 60 cm | Medium panels |
+| **TL 100W/01** | T12, 176 cm | Full-body cabinets |
+
+- **A few plaques:** 2–4× PL-L 36W/01 (the build below).
+- **One tiny area:** PL-S 9W/01 is fine.
+- **Lots of skin:** don't build. Buy a certified full-body unit or use clinic phototherapy, which insurance often covers.
+
 | Build | Lamps | BOM approx. |
 |---|---|---|
 | Hand/foot/spot panel | 4× **Philips PL-L 36W/01** (2G11 4-pin, about $62–95 each) | $400–600 |
 | 6 ft full-body panel | 6× **Philips TL100W/01** (about $125–140 each) | $1,200–1,500 |
 
-- **Ballasts:** electronic ballasts rated for the lamp, e.g. a 2G11 36 W ballast for PL-L. Philips publishes ballast compatibility for the /01 lamps.
+- **Read the suffix:** **/01** is narrowband 311 nm. **/12** is broadband UVB and **/10** is UVA; neither is what you want.
+- **Ballasts:** match pin count to ballast type. **2-pin (/2P)** lamps have a built-in starter and need a **magnetic ballast**. **4-pin (/4P)** lamps run on **electronic ballasts**, e.g. a 2G11 36 W ballast for PL-L. Philips publishes ballast compatibility for the /01 lamps.
 - **Reflector:** polished or specular aluminum (reflects about 85–90% of UVB). White paint and most plastics absorb UVB.
 - **No front cover, or quartz only.** Glass and polycarbonate block UVB.
-- **Lamp sourcing:** only genuine Philips /01 lamps. Unbranded "311 nm" lamps often have the wrong spectrum.
+- **Lamp sourcing:** only genuine Philips (now sold as Signify) /01 lamps, from a lighting distributor or phototherapy supplier. Many Amazon/eBay "311nm" listings are fakes or broadband tubes, and you can't tell by looking. A 311 nm meter will catch a fake.
 - **Lamp aging:** output drops as lamps age. Re-measure monthly and recompute exposure times.
 - **Cost check:** a **used Daavlin or SolRx ($500–2,000)** is often the best value overall.
 
