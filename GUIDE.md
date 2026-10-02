@@ -681,6 +681,12 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
 - **Koebner (trauma → new plaques in 25–50% of patients):** don't pick scale; soften it with salicylic acid or urea instead. Avoid sunburn, tight gear rubbing, aggressive shaving and new tattoos during active disease.
 - **Strep throat:** it triggers guttate psoriasis 1–3 weeks later. **Get a rapid strep test** for any sore throat followed by a flare.
 - **Gum disease (personal experience; grade C):** regular dental cleanings, including laser treatment of my gums, helped my psoriasis a lot. The research backs the link: people with psoriasis have higher rates of periodontitis, and small studies found psoriasis scores improved after periodontal treatment. Gum inflammation is a chronic source of bacteria and inflammatory signals, much like strep is for guttate flares. Get cleanings every 3–6 months and ask your dentist to check gum pocket depths. Laser therapy is an add-on to deep cleaning (scaling and root planing); evidence that it beats deep cleaning alone is mixed, but it was worth it for me.
+  - **Chlorhexidine mouth rinse (personal experience; grade B for gums, C for skin):** chlorhexidine helped my gum health, and my skin improved as a result. It's the best-studied antibacterial rinse for gingivitis and is often prescribed after deep cleanings.
+    - In the US it's prescription-only as 0.12% (Peridex, PerioGard); ask your dentist.
+    - Typical use is 15 mL swished for 30 seconds twice a day, then spit, for a short course (often 2–4 weeks) rather than indefinitely.
+    - Wait about 30 minutes after brushing; ingredients in most toothpastes (SLS) block it. Don't eat or rinse for 30 minutes after.
+    - Side effects: brown staining on teeth and tongue (a cleaning removes it), altered taste and more tartar. Rare allergic reactions can be serious; stop if you get swelling or hives.
+    - This is the oral rinse, not the Hibiclens skin wash in section 3.
 - **Drug triggers:**
   - Lithium, beta-blockers, hydroxychloroquine.
   - **Oral prednisone bursts:** stopping them can trigger pustular psoriasis. Never accept a "steroid pack" for psoriasis.
