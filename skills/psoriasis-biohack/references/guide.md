@@ -697,6 +697,10 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
 - **Wipe down phones and personal items (personal experience; grade C):** I always wipe down my phone and other things that touch my face and hands. Phones, earbuds, headphones, glasses, keyboards and gym gear carry skin bacteria such as *Staph aureus*, which colonizes eczema and can worsen flares.
   - Use **disinfecting wipes** (e.g. Clorox or Lysol disinfecting wipes); Apple allows these on iPhones. Pick fragrance-free versions when you can, and check your device maker's cleaning guidance.
   - Disinfectants (quaternary ammonium, "quats") can irritate skin, so let surfaces dry fully before touching them, and wash and moisturize your hands afterward.
+- **Fragrance-free everything (personal experience; grade B):** always use fragrance-free hand soap, body wash and laundry detergent. Fragrance is one of the most common causes of contact allergy and irritation, which can flare eczema and trigger Koebner plaques.
+  - Look for **"fragrance-free"** or **"free & clear"**, not "unscented" (unscented products can contain masking fragrance).
+  - Laundry: use a free & clear detergent (e.g. Tide Free & Clear or all free clear), skip fabric softener and dryer sheets, and add an extra rinse if your skin is reactive.
+  - Bring your own fragrance-free soap to work and the gym; public hand soaps are usually scented.
 - **Sauna:** no psoriasis data. Heat can worsen itch and AD.
 - **Cold plunge (personal experience; grade C):** cold plunges calm my skin inflammation, and it feels less itchy and less hot afterwards. There are no psoriasis trials, but cold quiets itch nerves (the same cooling pathway as an ice pack, section 7.1) and temporarily narrows inflamed, dilated blood vessels.
   - Start mild: about 10–15 °C (50–59 °F) for 1–3 minutes, and build up slowly.
