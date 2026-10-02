@@ -697,6 +697,13 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
 - **Wipe down phones and personal items (personal experience; grade C):** I always wipe down my phone and other things that touch my face and hands. Phones, earbuds, headphones, glasses, keyboards and gym gear carry skin bacteria such as *Staph aureus*, which colonizes eczema and can worsen flares.
   - Use **disinfecting wipes** (e.g. Clorox or Lysol disinfecting wipes); Apple allows these on iPhones. Pick fragrance-free versions when you can, and check your device maker's cleaning guidance.
   - Disinfectants (quaternary ammonium, "quats") can irritate skin, so let surfaces dry fully before touching them, and wash and moisturize your hands afterward.
+  - **UV light sanitizer boxes** also work for phones, earbuds, glasses, keys and other small items. These use germicidal UVC, so use **closed boxes only**: never handheld UVC wands on skin or eyes (UVC burns, see section 2.6). Light only reaches surfaces it can see, so flip items or wipe crevices too.
+  - **Disinfect your toothbrush (personal experience; grade C):** this pairs with the gum-health and strep notes above. Options:
+    - Put it in a closed UV toothbrush sanitizer.
+    - Soak the head for a few minutes in 3% hydrogen peroxide or an antibacterial mouthwash, then rinse well.
+    - Or use **very dilute bleach** (about 1 teaspoon household bleach per 2 cups of water) for 1–2 minutes, then rinse very thoroughly under running water.
+    - **Never mix bleach** with peroxide, vinegar, ammonia or mouthwash; it releases toxic gas.
+    - Let the brush air-dry upright, and replace it every 3 months and after strep throat or any illness.
 - **Fragrance-free everything (personal experience; grade B):** always use fragrance-free hand soap, body wash and laundry detergent. Fragrance is one of the most common causes of contact allergy and irritation, which can flare eczema and trigger Koebner plaques.
   - Look for **"fragrance-free"** or **"free & clear"**, not "unscented" (unscented products can contain masking fragrance).
   - Laundry: use a free & clear detergent (e.g. Tide Free & Clear or all free clear), skip fabric softener and dryer sheets, and add an extra rinse if your skin is reactive.
