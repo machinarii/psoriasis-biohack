@@ -678,6 +678,7 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
 
 - **Koebner (trauma → new plaques in 25–50% of patients):** don't pick scale; soften it with salicylic acid or urea instead. Avoid sunburn, tight gear rubbing, aggressive shaving and new tattoos during active disease.
 - **Strep throat:** it triggers guttate psoriasis 1–3 weeks later. **Get a rapid strep test** for any sore throat followed by a flare.
+- **Gum disease (personal experience; grade C):** regular dental cleanings, including laser treatment of my gums, helped my psoriasis a lot. The research backs the link: people with psoriasis have higher rates of periodontitis, and small studies found psoriasis scores improved after periodontal treatment. Gum inflammation is a chronic source of bacteria and inflammatory signals, much like strep is for guttate flares. Get cleanings every 3–6 months and ask your dentist to check gum pocket depths. Laser therapy is an add-on to deep cleaning (scaling and root planing); evidence that it beats deep cleaning alone is mixed, but it was worth it for me.
 - **Drug triggers:**
   - Lithium, beta-blockers, hydroxychloroquine.
   - **Oral prednisone bursts:** stopping them can trigger pustular psoriasis. Never accept a "steroid pack" for psoriasis.
@@ -688,6 +689,16 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
 - **Sleep:** aim for 7–9 h. Itch causes poor sleep, which causes flares. Take an antihistamine at night during itchy flares.
 - **Exercise:** keep training. Shower soon after, and dry skin folds well.
 - **Sauna and cold plunges:** no psoriasis data. Heat can worsen itch and AD.
+
+### 7.1 Itch control without scratching (personal experience)
+
+Scratching causes Koebner plaques and keeps the itch-scratch cycle going, so have a no-scratch option within reach.
+- **Ice pack (grade B for cooling):** cold calms the itch nerves (the same TRPM8 cooling pathway menthol uses). Wrap the pack in a thin cloth, apply for up to 10 minutes, and never put ice directly on skin. It works well for bigger itchy areas and at bedtime.
+- **[heat it](https://heatit.de/en/products/heat-it) for smaller itchy spots (grade C):** a small device that plugs into a phone and heats a tiny plate to about 50–53 °C for a few seconds. It's approved for insect bites; the short heat pulse is thought to override the itch signal (TRPV1 heat nerves). Data for psoriasis itch is limited, but it worked on my small spots. This is different from the sustained heat that worsens itch.
+  - Start on the shortest, mildest setting.
+  - Use it on intact skin only: never on oozing, cracked, infected or freshly steroid-thinned skin, or the face. Even a minor burn can trigger new plaques (Koebner).
+  - Not for children without the kids' setting, or for anyone with reduced sensation.
+- **Also helps:** keep nails short, moisturize right after showers, take a nighttime antihistamine during flares (section 6.1), and use HOCl spray on itchy spots (section 1).
 
 ---
 
