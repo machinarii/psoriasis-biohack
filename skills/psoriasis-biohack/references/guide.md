@@ -695,8 +695,8 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
   - Wash hot (at least 60 °C / 140 °F) to kill dust mites, with fragrance-free detergent and no fabric softener or dryer sheets.
   - Use a **hypoallergenic pillow** and **allergen-proof (dust-mite) encasements** for the pillow, mattress and duvet. Encasements alone have mixed trial results, but they're cheap and pair well with hot washing.
 - **Wipe down phones and personal items (personal experience; grade C):** I always wipe down my phone and other things that touch my face and hands. Phones, earbuds, headphones, glasses, keyboards and gym gear carry skin bacteria such as *Staph aureus*, which colonizes eczema and can worsen flares.
-  - Use **70% isopropyl alcohol wipes** (Apple and Samsung allow these on phones). Fragranced or quaternary ammonium ("quat") wipes can irritate skin.
-  - Let surfaces dry before touching them, and wash or moisturize your hands afterward; frequent wipe contact dries skin.
+  - Use **disinfecting wipes** (e.g. Clorox or Lysol disinfecting wipes); Apple allows these on iPhones. Pick fragrance-free versions when you can, and check your device maker's cleaning guidance.
+  - Disinfectants (quaternary ammonium, "quats") can irritate skin, so let surfaces dry fully before touching them, and wash and moisturize your hands afterward.
 - **Sauna:** no psoriasis data. Heat can worsen itch and AD.
 - **Cold plunge (personal experience; grade C):** cold plunges calm my skin inflammation, and it feels less itchy and less hot afterwards. There are no psoriasis trials, but cold quiets itch nerves (the same cooling pathway as an ice pack, section 7.1) and temporarily narrows inflamed, dilated blood vessels.
   - Start mild: about 10–15 °C (50–59 °F) for 1–3 minutes, and build up slowly.
