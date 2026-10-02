@@ -137,17 +137,17 @@ It is doable, but it costs more per cm² than option A. LED UVB is the least mat
 
 | Part | Peak | Package | Optical out | Drive | Approx. cost |
 |---|---|---|---|---|---|
-| **Nichia NCSU434B (308 nm)** | 308 nm | 3535 | about 90 mW | 350 mA, about 1.8 W in (about 5% efficiency, best in class) | about €61 each |
+| **Nichia NCSU434B (308 nm)** | 308 nm | 3535 | about 90 mW | 350 mA, about 1.8 W in (about 5% efficiency, best in class) | about $70 each |
 | Violumas 3535 (Boston Electronics) | 308 ± 5 nm | 3535 | 37 mW | 350 mA @ 5.7 V | from $26 |
 | Violumas 5252 | 308 ± 5 nm | 5252 | 115 mW | 700 mA | quote |
 | Violumas 7272 | 308 ± 5 nm | 7272 | 400 mW | 1.4 A @ about 12 V | up to $144 |
-| Seoul Viosys CUD1GF1B | 310 nm | 3535 | 7–14 mW | ≤150 mA | about €7 (too weak for anything but tiny spots) |
+| Seoul Viosys CUD1GF1B | 310 nm | 3535 | 7–14 mW | ≤150 mA | about $8 (too weak for anything but tiny spots) |
 
 **Clinical evidence for UVB LEDs:** Kemény 2010 (n=20) and a 2023 study comparing a 308 nm LED with the excimer laser (10 completers, 70% vs 80% response). The results are promising but there is **no validated full-body protocol**. LED spectra are 10–15 nm wide, with some output below 300 nm, so the TL01 dose table does **not** transfer. Run your own MED test (below).
 
 **Sizing example: 30×30 cm patch (900 cm²) at 3 mW/cm²**
 - Light needed at the skin: about 2.7 W. With about 60% capture, the LEDs must emit about 4.5 W.
-- About 50× Nichia (about €3,000, about 90 W of heat), or about 12× Violumas 7272 (about $1,700, about 200 W of heat).
+- About 50× Nichia (about $3,500, about 90 W of heat), or about 12× Violumas 7272 (about $1,700, about 200 W of heat).
 - **That is the price of a full-body commercial unit.** An LED design makes the most sense as a **small, targeted spot device** (like an excimer) for stubborn elbow, knee or scalp-line plaques. For example, 4–9× NCSU434B on a 5×5 cm board at about 10–20 mW/cm² delivers 500 mJ/cm² in 25–50 s.
 
 **PCB and electrical design notes (KiCad)**
