@@ -687,7 +687,11 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
 - **Stress:** in one trial, mindfulness audio during phototherapy made skin clear about **4× faster** (Kabat-Zinn 1998, small). It's free, so use a meditation app during UV sessions.
 - **Smoking:** dose-dependent link with severity and palmoplantar pustulosis. Quit.
 - **Sleep:** aim for 7–9 h. Itch causes poor sleep, which causes flares. Take an antihistamine at night during itchy flares.
-- **Exercise:** keep training. Shower soon after, and dry skin folds well.
+- **Exercise and sweating (personal experience; grade B for exercise):** working out hard enough to sweat helps my skin a lot. Regular exercise lowers systemic inflammation and helps with weight, stress and sleep, all linked to psoriasis severity. Shower soon after (lukewarm, fragrance-free), dry skin folds well, and moisturize. Sweat left sitting on skin, especially in folds, can itch and irritate eczema.
+- **Clean bedding (personal experience; grade C):** washing pillowcases, bed sheets and duvet covers regularly cut my flare-ups and itch. Bedding collects sweat, skin flakes, bacteria and dust mites, a common eczema trigger.
+  - Change pillowcases 2–3× a week and sheets and duvet covers weekly.
+  - Wash hot (at least 60 °C / 140 °F) to kill dust mites, with fragrance-free detergent and no fabric softener or dryer sheets.
+  - Use a **hypoallergenic pillow** and **allergen-proof (dust-mite) encasements** for the pillow, mattress and duvet. Encasements alone have mixed trial results, but they're cheap and pair well with hot washing.
 - **Sauna and cold plunges:** no psoriasis data. Heat can worsen itch and AD.
 
 ### 7.1 Itch control without scratching (personal experience)
