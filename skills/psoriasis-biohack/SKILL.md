@@ -28,7 +28,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Plant milks (histamine, salicylate, nickel) | §6.8 |
 | Caffeine-free energy (incl. UCAN gel) and a pre-workout protocol | §6.9 |
 | Fruits ranked by histamine and salicylate | §6.10 |
-| Electrolytes (incl. Liquid I.V. Sugar Free), potassium citrate trigger and potassium-vs-citrate test, salicylate-free vitamin C | §6.11 |
+| Electrolytes, potassium citrate trigger and potassium-vs-citrate test, salicylate-free vitamin C | §6.11 |
 | Dairy-free protein ranked for muscle gain; the user's personal triggers and swaps | §5 |
 | Triggers and lifestyle, gum disease, dental cleanings, chlorhexidine rinse, xylitol/erythritol gum, nano-hydroxyapatite toothpaste, exercise and sweating, bedding hygiene, wiping phones and personal items, UV sanitizer boxes, toothbrush disinfection, fragrance-free soap and detergent, cold plunge | §7 |
 | Itch control: ice pack, heat it device for small spots | §7.1 |

@@ -666,9 +666,6 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 - Keep **total daily sodium moderate** (section 6.4, the Th17 link). A pinch after a sweaty workout is fine; salty processed foods are not.
 - **Magnesium glycinate** for minerals: gentle on the gut and low-histamine.
 - **Electrolyte powders:** read labels and avoid potassium citrate, magnesium citrate and calcium citrate (based on your own experience). Also skip fruit-flavored and "natural flavor" powders (salicylates).
-- **Sugar-free electrolyte I use:** [Liquid I.V. Sugar Free Hydration, White Peach](https://www.amazon.com/dp/B0BQ4ZFNZV) (personal experience). Sweetened with allulose and stevia instead of sugar.
-  - **Check the label against the rule above.** Liquid I.V. formulas usually list **potassium citrate and sodium citrate**, and white peach is a natural fruit flavor. If it sits fine with you, your trigger may be dose- or potassium-specific (the n-of-1 test above can tell). Stop it first during an oozing flare.
-  - It's high in sodium, so save it for sweaty workouts or hot hikes, not all-day sipping (section 6.4).
 
 #### Vitamin C without salicylates
 
