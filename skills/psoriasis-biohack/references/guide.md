@@ -291,6 +291,11 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 - **Alcohol (C):** the most-reported helpful change in NPF surveys. Minimize it, and avoid it entirely on methotrexate.
 - **Gluten-free (only if positive):** helps only if your celiac blood tests (tTG-IgA plus total IgA) are positive. Test before cutting gluten.
 - **Intermittent fasting / time-restricted eating (C):** probably works through the calorie deficit.
+- **Cut added sugar with stevia and allulose (personal experience; grade C):** switching to sugar-free foods sweetened with stevia or allulose (the best-tasting options for me) helped a lot. No psoriasis trial tests sweeteners directly, but less sugar means fewer calories (weight loss is grade A above) and fewer blood-sugar spikes, which are linked to inflammation.
+  - **My go-to midday snack:** [ChocZero Sugar Free Toasted Oat Breakfast Biscuits](https://www.amazon.com/dp/B0DVRMLGJB) (gluten-free, high fiber, no sugar alcohols) to top up calories between meals.
+  - **Allulose** can cause bloating or loose stools in large amounts; build up slowly. **Stevia** is well tolerated by most people.
+  - Sugar alcohols (erythritol, maltitol, sorbitol) are the ones more likely to upset your gut, and erythritol has an observational link to clotting risk, so stevia and allulose are the better picks.
+  - Check labels for whey or milk powder if dairy is one of your triggers.
 
 ### Your dairy/whey observation
 
@@ -607,6 +612,7 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 | B-vitamin | **P5P (active B6)** | Energy-metabolism cofactor; the DAO enzyme needs it | Supports DAO | Gives no "energy boost" unless you're low. 10–25 mg/day. **Keep under 50 mg/day** (nerve damage risk), and count B6 from multivitamins |
 | Drink | **Rooibos tea** (hot or iced) | Ritual and hydration | Caffeine-free, generally low-histamine | Contains only small amounts of quercetin/luteolin. The mast-cell benefit is minor |
 | Pre-workout carbs | Tart cherry juice | Fast carbs | Low histamine, but **cherries are high in salicylate**. Diluting doesn't change that | Fine if you aren't salicylate-sensitive. Low-salicylate alternatives: **peeled pear, rice cakes with maple syrup, white rice** |
+| Workout fuel | **[UCAN Energy Gel](https://www.amazon.com/dp/B0CKY6VCL1)** (caffeine-free, sugar-free; I use orange mango) | Slow-release modified cornstarch (SuperStarch) for steady energy without a sugar spike or crash | Caffeine-free, so no DAO concerns. Mango is borderline for salicylate (section 6.10), but flavoring amounts are small | **Personal experience:** my go-to for long workouts. Vegan and gluten-free. Evidence for performance over regular carbs is mixed (**C**), but it's easy on the stomach |
 | Training | **Creatine monohydrate** 3–5 g/day | Improves high-intensity work and muscle gain (grade **A** for performance) | No histamine or DAO concerns; non-stimulating | Strongest evidence of anything here for gym performance |
 
 **Non-caffeine energy products to avoid**
