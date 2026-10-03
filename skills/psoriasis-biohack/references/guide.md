@@ -693,6 +693,12 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
     - Wait about 30 minutes after brushing; ingredients in most toothpastes (SLS) block it. Don't eat or rinse for 30 minutes after.
     - Side effects: brown staining on teeth and tongue (a cleaning removes it), altered taste and more tartar. Rare allergic reactions can be serious; stop if you get swelling or hives.
     - This is the oral rinse, not the Hibiclens skin wash in section 3.
+  - **Xylitol/erythritol chewing gum (personal experience; grade B for teeth, C for skin):** chewing sugar-free gum sweetened with xylitol and erythritol improved both my dental health and my psoriasis. I use [DC24 Daily Care Xylitol Gum with Erythritol](https://www.amazon.com/dp/B0CVVN62BH) (Fresh Fruit, aspartame-free).
+    - Both sweeteners feed mouth bacteria poorly, so they cut plaque and cavity-causing bacteria. Chewing also boosts saliva, which helps gums.
+    - Chew a piece for 5–10 minutes after meals, a few times a day.
+    - Too much can cause gas or loose stools. The erythritol clotting signal (section 5) involved far larger doses than a few pieces of gum.
+    - Fruit or unflavored is better than mint if you're salicylate-sensitive (mint flavor contains salicylates, section 6.2).
+    - **Xylitol is highly toxic to dogs.** Keep gum away from pets.
 - **Drug triggers:**
   - Lithium, beta-blockers, hydroxychloroquine.
   - **Oral prednisone bursts:** stopping them can trigger pustular psoriasis. Never accept a "steroid pack" for psoriasis.
