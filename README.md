@@ -11,6 +11,9 @@ It is an evidence-graded guide to managing psoriasis (with notes on eczema and o
 - diet, dairy/whey triggers and dairy-free protein
 - supplements, including histamine- and salicylate-lowering options, and supplements and foods with immune activation risk
 - n-of-1 self-experiments
+- daily habits: oral health, clean bedding, fragrance-free products, itch control, exercise and cold plunges
+- body-area playbooks (scalp, face, folds, genitals, palms and soles, nails), other proven treatments, seasons and travel
+- vaccines, pregnancy, mental health, the latest drugs, and getting the most from your dermatologist and insurance
 
 ➡️ **[Read the guide](GUIDE.md)**
 

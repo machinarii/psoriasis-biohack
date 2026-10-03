@@ -36,6 +36,12 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | PsA screening, when to escalate, biologics, cost help | §9 |
 | Latest drug approvals and pipeline (icotrokinra, zasocitinib, envudeucitinib, biosimilars, GUIDE, TOGETHER) as of Oct 2026 | §9.1 |
 | Sample weekly protocol | §10 |
+| Body-area playbook: scalp, face, folds, genitals, palms/soles, nails | §11.1 |
+| Other proven treatments (tazarotene, calcipotriene, anthralin, steroid injections, Goeckerman, Dead Sea, capsaicin, oatmeal baths) and remedies to skip | §11.2 |
+| Seasons, travel, swimming, clothing, shaving, sunscreen | §11.3 |
+| Comorbidities (heart, metabolic, uveitis, IBD), mental health, kids | §11.4 |
+| Vaccines, TB/hepatitis screening, pregnancy, drug interactions | §11.5 |
+| Dermatologist visit prep, step therapy, Cost Plus/GoodRx, teledermatology | §11.6 |
 
 ## How to answer
 

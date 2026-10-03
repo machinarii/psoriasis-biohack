@@ -870,6 +870,82 @@ Supplements: omega-3 2–3 g, bioavailable curcumin, strain-specific probiotic, 
 
 ---
 
+## 11. More tools, body areas and life situations
+
+### 11.1 Body-area playbook
+
+Psoriasis behaves differently by location, and the right treatment changes with it. Scalp, face, folds, genitals, palms, soles and nails are "special sites": they count toward escalation even when total area is small (section 9).
+
+| Area | What works | Avoid | Notes |
+|---|---|---|---|
+| **Scalp** | Descale first: salicylic acid shampoo (e.g. Neutrogena T/Sal), or mineral oil or a salicylic acid scalp oil left on overnight under a shower cap, then wash. Then coal tar shampoo, clobetasol shampoo (Clobex, 15-minute contact then rinse), calcipotriene + betamethasone gel or foam, or roflumilast foam (Zoryve) | Picking or scraping scale (Koebner), hot blow-drying | If there's greasy yellow scale and flaking at the eyebrows and sides of the nose, it may overlap with seborrheic dermatitis ("sebopsoriasis"): add **ketoconazole 2% shampoo** 2×/week. Patch-test hair dye 48 h before use |
+| **Face** | Hydrocortisone 1–2.5%, tacrolimus or pimecrolimus, roflumilast cream (approved on face) | Clobetasol and other strong steroids (thinning, rosacea-like rash) | Your CeraVe Acne Control Cleanser and HOCl spray fit here (section 1) |
+| **Folds** (armpits, groin, under breasts, buttock crease) | Low-potency steroid in short bursts, roflumilast, tacrolimus. Zinc oxide paste as a barrier | Salicylic acid, coal tar, strong steroids, occlusion | Folds look smooth, red and shiny, not scaly. Ask your doctor to check for **yeast (candida) or erythrasma**, which look similar and need different treatment. Keep dry; wear moisture-wicking underwear |
+| **Genitals** | Hydrocortisone 1%, desonide, tacrolimus, roflumilast. Fragrance-free lubricant; condoms reduce friction | Tar, salicylic acid, strong steroids, scented products | Very common (studies suggest up to about two-thirds of people with psoriasis at some point) and under-reported. It's a valid reason to ask for a biologic |
+| **Palms and soles** | Urea 40%, salicylic acid, clobetasol under cotton gloves or socks overnight (section 4 occlusion rules), hand-and-foot UVB or excimer | Wet work without gloves, harsh soaps | **Palmoplantar pustulosis** (sterile pus bumps) is strongly linked to smoking; quitting helps. Use cotton-lined nitrile gloves for wet work |
+| **Nails** | Keep short. Clobetasol or calcipotriene on the nail fold and cuticle area, tazarotene, steroid injections into the nail fold, IL-17 or IL-23 biologics (the strongest option) | Pushing back or cutting cuticles, aggressive manicures, picking lifted nails (Koebner) | Nails grow slowly, so judge any treatment at **6–12 months**. Get a **fungal test** first: nail fungus is common and looks similar. Nail psoriasis is a strong predictor of psoriatic arthritis (section 9) |
+
+### 11.2 Proven treatments not covered above
+
+| Treatment | What it is | Grade | Notes |
+|---|---|---|---|
+| **Tazarotene** (Tazorac, Arazlo; with halobetasol as Duobrii) | Topical retinoid | **A** | The halobetasol combination works better and irritates less than either alone. **Not in pregnancy** |
+| **Calcipotriene alone** (Dovonex) | Vitamin D analog | **A** | No time limit. Can irritate the face and folds. The workhorse for steroid-sparing maintenance (section 4) |
+| **Short-contact anthralin (dithranol)** | Old-school tar-like cream left on 10–30 minutes, then washed off | **A-** | Very effective for thick plaques with no skin thinning. Stains skin, nails, tubs and clothes purple-brown. Not for the face or folds |
+| **Steroid injections** (intralesional triamcinolone) | Your dermatologist injects a stubborn plaque or nail fold | **B** | Great for 1–3 plaques that won't clear. Can dent the skin temporarily |
+| **Goeckerman therapy** | Coal tar + UVB, daily, in a day-treatment center | **A-** | Some of the longest remissions of any treatment. Few US centers still offer it; worth it for stubborn widespread disease if one is near you |
+| **Climatotherapy (Dead Sea)** | 2–4 weeks of sun and mineral-water bathing at the Dead Sea | **B** | Below sea level, the atmosphere filters out more burning UV, so you can stay in the sun longer. High clearing rates, but most people relapse within months. Home Dead Sea salt baths: **C** |
+| **Capsaicin cream** 0.025% | Chili-pepper extract that depletes itch nerve signals | **C** | One RCT showed less scale, redness and itch. Burns for the first week; wash hands well. **Chili is high in salicylate**, so skip it during a salicylate trial |
+| **Colloidal oatmeal baths** | Finely ground oats; an FDA-recognized skin protectant | **B** for itch (eczema), **C** for psoriasis | Lukewarm, 10–15 minutes, pat dry, then ointment. Gentle and cheap |
+| **Pramoxine or menthol anti-itch lotions** | OTC numbing (pramoxine) or cooling (menthol 0.5–1%) | **C** | Pick fragrance-free (e.g. Sarna Sensitive). Menthol is a salicylate-free cooling option, but test a patch |
+
+**Popular home remedies to skip**
+- **Apple cider vinegar:** burns cracked skin and has no psoriasis data. **Hype.**
+- **Tea tree oil:** a common contact allergen that can worsen irritated skin. **Hype.**
+- **Oral indigo naturalis,** "detox" cleanses and juice fasts: risky or unsupported (section 4 covers topical indigo).
+
+### 11.3 Seasons, travel and environment
+
+- **Winter (most people flare):** less UV and dry indoor air. Run a **humidifier at 40–50% humidity** (grade C; clean it weekly). Thicker ointment, shorter lukewarm showers, and a heavier UVB schedule if you have a home unit.
+- **Summer and travel south:** more UV helps, but never burn (sunburn causes Koebner plaques). Use the UV index dosing in section 2.4. Use **fragrance-free mineral sunscreen** (zinc oxide) on skin you aren't treating, especially the face.
+- **Swimming:** chlorine dries skin; ocean salt water often feels helpful. Either way, rinse off and moisturize within 3 minutes.
+- **Flying:** cabin air is very dry. Carry ointment in your carry-on (under 3.4 oz / 100 mL). Biologics can travel in a cooler with a doctor's letter; check your drug's room-temperature allowance.
+- **Clothing:** soft cotton, bamboo or silk; loose and seamless. Avoid wool and tight waistbands that rub (Koebner). Light colors hide flakes.
+- **Shaving:** an electric razor, or shave with the grain over clear skin only. Skip shaving over active plaques.
+
+### 11.4 Whole-body health
+
+- **Heart and metabolism:** psoriasis, especially moderate-to-severe, raises the risk of heart disease, diabetes and fatty liver (MASLD). Beyond the yearly labs in section 9: keep blood pressure and LDL on target, and ask whether you qualify for a statin. Controlling the skin inflammation itself may help.
+- **Eyes and gut:** sudden **eye pain, redness and light sensitivity** (uveitis) needs a same-day eye doctor. Ongoing diarrhea, blood in the stool or belly pain can signal IBD; tell your dermatologist before any IL-17 drug.
+- **Mental health:** depression and anxiety are much more common with psoriasis, and stress drives flares. Options with evidence: **CBT** (cognitive behavioral therapy; psychodermatology clinics specialize in skin), mindfulness (section 7), exercise, and peer support such as the **NPF One to One mentoring program** and r/Psoriasis.
+- **Kids and teens:** childhood psoriasis is often triggered by strep (section 7) and linked to excess weight. Roflumilast cream is approved down to age 2 (section 9.1), and several biologics are approved for children. Talk to the school nurse about sunscreen and medication access, and watch for bullying and mood.
+
+### 11.5 Vaccines, pregnancy and medication safety
+
+- **Before starting a biologic or methotrexate:**
+  - **TB test** (IGRA blood test) and **hepatitis B and C** screening are standard.
+  - Get **live vaccines** (MMR, varicella, nasal flu, yellow fever) **at least 4 weeks before**; they're avoided once you start.
+  - Inactivated vaccines are fine on treatment. Stay current on flu, COVID and pneumococcal, and **Shingrix** (recommended from age 19 for people on immune-suppressing drugs).
+- **Pregnancy and planning:**
+  - **NB-UVB is considered safe in pregnancy** (take folic acid, since UV can lower folate).
+  - Most topicals are fine in limited amounts, but **not tazarotene**.
+  - **Methotrexate and acitretin are absolute no's** (acitretin requires 3 years of contraception after stopping). Plan months ahead with your doctor.
+  - Among biologics, **certolizumab** crosses the placenta least; others are often continued case by case.
+- **Drug interactions:** tell every doctor about your psoriasis. Lithium, beta-blockers, hydroxychloroquine and a prednisone taper can trigger flares (section 7).
+
+### 11.6 Getting the most from your dermatologist and insurance
+
+- **Measure before the visit:** your palm with fingers is about **1% of body surface area**. Count palms for a BSA estimate, and bring dated photos (section 8).
+- **List what you've tried,** with doses and durations ("clobetasol 0.05% twice daily × 2 weeks, partial"). Insurers use this "step therapy" history to approve biologics.
+- **Ask for:**
+  - samples and copay cards (section 9);
+  - an appeal if a biologic is denied;
+  - a **home phototherapy prescription**, which many insurers cover.
+- **Cheaper generics:** check **Mark Cuban Cost Plus Drugs** and GoodRx for clobetasol, calcipotriene, tacrolimus and methotrexate. Cash prices are often below your copay.
+- **Teledermatology:** many services can manage refills and topical plans. Use them for follow-ups, but get an in-person exam for the first diagnosis, nails, joints and skin checks.
+
+---
+
 ## Key sources
 
 - AAD-NPF phototherapy guideline 2019 — https://www.jaad.org/article/S0190-9622(19)30637-1/fulltext
