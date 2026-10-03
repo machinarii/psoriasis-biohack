@@ -699,6 +699,10 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
     - Too much can cause gas or loose stools. The erythritol clotting signal (section 5) involved far larger doses than a few pieces of gum.
     - Fruit or unflavored is better than mint if you're salicylate-sensitive (mint flavor contains salicylates, section 6.2).
     - **Xylitol is highly toxic to dogs.** Keep gum away from pets.
+  - **Nano-hydroxyapatite toothpaste (personal experience; grade B for teeth):** I use [Mouthology 10% Nano Hydroxyapatite Toothpaste](https://www.amazon.com/dp/B0CS4137M1) (fluoride-free, SLS-free, with xylitol).
+    - Nano-hydroxyapatite is the same mineral as tooth enamel. It remineralizes early cavities and calms sensitivity, and RCTs found 10% nHA about as good as fluoride at preventing cavities.
+    - **SLS-free** means no foaming detergent that can irritate gums or cause canker sores, and it doesn't block chlorhexidine the way SLS toothpastes do.
+    - It's **mint flavored**. If you're doing a salicylate trial (section 6.2), mint is a salicylate source, so pick an unflavored nHA toothpaste for the trial period.
 - **Drug triggers:**
   - Lithium, beta-blockers, hydroxychloroquine.
   - **Oral prednisone bursts:** stopping them can trigger pustular psoriasis. Never accept a "steroid pack" for psoriasis.
