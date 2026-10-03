@@ -296,7 +296,7 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
   - **Allulose** can cause bloating or loose stools in large amounts; build up slowly. **Stevia** is well tolerated by most people.
   - Sugar alcohols (erythritol, maltitol, sorbitol) are the ones more likely to upset your gut, and erythritol has an observational link to clotting risk, so stevia and allulose are the better picks.
   - Check labels for whey or milk powder if dairy is one of your triggers.
-  - **Sugar-free sauces:** [Vivid Kitchen](https://www.amazon.com/dp/B0DNY8QNG6) makes many sugar-free sauces that taste good. My pick is their Korean Chicken Sauce (Korean BBQ marinade and dipping sauce). Korean BBQ and teriyaki-style sauces are usually **soy-sauce based** (fermented, so high histamine and sodium, section 6.4), and teriyaki is one of my triggers. Check the label for soy sauce, use small amounts, and test it on its own.
+  - **Sugar-free sauces:** [Vivid Kitchen](https://www.amazon.com/dp/B0DJ3T27F6) makes many sugar-free sauces that taste good. My pick is their Low-Calorie Sweet Chili Sauce (about 10 calories a serving, no MSG). Sweet chili sauces usually contain chili and vinegar: chili is high in salicylate (section 6.2) and vinegar is a histamine source (section 6.4). Use small amounts and test it on its own if you're doing a histamine or salicylate trial.
 
 ### Your dairy/whey observation
 
