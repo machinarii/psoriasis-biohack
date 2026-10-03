@@ -16,7 +16,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | UV safety and contraindications | §2.7 |
 | Oozing flare rescue (Burow's, bleach bath, Hibiclens, wet wraps, infection signs) | §3 |
 | Clobetasol rules, Rx non-steroid topicals, OTC adjuncts | §4 |
-| Diet, sugar-free swaps (stevia, allulose, ChocZero biscuits), dairy/whey, dairy-free protein with leucine targets | §5 |
+| Diet, sugar-free swaps (stevia, allulose, ChocZero biscuits, Vivid Kitchen sauces), dairy/whey, dairy-free protein with leucine targets | §5 |
 | Supplement evidence check | §6 |
 | Histamine-lowering supplements (DAO, vitamin C, PEA, luteolin, low-histamine probiotics) | §6.1 |
 | Salicylate clearance support and the low-salicylate approach | §6.2 |
@@ -28,7 +28,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Plant milks (histamine, salicylate, nickel) | §6.8 |
 | Caffeine-free energy (incl. UCAN gel) and a pre-workout protocol | §6.9 |
 | Fruits ranked by histamine and salicylate | §6.10 |
-| Electrolytes, potassium citrate trigger and potassium-vs-citrate test, salicylate-free vitamin C | §6.11 |
+| Electrolytes (incl. Liquid I.V. Sugar Free), potassium citrate trigger and potassium-vs-citrate test, salicylate-free vitamin C | §6.11 |
 | Dairy-free protein ranked for muscle gain; the user's personal triggers and swaps | §5 |
 | Triggers and lifestyle, gum disease, dental cleanings, chlorhexidine rinse, xylitol/erythritol gum, nano-hydroxyapatite toothpaste, exercise and sweating, bedding hygiene, wiping phones and personal items, UV sanitizer boxes, toothbrush disinfection, fragrance-free soap and detergent, cold plunge | §7 |
 | Itch control: ice pack, heat it device for small spots | §7.1 |
