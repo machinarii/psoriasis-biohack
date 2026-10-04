@@ -316,7 +316,6 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
   - It stings on cracked, scratched, oozing or inflamed skin, and on the face or folds.
   - **AHAs raise sun sensitivity,** so don't apply right before UV sessions or hikes (use it at night) and wear sunscreen on treated skin you aren't dosing.
   - Patch-test first.
-- **Not dairy:** cosmetic lactic acid is usually fermented from plant sugar and contains no milk protein or lactose, so it's fine even if dairy is your trigger (section 5).
 
 ---
 
@@ -342,7 +341,6 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 - No psoriasis RCT exists. About half of people who cut dairy in NPF surveys report improvement (self-report).
 - **Plausible mechanism:** whey spikes insulin and casein raises IGF-1. Both activate mTORC1, which is overactive in psoriatic skin. (That mechanism is established in acne.)
 - Your consistent pattern is a good reason to **formally test it** (section 8) and to switch protein sources.
-- **Lactic acid isn't dairy.** Lactic acid on your skin (section 4) and "sodium lactate" or "calcium lactate" on food labels contain no milk protein or lactose. The suspected dairy triggers are the **proteins** (whey, casein), **lactose** (gut symptoms if intolerant) and **histamine** in aged cheese. Do watch for **lactose** and milk-grown probiotics: "lactic acid bacteria" aren't dairy, but some are cultured on milk, so pick dairy-free labels.
 
 ### Dairy-free protein for building muscle
 
