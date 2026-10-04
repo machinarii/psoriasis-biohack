@@ -1021,6 +1021,11 @@ Scratching causes Koebner plaques and keeps the itch-scratch cycle going, so hav
   - Start on the shortest, mildest setting.
   - Use it on intact skin only: never on oozing, cracked, infected or freshly steroid-thinned skin, or the face. Even a minor burn can trigger new plaques (Koebner).
   - Not for children without the kids' setting, or for anyone with reduced sensation.
+- **Long sleeves and long pants at night (personal experience; grade C):** sleeping in a long-sleeve shirt and long pants makes me less likely to scratch in my sleep, and keeps staph and ointment off the bedding.
+  - **Why it helps:** most night scratching happens while you're asleep. A fabric layer blunts the damage from nails, keeps ointment and medicine on your skin, and catches skin flakes and bacteria before they reach the sheets. Eczema skin often carries *Staph aureus*, which can re-seed skin from bedding.
+  - **Pick the right fabric:** soft, loose, breathable cotton, bamboo or silk, with flat seams and no tight cuffs or waistband. Avoid wool and anything that makes you hot, since heat worsens itch (see "Keep the bed cool", section 7).
+  - **Wash them like bedding:** a fresh set every night or two during flares, washed hot with fragrance-free detergent.
+  - Thin cotton gloves, or socks over the hands, help if you scratch a lot in your sleep.
 - **Also helps:** keep nails short, moisturize right after showers, take an antihistamine during flares (fexofenadine by day, cetirizine at night; section 6.1), and use HOCl spray on itchy spots (section 1).
 
 ---
