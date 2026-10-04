@@ -425,7 +425,7 @@ Three things decide how well a protein builds muscle:
 | 1 | **Egg white protein powder / whole eggs** | about 8.5–8.8% | PDCAAS 1.0 (the maximum score) | about 30 g protein (2.2–2.5 g leucine) | Best powder for muscle. Digests moderately fast. Mix with water, oat or macadamia milk |
 | 2 | **Lean whole meat**: chicken, turkey, beef, fresh fish | about 8% | about 0.92–0.96 | 120–150 g cooked chicken, about 130 g fish | Complete muscle-tissue profile. **Whole beef beats beef powder** |
 | 3 | **Beef protein isolate (BPI)** | about 6–7%, varies by brand | High, fast | 35–40 g | Most are made from hydrolyzed beef gelatin and collagen, so lower in essential amino acids. Check the amino-acid panel, or add 1 g leucine |
-| — | Collagen peptides | about 3%, incomplete | n/a | n/a | Good for joints and skin, **not muscle**. Don't count it toward your protein target |
+| — | Collagen peptides | about 3%, incomplete | n/a | n/a | May help skin healing (section 6), **not muscle**. Don't count it toward your protein target |
 | — | Plant options (rice, hemp, pea) if tolerated | about 6–8% | 0.6–0.9 | about 35–40 g | Add 1–2 g leucine. Rice + pea blends complete each other |
 
 **Practical verdict**
@@ -473,8 +473,9 @@ This section started as a check of my own supplement stack. Items marked **(auth
 | **Chaga, cordyceps, lion's mane, Korean ginseng, black seed, shiitake** (flagged as immune-activating in the author's table) | No psoriasis data. Immune stimulants are theoretically unfavorable in an IL-17/IL-23 overactive disease | **Consider dropping them during the flare-tracking period.** Reintroduce one at a time if you miss them |
 | **Quercetin, EGCG** | No psoriasis RCTs | Neutral |
 | **Biotin** | None. Biotin helps skin only if you're deficient, which is rare | **Neutral; skip it for skin.** High doses (5–10 mg in hair/nail products) can **falsely skew blood tests**, including thyroid tests and troponin (a heart-attack marker). Stop it 2–3 days before blood work and tell your doctor you take it |
+| **Collagen peptides** (hydrolyzed collagen; personal experience) | No psoriasis trials. For skin in general, meta-analyses of RCTs found better hydration and elasticity after 8–12 weeks (de Miranda 2021), but a 2025 meta-analysis found the benefit only in industry-funded and lower-quality trials (Myung 2025). It supplies glycine and proline, the building blocks of skin collagen | **C; personal experience.** Collagen peptides seem to help my skin heal. 2.5–10 g/day, with vitamin C (needed to build collagen). Low risk. **Watch-outs:** some low-histamine lists flag collagen, gelatin and bone broth, so test it alone if you're histamine-sensitive; marine collagen is a **fish allergen**; pick unflavored, third-party-tested powder. It doesn't count toward your protein target (section 5) |
 | **Berberine** | Preclinical only (IL-17 suppression in mice) | Neutral. Helps metabolic health, which indirectly helps |
-| Oral indigo, apple cider vinegar, "leaky gut" kits, collagen-as-protein | None, or harmful | **Avoid** |
+| Oral indigo, apple cider vinegar, "leaky gut" kits, collagen as your main protein source | None, or harmful | **Avoid** |
 
 Sections 6.1–6.3 below use these columns: Histamine level, Salicylate level, Immune activation risk. They are aimed at people who suspect **histamine intolerance**, **salicylate sensitivity**, or flares from immune-stimulating products.
 
@@ -1311,5 +1312,8 @@ Lab-made antibodies that block one specific immune signal. All are given by inje
 - Volden G (1992). Successful treatment of chronic skin diseases with clobetasol propionate and a hydrocolloid occlusive dressing. *Acta Derm Venereol*; Volden G et al. (2001). Remission and relapse of chronic plaque psoriasis treated once a week with clobetasol propionate occluded with a hydrocolloid dressing. *J Dermatolog Treat* 12(3) — https://www.tandfonline.com/doi/abs/10.1080/09546630152607862 (section 4)
 - Fleischer AB Jr et al. (1997). Commercial tanning bed treatment is an effective psoriasis treatment: results from an uncontrolled clinical trial. *J Invest Dermatol* 109(2):170–174 — https://www.sciencedirect.com/science/article/pii/S0022202X15429689 (section 2.8)
 - Paszynska E et al. (2023). Caries-preventing effect of a hydroxyapatite-toothpaste in adults: an 18-month double-blinded randomized clinical trial. *Front Public Health* — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10393266/ (section 7)
+
+- de Miranda RB et al. (2021). Effects of hydrolyzed collagen supplementation on skin aging: a systematic review and meta-analysis. *Int J Dermatol* 60(12):1449–1461
+- Myung SK, Park Y (2025). Effects of collagen supplements on skin aging: a systematic review and meta-analysis of randomized controlled trials. *Am J Med*
 
 **Not yet cited:** the cold plunge, cool-bed, bandage, wipe-down, UV sanitizer, toothbrush and chewing-gum tips in section 7 are personal experience with a plausible mechanism but no psoriasis trials. Sections 11.3 and 11.6 are practical advice without formal citations.
