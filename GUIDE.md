@@ -914,6 +914,13 @@ FMT transfers stool from a screened healthy donor to reset the gut microbiome.
   - Clean the water system as the maker directs (usually hydrogen peroxide or their cleaning solution every few weeks), and use distilled water. Stagnant water grows mold and bacteria.
   - Cheaper options: a fan, a lighter polyester-fill blanket, or a cool shower followed by ointment before bed.
 - **Exercise and sweating (personal experience; grade B for exercise):** working out hard enough to sweat helps my skin a lot. Regular exercise lowers systemic inflammation and helps with weight, stress and sleep, all linked to psoriasis severity. Shower soon after (lukewarm, fragrance-free), dry skin folds well, and moisturize. Sweat left sitting on skin, especially in folds, can itch and irritate eczema.
+- **Virtual group workouts (personal experience; grade C):** going out can be uncomfortable when your skin is flaring, and many people with psoriasis skip gyms, pools and group sports because of it. But training with other people is a big part of mental health and motivation. Live, real-time group workouts at home give you both:
+  - **Group rides and runs:** Zwift (live group rides, races and clubs), or similar apps such as Rouvy and MyWhoosh.
+  - **Live classes and strength:** Peloton (live classes with a leaderboard) and Tonal (live and group strength sessions).
+  - **Why it helps:** you get the company, accountability and friendly competition without worrying about how your skin looks, and you can wear whatever is comfortable, shower straight away and control the room temperature.
+  - **Cheaper options:** a basic bike trainer with a free app, free live classes on YouTube, or a video call workout with a friend.
+  - **Skin tips:** use a fan (indoor training is sweaty), put a towel on the saddle or bench, wear soft moisture-wicking fabric, and wipe down handlebars and grips.
+  - Use it as a bridge, not a hiding place. Avoiding people because of your skin is worth mentioning to your doctor (section 11.4), and outdoor exercise also gives you dosed sunlight (section 2.4).
 - **Clean bedding (personal experience; grade C):** washing pillowcases, bed sheets and duvet covers regularly cut my flare-ups and itch. Bedding collects sweat, skin flakes, bacteria and dust mites, a common eczema trigger.
   - Change pillowcases 2–3× a week and sheets and duvet covers weekly.
   - Wash hot (at least 60 °C / 140 °F) to kill dust mites, with fragrance-free detergent and no fabric softener or dryer sheets.

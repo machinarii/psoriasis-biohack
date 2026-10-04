@@ -34,7 +34,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Electrolytes, potassium citrate trigger and potassium-vs-citrate test, salicylate-free vitamin C | §6.11 |
 | Probiotics and the gut-skin axis: strains with trial evidence (psoriasis, PsA, RA, UC), how to choose; fecal transplant (FMT) evidence and why not DIY | §6.12 |
 | Dairy-free protein ranked for muscle gain; the guide author's personal triggers and swaps (one person's data, not defaults) | §5 |
-| Triggers and lifestyle, gum disease, dental cleanings, chlorhexidine rinse, xylitol/erythritol gum, nano-hydroxyapatite toothpaste, exercise and sweating, bedding hygiene, wiping phones and personal items, UV sanitizer boxes, toothbrush disinfection, fragrance-free soap and detergent, cold plunge, cool bed (Chilipad) for night itch | §7 |
+| Triggers and lifestyle, gum disease, dental cleanings, chlorhexidine rinse, xylitol/erythritol gum, nano-hydroxyapatite toothpaste, exercise and sweating, virtual group workouts (Zwift, Peloton, Tonal), bedding hygiene, wiping phones and personal items, UV sanitizer boxes, toothbrush disinfection, fragrance-free soap and detergent, cold plunge, cool bed (Chilipad) for night itch | §7 |
 | Itch control: ice pack, heat it device for small spots | §7.1 |
 | n-of-1 tracking and the ABAB elimination protocol | §8 |
 | PsA screening, when to escalate, biologics, cost help | §9 |
