@@ -6,6 +6,58 @@
 
 > **First, a diagnosis check.** Oozing and weeping are typical of **eczema (atopic dermatitis)**, not plaque psoriasis. If your plaques ooze, the likely causes are eczema overlap, irritant reaction (salicylic acid, tar), infection (Staph, or herpes = emergency), or inverse psoriasis with candida. Get a dermatologist to confirm which one you have. The two diseases share some tools (steroids, UVB, barrier care) but run on different immune pathways (psoriasis = IL-23/IL-17; AD = IL-4/IL-13), and the biologics differ.
 
+**How to read this guide:** "I", "my" and "personal experience" mean the author, one person who has had psoriasis since childhood. "You" means you, the reader. Anything marked personal experience is one person's result, not advice: your triggers and what works for you will differ (section 8 shows how to find your own). Drug information is current to **October 2026**.
+
+---
+
+## Start here: cheapest and simplest first
+
+Work down this list. Most people never need the later steps, and nothing below step 5 replaces the steps above it.
+
+1. **Get the diagnosis confirmed** by a dermatologist (psoriasis type, or eczema). Everything else depends on it.
+2. **Moisturize daily** with a fragrance-free ointment or cream, within 3 minutes of every shower. Costs a few dollars a month.
+3. **Use your prescribed topicals correctly** (section 4). Generic clobetasol, calcipotriene and tacrolimus are cheap with Cost Plus Drugs or GoodRx (section 11.6).
+4. **Free habits:** don't pick or scratch, sleep 7–9 hours in a cool bed, exercise, quit smoking, cut back alcohol, manage stress (section 7).
+5. **Phototherapy through your doctor:** clinic NB-UVB or a prescribed home unit, which insurance often covers (section 2.1). Careful sun exposure is the free version (section 2.4).
+6. **If it's still more than mild** (rule of tens, section 9), ask about systemic treatment or a biologic. Copay programs can make these affordable.
+7. **Only then, optional extras:** diet experiments one at a time (section 8), supplements, gadgets and DIY builds. These are the least proven and often the most expensive parts of this guide.
+
+---
+
+## Flare right now: one-page checklist
+
+**1. See a doctor today (ER or urgent care) if you have any of these:**
+- Fever, chills or feeling very unwell with a skin flare.
+- **Most of your skin turning red, hot or peeling** (erythrodermic psoriasis), or **widespread pus bumps** (pustular psoriasis).
+- **Clusters of painful punched-out sores or small blisters,** especially on the face (possible eczema herpeticum).
+- Spreading redness, warmth, swelling, pus or honey-colored crusts (infection).
+- **Eye pain, redness and light sensitivity.**
+- A newly hot, swollen, very painful joint.
+- A new medication started in the last few weeks plus a widespread rash, or mouth or genital sores.
+
+**2. Tonight, if none of those apply:**
+- Lukewarm shower or bath, 5–10 minutes. Pat dry.
+- Fragrance-free ointment within 3 minutes, thickly, everywhere that's flaring.
+- Apply your **prescribed** topical as directed. Don't double the dose or borrow someone else's.
+- **Cool the itch, don't scratch:** ice pack in a cloth for 10 minutes, cool room, light breathable bedding (section 7.1). An antihistamine at bedtime can help you sleep.
+- Soft, loose cotton clothing. Trim your nails.
+- If skin is oozing: follow section 3 (compresses, bleach bath, infection check).
+
+**3. Stop or avoid until it settles:**
+- New products, fragrance, hot water, scrubbing or picking scale.
+- Salicylic acid, lactic acid, tar or capsaicin on raw, cracked or oozing skin.
+- UV on burned or angry, inflamed skin; never "burn it off".
+- Alcohol.
+- **Don't stop prescribed medicines suddenly** (especially steroids or biologics) without calling your prescriber, and don't take leftover oral steroids.
+
+**4. Call your dermatologist within a few days if:**
+- It's spreading, not improving after 1–2 weeks of correct treatment, or keeps coming back in the same spot.
+- It involves the face, genitals, hands or feet, or it stops you sleeping or working.
+- You have joint pain or morning stiffness, or you've used a strong steroid for 2 weeks and still need it.
+- You flared after a sore throat (ask for a strep test) or a new medication.
+
+**5. Write down** what changed in the last 1–3 weeks (illness, stress, new product, medication, missed treatment, weather). It feeds your trigger log (section 8).
+
 ---
 
 ## TL;DR: highest-leverage moves
@@ -25,7 +77,9 @@
 
 ---
 
-## 1. Products you've found helpful, and how to use each one
+## 1. Products the author uses, and how to use each one
+
+These are the products I use (author's case study). They're examples, not a shopping list; equivalent fragrance-free products work the same way.
 
 | Product | What it is | Best use | Cautions |
 |---|---|---|---|
@@ -215,7 +269,7 @@ It is doable, but it costs more per cm² than option A. LED UVB is the least mat
 
 ### 2.8 Tanning beds and booths (personal experience; grade C)
 
-I've had some success treating psoriasis in tanning beds and stand-up booths. **The benefit comes from the small UVB fraction, not the UVA**, so the machine's lamps decide whether it helps. Dermatology groups (AAD, NPF) don't recommend tanning beds: they're a known carcinogen (IARC Group 1), and starting before age 35 raises melanoma risk. Use them only when NB-UVB isn't available, and tell your dermatologist.
+I've had some success treating psoriasis in tanning beds and stand-up booths. One uncontrolled trial backs this up: 16 of 20 patients improved after 6 weeks of commercial tanning-bed sessions under medical monitoring (Fleischer 1997). **The benefit comes from the small UVB fraction, not the UVA**, so the machine's lamps decide whether it helps. Dermatology groups (AAD, NPF) don't recommend tanning beds: they're a known carcinogen (IARC Group 1), and starting before age 35 raises melanoma risk. Use them only when NB-UVB isn't available, and tell your dermatologist.
 
 **Check the wavelengths before you pay:**
 
@@ -242,7 +296,7 @@ I've had some success treating psoriasis in tanning beds and stand-up booths. **
 
 ## 3. Oozing flares (eczema-type weeping): rescue protocol
 
-Your current tools (Hibiclens, bleach bath, steroid) are standard. Add the following, and see the infection signs at the end.
+Hibiclens, bleach baths and a steroid are the standard tools. Add the following, and see the infection signs at the end.
 
 1. **Dry it out: Burow's solution** (aluminum acetate, e.g. Domeboro). Mix 1–3 packets in 16 oz of cool water. Soak a cotton cloth and apply for **15–30 min, 2–4 times a day, for 2–3 days** until weeping stops. Stop after that, because it overdries. Apply steroid afterward. A cooled black-tea compress (tannins) is a weaker substitute.
 2. **Dilute bleach bath** (0.005%): **½ cup of regular 6% bleach in a full 40-gallon tub** (about 1 tsp per gallon). Soak 10 min, 2–3 times a week, keeping it off the face and eyes. Rinse, pat dry, and apply ointment within 3 min.
@@ -291,7 +345,7 @@ Wrapping clobetasol cream under plastic wrap (Saran or cling film) helped me cle
 
 For small, stubborn spots, covering the treated plaque seemed to speed up healing for me:
 - **Moist fabric bandage:** apply the steroid cream or ointment, then cover with a **BAND-AID Brand Flexible Fabric** bandage whose pad is moistened with **sterile or distilled water, the salicylic acid spray, or the hypochlorous acid spray**. It keeps the medicine in contact, keeps the spot moist and stops scratching.
-- **Hydrocolloid patches:** the gel-forming patches used for blisters and pimples. This has trial support: **clobetasol under a hydrocolloid dressing changed weekly** worked better than clobetasol applied openly in small trials, and the dressing alone helps a little by trapping moisture and blocking scratching.
+- **Hydrocolloid patches:** the gel-forming patches used for blisters and pimples. This has trial support: **clobetasol under a hydrocolloid dressing changed weekly** worked better than clobetasol applied openly in small trials (Volden 1992, 2001), and the dressing alone helps a little by trapping moisture and blocking scratching.
 
 **Rules:**
 - **Only on small, intact plaques.** Never on infected, oozing (with salicylic acid), cracked or raw skin, the face or folds.
@@ -311,11 +365,11 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 
 | Product | Use | Grade |
 |---|---|---|
-| Salicylic acid 2–6% (your PanOxyl spray) | Removes scale so other treatments penetrate | A (as an adjunct) |
+| Salicylic acid 2–6% (e.g. the PanOxyl spray in section 1) | Removes scale so other treatments penetrate | A (as an adjunct) |
 | Coal tar 0.5–5% (e.g. Neutrogena T/Gel shampoo) | Scalp | B. Smells and causes photosensitivity, so not right before sun |
 | Urea 20–40% | Thick palms, soles and nails | B |
 | Lactic acid / ammonium lactate 12% (e.g. AmLactin, Rx Lac-Hydrin) | Dry, rough, scaly skin between plaques; elbows, knees, shins, heels. See the benefits below | B (for dry, scaly skin; adjunct only for psoriasis) |
-| Ceramide/petrolatum (your CeraVe) | Daily barrier care, steroid-sparing | A (as an adjunct) |
+| Ceramide/petrolatum (e.g. the CeraVe ointment in section 1) | Daily barrier care, steroid-sparing | A (as an adjunct) |
 | Indigo naturalis oil (Lindioil) | Plaques and nails; works through the same receptor as tapinarof | B. Stains blue. **Never take it orally** (pulmonary hypertension, colitis) |
 | Mahonia aquifolium 10% cream | Mild plaques | C |
 | Aloe vera | Moisturizer only | Hype |
@@ -336,6 +390,8 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 
 ### Diet levers
 
+> **Don't over-restrict.** Most people with psoriasis have few or no food triggers. The food lists in sections 5 and 6 are **things to test if you suspect them**, not a diet to adopt. Cut **one or two things at a time**, for 6–8 weeks, and **bring back anything that made no difference** (section 8). Cutting many foods at once risks poor nutrition and stress, and tells you nothing about which one mattered. If you're avoiding more than a few food groups, see a dietitian. Be extra careful with children, pregnancy, and any history of disordered eating.
+
 - **Weight loss if overweight (A):** the NPF medical board's only *strong* dietary recommendation.
   - **GLP-1 drugs:** tirzepatide + ixekizumab gave 27% vs 6% reaching both PASI100 and ≥10% weight loss (TOGETHER-PsO). Semaglutide trials show similar signals.
 - **Mediterranean diet (B):** in MEDIPSO (JAMA Derm 2025), 47% reached PASI75 vs 0% on the control diet. Emphasizes extra-virgin olive oil, fish, vegetables and legumes.
@@ -349,11 +405,11 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
   - Check labels for whey or milk powder if dairy is one of your triggers.
   - **Sugar-free sauces:** [Vivid Kitchen](https://www.amazon.com/dp/B0DJ3T27F6) makes many sugar-free sauces that taste good. My pick is their Low-Calorie Sweet Chili Sauce (about 10 calories a serving, no MSG). Sweet chili sauces usually contain chili and vinegar: chili is high in salicylate (section 6.2) and vinegar is a histamine source (section 6.4). Use small amounts and test it on its own if you're doing a histamine or salicylate trial.
 
-### Your dairy/whey observation
+### Dairy and whey (the author's observation)
 
 - No psoriasis RCT exists. About half of people who cut dairy in NPF surveys report improvement (self-report).
 - **Plausible mechanism:** whey spikes insulin and casein raises IGF-1. Both activate mTORC1, which is overactive in psoriatic skin. (That mechanism is established in acne.)
-- Your consistent pattern is a good reason to **formally test it** (section 8) and to switch protein sources.
+- Dairy and whey reliably flare my skin. If you notice a consistent pattern like that, **formally test it** (section 8) before cutting dairy for good.
 
 ### Dairy-free protein for building muscle
 
@@ -402,23 +458,25 @@ These come from my own experience, not from trials. Each swap is lower-histamine
 
 ---
 
-## 6. Supplements: evidence check against your Notion stack
+## 6. Supplements: evidence check
+
+This section started as a check of my own supplement stack. Items marked **(author's stack)** are things I take; that is not a recommendation to take them. Most supplements do little for psoriasis, so read the verdict column.
 
 | Supplement | Psoriasis evidence | Verdict |
 |---|---|---|
-| **Omega-3 EPA+DHA** (you take it) | Meta-analyses conflict. Small benefit as an add-on to topicals or UV | **B-/C.** Keep at 2–3 g/day EPA+DHA. Also good for cardiovascular health (psoriasis raises CV risk). Bleeding caution with anticoagulants |
-| **Curcumin** (you take it) | Meriva (lecithin form) 2 g/day + topical steroid beat steroid alone (Antiga 2015, n=63) | **C/B-.** Only use a bioavailable form (Meriva, phytosome, Longvida). Check liver enzymes if on methotrexate |
-| **Probiotics** (your "lactic acid bacteria") | *B. longum* CECT7347 + *B. lactis* CECT8145 + *L. rhamnosus* CECT8361: PASI75 67% vs 42% | **B**, but strain-specific. Generic Lactobacillus may not match. Allow 12 weeks |
-| **Vitamin D3** (you take it) | Two RCTs null for skin at normal levels (Ingram 2018; Brustad 2023 JAMA Derm) | Take only to correct a deficiency (25-OH-D <20–30 ng/ml) at 1000–2000 IU. Topical vitamin D analogs are what work |
-| **Zinc / Selenium** (you take them) | RCTs null for psoriasis | Fine for other reasons. Don't expect skin benefit |
-| **Niacinamide** (you take it) | Topical: barrier support. Oral: skin-cancer prevention (ONTRAC trial, 500 mg twice daily), which is relevant if you do a lot of UV | Reasonable if you use phototherapy |
-| **Chaga, cordyceps, lion's mane, Korean ginseng, black seed, shiitake** (your table flags them as immune-activating) | No psoriasis data. Immune stimulants are theoretically unfavorable in an IL-17/IL-23 overactive disease | **Consider dropping them during the flare-tracking period.** Reintroduce one at a time if you miss them |
+| **Omega-3 EPA+DHA** (author's stack) | Meta-analyses conflict. Small benefit as an add-on to topicals or UV | **B-/C.** Keep at 2–3 g/day EPA+DHA. Also good for cardiovascular health (psoriasis raises CV risk). Bleeding caution with anticoagulants |
+| **Curcumin** (author's stack) | Meriva (lecithin form) 2 g/day + topical steroid beat steroid alone (Antiga 2015, n=63) | **C/B-.** Only use a bioavailable form (Meriva, phytosome, Longvida). Check liver enzymes if on methotrexate |
+| **Probiotics** (author's stack) | *B. longum* CECT7347 + *B. lactis* CECT8145 + *L. rhamnosus* CECT8361: PASI75 67% vs 42% | **B**, but strain-specific. Generic Lactobacillus may not match. Allow 12 weeks |
+| **Vitamin D3** (author's stack) | Two RCTs null for skin at normal levels (Ingram 2018; Brustad 2023 JAMA Derm) | Take only to correct a deficiency (25-OH-D <20–30 ng/ml) at 1000–2000 IU. Topical vitamin D analogs are what work |
+| **Zinc / Selenium** (author's stack) | RCTs null for psoriasis | Fine for other reasons. Don't expect skin benefit |
+| **Niacinamide** (author's stack) | Topical: barrier support. Oral: skin-cancer prevention (ONTRAC trial, 500 mg twice daily), which is relevant if you do a lot of UV | Reasonable if you use phototherapy |
+| **Chaga, cordyceps, lion's mane, Korean ginseng, black seed, shiitake** (flagged as immune-activating in the author's table) | No psoriasis data. Immune stimulants are theoretically unfavorable in an IL-17/IL-23 overactive disease | **Consider dropping them during the flare-tracking period.** Reintroduce one at a time if you miss them |
 | **Quercetin, EGCG** | No psoriasis RCTs | Neutral |
 | **Biotin** | None. Biotin helps skin only if you're deficient, which is rare | **Neutral; skip it for skin.** High doses (5–10 mg in hair/nail products) can **falsely skew blood tests**, including thyroid tests and troponin (a heart-attack marker). Stop it 2–3 days before blood work and tell your doctor you take it |
 | **Berberine** | Preclinical only (IL-17 suppression in mice) | Neutral. Helps metabolic health, which indirectly helps |
 | Oral indigo, apple cider vinegar, "leaky gut" kits, collagen-as-protein | None, or harmful | **Avoid** |
 
-Sections 6.1–6.3 below use the same columns as the Notion Supplements table: Histamine level, Salicylate level, Immune activation risk. They are aimed at people who suspect **histamine intolerance**, **salicylate sensitivity**, or flares from immune-stimulating products.
+Sections 6.1–6.3 below use these columns: Histamine level, Salicylate level, Immune activation risk. They are aimed at people who suspect **histamine intolerance**, **salicylate sensitivity**, or flares from immune-stimulating products.
 
 **Caveats:**
 - **Histamine intolerance** is a contested diagnosis. The only objective clues are low blood DAO activity and a clear response to a low-histamine diet.
@@ -432,18 +490,18 @@ Sections 6.1–6.3 below use the same columns as the Notion Supplements table: H
 |---|---|---|---|---|---|
 | **DAO enzyme** (diamine oxidase, e.g. Umbrellux DAO, Histamine Block, NaturDAO) | Breaks down histamine from food inside the gut | Low / lowers dietary histamine | Low | Not identified | **B-.** Small RCTs show fewer symptoms in people with low DAO (Schnedl 2019; Izquierdo-Casas 2019 for migraine). Take 1–2 capsules (10,000–20,000 HDU) 15 min before histamine-rich meals. It works only on histamine you eat, not on histamine your body releases |
 | **Vitamin C** (non-citrus buffered ascorbate or ascorbyl palmitate) | Speeds histamine breakdown; supports collagen | Low / lowers blood histamine | Low (if not from citrus or rosehip) | Not identified | **C.** 2 g/day lowered blood histamine about 38% (Johnston 1992). Use 500–1000 mg twice daily. Avoid citrus-flavored forms: your table flags citrus concentrates as a histamine liberator |
-| **Quercetin** (you take it) | Stabilizes mast cells; inhibited histamine release about as well as cromolyn in lab studies (Weng 2012) | Low / mast-cell stabilizer | **High** | Not identified | **C.** 250–500 mg twice daily. **Conflict:** high in salicylates, and it inhibits the DAO enzyme in some studies. Drop it if you're running a salicylate trial |
+| **Quercetin** (author's stack) | Stabilizes mast cells; inhibited histamine release about as well as cromolyn in lab studies (Weng 2012) | Low / mast-cell stabilizer | **High** | Not identified | **C.** 250–500 mg twice daily. **Conflict:** high in salicylates, and it inhibits the DAO enzyme in some studies. Drop it if you're running a salicylate trial |
 | **Luteolin** (often combined with PEA) | Mast-cell stabilizer, stronger than quercetin in lab studies | Low / mast-cell stabilizer | Medium | Not identified | **C.** 50–100 mg/day. Mostly lab and small pilot data |
 | **Diosmin** (best as micronized purified flavonoid fraction, MPFF, e.g. Daflon) | Citrus-derived flavonoid used for vein problems and hemorrhoids. Lab data show anti-inflammatory and some mast-cell-calming effects | Low | **Probably low if purified, but untested.** Diosmin itself is not a salicylate; the risk is citrus residue or blended "citrus bioflavonoids" | Not identified | **C.** No psoriasis or histamine trials. 500–1000 mg/day as MPFF. Choose a 90%+ diosmin label with no citrus bioflavonoid complex or flavors; test it alone (section 8). Mild stomach upset is the usual side effect |
 | **PEA** (palmitoylethanolamide, micronized or ultramicronized) | Calms mast cells and nerve-driven itch; a natural fat-derived compound | Low / mast-cell stabilizer | Low | Not identified | **C/B-.** 300–600 mg twice daily. Small trials for itch and eczema (topical PEA cream helped eczema itch). Very safe |
 | **Vitamin B6** (P5P) | Cofactor the DAO enzyme needs | Low / supports DAO | Low | Not identified | **C.** 10–25 mg/day. **Stay under 50 mg/day** because long-term high doses cause nerve damage |
-| **Copper** (you take copper glycinate) | Cofactor the DAO enzyme needs | Low / supports DAO | Low | Not identified | **C.** 1–2 mg/day. Keep a zinc-to-copper ratio of about 10–15:1, since you also take zinc |
-| **Magnesium glycinate** (you take it) | Low magnesium increases histamine release in animal studies | Low | Low | Not identified | **C.** 200–400 mg elemental. Already in your stack |
-| **Low-histamine probiotic strains** | Some strains break down histamine; others make it | Strain-dependent (your note) | Unknown | Strain-dependent | **C.** Strains considered neutral or histamine-lowering: *B. infantis*, *B. longum*, *B. breve*, *L. plantarum*, *L. rhamnosus* GG. **Avoid** *L. casei*, *L. bulgaricus* and *L. reuteri*, which produce histamine. The psoriasis RCT mix (*B. longum*, *B. lactis*, *L. rhamnosus*) is mostly low-histamine |
+| **Copper** (author's stack: copper glycinate) | Cofactor the DAO enzyme needs | Low / supports DAO | Low | Not identified | **C.** 1–2 mg/day. Keep a zinc-to-copper ratio of about 10–15:1, if you also take zinc |
+| **Magnesium glycinate** (author's stack) | Low magnesium increases histamine release in animal studies | Low | Low | Not identified | **C.** 200–400 mg elemental. |
+| **Low-histamine probiotic strains** | Some strains break down histamine; others make it | Strain-dependent | Unknown | Strain-dependent | **C.** Strains considered neutral or histamine-lowering: *B. infantis*, *B. longum*, *B. breve*, *L. plantarum*, *L. rhamnosus* GG. **Avoid** *L. casei*, *L. bulgaricus* and *L. reuteri*, which produce histamine. The psoriasis RCT mix (*B. longum*, *B. lactis*, *L. rhamnosus*) is mostly low-histamine |
 | **Stinging nettle leaf** (freeze-dried) | Antihistamine and anti-inflammatory | Low / possible antihistamine | Medium | Low–Medium (plant immune modulator) | **C.** 300–600 mg. One small allergy-symptom RCT. Mixed results |
 | **H1/H2 antihistamines** (cetirizine, fexofenadine, famotidine) | Block histamine receptors directly | n/a: blocks histamine | Low | Not identified | **A** for hives. These are drugs, not supplements, and the most reliable option. Cetirizine at night also helps itchy flares. **Personal experience:** cetirizine and fexofenadine noticeably cut my itch and histamine-driven breakouts. They block histamine's effect rather than lower histamine levels, so pair them with the diet and DAO steps. Psoriasis-itch evidence is weaker (**C**) than for hives. **Fexofenadine 180 mg** is non-drowsy, good for daytime; take it with water, not fruit juice (grapefruit, orange and apple juice cut absorption). **Cetirizine 10 mg** can be drowsy, good for bedtime. Higher doses only with a doctor |
 
-**Supplements in your stack that work against DAO (from your Notion table):**
+**Supplements that work against DAO (from the author's supplement table):**
 - **EGCG** (green tea extract) inhibits DAO.
 - **Citrus concentrates** release histamine.
 - **Shiitake** and the **fermented or lactic-acid products** carry histamine.
@@ -455,19 +513,19 @@ No supplement is proven to "lower salicylate levels." The body clears salicylate
 
 | Supplement | Potential benefits | Histamine level | Salicylate level | Immune activation risk | Evidence and dosing |
 |---|---|---|---|---|---|
-| **Glycine** (you take it) | The main amino acid the body attaches to salicylate to clear it | Low | Low | Not identified | **C.** Glycine supply can limit clearance at high salicylate loads, as shown in aspirin overdose studies. 3–5 g/day. Also helps sleep |
+| **Glycine** (author's stack) | The main amino acid the body attaches to salicylate to clear it | Low | Low | Not identified | **C.** Glycine supply can limit clearance at high salicylate loads, as shown in aspirin overdose studies. 3–5 g/day. Also helps sleep |
 | **Magnesium sulfate (Epsom salt) baths** | Supplies sulfate for detox pathways | Low | Low | Not identified | **Anecdotal.** Popular in salicylate-sensitivity communities. 2 cups per bath, 2–3 times a week. Very low risk. Moisturize afterward |
 | **Molybdenum** | Cofactor for sulfite oxidase; sometimes paired with sulfur and amine sensitivity | Low | Low | Not identified | **Anecdotal.** 75–150 mcg/day. Don't exceed the 2 mg/day upper limit |
 | **Taurine** | Amino acid for conjugation; calms nerves | Low | Low | Not identified | **C/anecdotal.** 500–2000 mg/day |
-| **Vitamin B12 (methylcobalamin)** (you take it) | Sometimes listed for sulfite and salicylate sensitivity | Low | Low | Not identified | **Anecdotal.** Keep at the current dose |
-| **Low-salicylate versions of your current supplements** | — | — | — | — | Swap curcumin (high salicylate) for **PEA**. Swap quercetin for **luteolin**. Pause beetroot, ginkgo, grape seed, kumazasa, mulberry and ume extracts, all flagged high in your table, during a salicylate trial |
+| **Vitamin B12 (methylcobalamin)** (author's stack) | Sometimes listed for sulfite and salicylate sensitivity | Low | Low | Not identified | **Anecdotal.** No dose established for this use |
+| **Low-salicylate swaps for common supplements** | — | — | — | — | Swap curcumin (high salicylate) for **PEA**. Swap quercetin for **luteolin**. Pause beetroot, ginkgo, grape seed, kumazasa, mulberry and ume extracts, all flagged high in the author's table, during a salicylate trial |
 
 **Why salicylic acid can help your skin even if you're salicylate-sensitive:** topical salicylic acid works mainly **where you put it**. It dissolves scale (grade A as a helper treatment), dampens local inflammation and reduces bacteria, and little reaches the bloodstream from small areas. Salicylate sensitivity is a **whole-body, dose-dependent intolerance**, closer to aspirin sensitivity than a true allergy: reactions track your total load across foods, supplements and medicines over a day or more. The proposed mechanism is the same COX-blocking action that calms inflammation: in sensitive people it may push the body toward leukotrienes, which can activate mast cells and cause hives, itch or eczema-type flares. So both can be true at once. A helpful spray neither proves nor rules out a dietary sensitivity; only an elimination-and-reintroduction test can (section 8). Keep the spray to small areas (under about 20% of body surface), and if a low-salicylate trial changes nothing, drop the diet restriction and keep the spray.
 
 **Other salicylate sources to watch:**
 - Mint and wintergreen toothpaste (methyl salicylate) — switch to an unflavored toothpaste.
 - Aspirin, Pepto-Bismol (bismuth subsalicylate) and muscle rubs.
-- Salicylic acid skin products, including **your PanOxyl spray**: some is absorbed through the skin, so pause it during a strict salicylate trial.
+- Salicylic acid skin products, including **the PanOxyl spray (section 1)**: some is absorbed through the skin, so pause it during a strict salicylate trial.
 - Herbal teas.
 
 ### 6.3 Supplements and foods with immune activation risk
@@ -481,12 +539,12 @@ No supplement is proven to "lower salicylate levels." The body clears salicylate
 | **Spirulina, chlorella, AFA blue-green algae** | Stimulate NK cells and interferon | **High** | Case series of autoimmune skin disease starting or flaring after use, especially dermatomyositis and pemphigus (Lee & Werth, *Arch Dermatol* 2004) |
 | **Echinacea** | Activates macrophages and stimulates TNF | **High** | Case reports of erythema nodosum and autoimmune flares. Often listed as "avoid in autoimmune disease" |
 | **Alfalfa** (tablets and sprouts) | L-canavanine | **High** | Causes lupus-like disease in primates. Human lupus flare case reports |
-| **Medicinal mushrooms**: chaga, reishi, cordyceps, lion's mane, shiitake (in your table), turkey tail, maitake | Beta-glucans activate macrophages and dendritic cells | **High** | Lab and immunology data. Shiitake causes "shiitake dermatitis," a whip-like rash. Little or no psoriasis data |
+| **Medicinal mushrooms**: chaga, reishi, cordyceps, lion's mane, shiitake (in the author's table), turkey tail, maitake | Beta-glucans activate macrophages and dendritic cells | **High** | Lab and immunology data. Shiitake causes "shiitake dermatitis," a whip-like rash. Little or no psoriasis data |
 | **Beta-glucan supplements** (yeast or oat "immune" products) | Act on the Dectin-1 receptor and drive an IL-17-type response | **High** | Mechanistic. Dectin-1 signaling promotes Th17 cells |
-| **Korean or Panax ginseng** (in your table) | Stimulates T, B and NK cells | **High** | Mechanistic. Rare reports of skin reactions |
+| **Korean or Panax ginseng** (in the author's table) | Stimulates T, B and NK cells | **High** | Mechanistic. Rare reports of skin reactions |
 | **Astragalus** | Stimulates T cells and interferon | **High** | Mechanistic. Traditionally avoided in autoimmune disease |
 | **Elderberry** | Raises cytokines (IL-1β, TNF, IL-6) in vitro | **Medium–High** | Mechanistic |
-| **Black seed oil** (in your table) | Activates macrophages and T cells | **Medium–High** | Mixed: it is also anti-inflammatory in some studies. One small topical psoriasis study was positive |
+| **Black seed oil** (in the author's table) | Activates macrophages and T cells | **Medium–High** | Mixed: it is also anti-inflammatory in some studies. One small topical psoriasis study was positive |
 | **Ashwagandha** | Immunomodulator with Th1 shift in some studies | **Medium** | Case reports of liver injury and autoimmune flares (thyroid) |
 | **Andrographis** | Immunostimulant | **Medium** | Mechanistic. Allergic reactions reported |
 | **Colostrum** | Immune factors from cow's milk | **Medium** | Also dairy, so remove it during the dairy trial |
@@ -520,6 +578,8 @@ No supplement is proven to "lower salicylate levels." The body clears salicylate
 
 ### 6.4 High-histamine and high-sodium foods, and DAO inhibitors
 
+*Read "avoid" below as "avoid during a histamine trial", not forever (see the over-restriction note in section 5).*
+
 **Why sodium matters for psoriasis:** high salt pushes immune cells toward Th17, the same IL-17 pathway that drives psoriasis (Kleinewietfeld, *Nature* 2013). High-salt diets also worsen psoriasis-like skin inflammation in mice. Foods that are both aged and salty hit you twice.
 
 **High-histamine and high-sodium foods to avoid**
@@ -536,7 +596,7 @@ No supplement is proven to "lower salicylate levels." The body clears salicylate
 
 | Category | Items | Notes |
 |---|---|---|
-| Drinks | Alcohol, green tea, black tea, energy drinks | Alcohol inhibits DAO and competes for the same breakdown pathway. Tea catechins (EGCG) inhibit DAO, matching your Notion note. Energy drinks are a weaker, mostly additive-based concern |
+| Drinks | Alcohol, green tea, black tea, energy drinks | Alcohol inhibits DAO and competes for the same breakdown pathway. Tea catechins (EGCG) inhibit DAO. Energy drinks are a weaker, mostly additive-based concern |
 | Medications (**never stop a prescribed drug without your doctor**) | NSAIDs (ibuprofen, naproxen); certain antibiotics; **cimetidine** | NSAIDs mostly raise gut permeability and can release histamine; they are also a possible psoriasis trigger. Antibiotics with lab or clinical evidence of DAO inhibition: **clavulanic acid** (in Augmentin), isoniazid. Other DAO inhibitors include metoclopramide, verapamil, amitriptyline and chloroquine. Among H2 blockers, **cimetidine** inhibits DAO. Famotidine is not a meaningful inhibitor and is used to *treat* histamine symptoms (section 6.1), though long-term acid suppression does change the gut microbiome |
 | Gut irritants | Artificial sweeteners, ultra-processed additives (emulsifiers), chronic stress | DAO is made in the gut lining, so anything that damages the lining lowers DAO output. The evidence is mostly animal and mechanistic |
 
@@ -550,7 +610,7 @@ No supplement is proven to "lower salicylate levels." The body clears salicylate
 | Fillers | Often microcrystalline cellulose and enteric coatings | Usually just organ tissue in a gelatin capsule |
 | Best use | Taken 15 min before a high-histamine meal for reliable breakdown | Food-based support plus cofactors |
 | Evidence | **B-** (small RCTs) | **None.** No trials. The idea that it "supports your body's long-term DAO production" is unproven: swallowed DAO works on food histamine in the gut, it isn't absorbed to build your own |
-| Cautions | Pork-derived versions are not suitable for some diets | Very high in purines (gout or kidney stone risk). Copper and selenium add up if you also take them separately (you take both). Some low-histamine lists flag organ meats. Test with the n-of-1 method |
+| Cautions | Pork-derived versions are not suitable for some diets | Very high in purines (gout or kidney stone risk). Copper and selenium add up if you also take them separately. Some low-histamine lists flag organ meats. Test with the n-of-1 method |
 
 **Choose an isolated DAO supplement if** you need reliable relief at a specific high-histamine meal, want a plant-based option (pea-sprout DAO), or want a standardized dose (HDU on the label).
 
@@ -576,8 +636,8 @@ No supplement is proven to "lower salicylate levels." The body clears salicylate
 |---|---|---|---|---|---|
 | **Luteolin** | Celery (low salicylate), chamomile, green peppers, oregano | Blocks mast-cell signaling; lowers IL-6 and TNF-α | **Most potent of the group in lab studies.** Beat cromolyn (a prescription mast-cell stabilizer) at blocking human mast-cell release (Weng 2012). Cromolyn itself works poorly on human skin mast cells, so this is a low bar in practice | Chamomile, peppers and oregano are high in salicylate. Supplement luteolin is moderate | **Best pick** if you take one, especially during a salicylate trial. 50–100 mg/day, often combined with PEA |
 | **Quercetin** | Red onion, capers, apples, berries | Lowers NF-κB and inhibits protein kinase C, stabilizing the mast-cell membrane | Effective in lab studies, but plain quercetin is **poorly absorbed**. Use phytosome or liposomal forms | **High salicylate** (supplement and the listed foods), and it may inhibit DAO in some lab studies | Calling it the "gold standard" overstates the evidence. Good if you're not salicylate-sensitive. 250–500 mg twice daily (phytosome) |
-| **Curcumin** | Turmeric | Inhibits COX-2 and NF-κB; reduces histamine release and vascular leak | Needs piperine or a phytosome/liposomal form to be absorbed | **High salicylate** (your table). Weak DAO inhibition in lab studies. **Piperine changes how the liver processes many drugs** (CYP3A4, P-gp), so check it against cyclosporine, methotrexate, blood thinners and other medications | Has the best psoriasis evidence of the four (Antiga 2015, Meriva). Prefer a **phytosome form without piperine** if you take medications |
-| **EGCG** | Green tea | Binds the IgE receptor (FcεRI) on mast cells and blocks allergy signals | Moderate | **Inhibits DAO** (your Notion note). High doses (over about 800 mg/day of EGCG) carry a **liver toxicity** risk (EFSA 2018) | **Skip if you're histamine-sensitive.** Topical green tea is fine |
+| **Curcumin** | Turmeric | Inhibits COX-2 and NF-κB; reduces histamine release and vascular leak | Needs piperine or a phytosome/liposomal form to be absorbed | **High salicylate** (author's table). Weak DAO inhibition in lab studies. **Piperine changes how the liver processes many drugs** (CYP3A4, P-gp), so check it against cyclosporine, methotrexate, blood thinners and other medications | Has the best psoriasis evidence of the four (Antiga 2015, Meriva). Prefer a **phytosome form without piperine** if you take medications |
+| **EGCG** | Green tea | Binds the IgE receptor (FcεRI) on mast cells and blocks allergy signals | Moderate | **Inhibits DAO**. High doses (over about 800 mg/day of EGCG) carry a **liver toxicity** risk (EFSA 2018) | **Skip if you're histamine-sensitive.** Topical green tea is fine |
 
 ### 6.7 Coffee: a possible hidden trigger for oozing flares
 
@@ -605,7 +665,7 @@ Fresh green coffee beans are low in histamine, but coffee may still raise histam
 |---|---|---|---|
 | **Rooibos tea** | Low (generally tolerated) | Moderate | Caffeine-free. Contains small amounts of quercetin and luteolin. "Rich in" overstates it |
 | **Swiss Water decaf**, single origin, fresh beans | Lower (no caffeine) | Moderate (lower than regular coffee) | Keeps the coffee ritual. Buy whole beans and grind fresh to limit amines |
-| **Roasted carob drink** | Low | Low–moderate | Coffee-like roasted flavor. Also replaces chocolate (one of your triggers) |
+| **Roasted carob drink** | Low | Low–moderate | Coffee-like roasted flavor. Also replaces chocolate (a common trigger, and one of the author's) |
 | **Roasted grain "coffee"** (barley, rye, e.g. Pero, Inka) | Low | Low | Contains gluten, so only if gluten isn't a problem for you |
 | Roasted chicory or dandelion | Low | Moderate | Some people get gut reactions (inulin). **Daisy (Compositae) family:** cross-reacts with ragweed and mugwort pollen, chamomile and echinacea, and can cause contact dermatitis. Blends often add barley or rye (gluten), almonds (tree nut), real coffee or flavors; start with plain 100% roasted chicory root |
 
@@ -682,7 +742,7 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 | **Hemp milk** | Low | Low–moderate | Low–moderate | Good | A middle option |
 | **Almond milk** | Moderate (nuts release histamine) | **High** | Moderate | Poor (4/10) | Avoid during a salicylate trial |
 | **Coconut milk** | Low | **Moderate–high** (lists disagree) | Low | Poor (3/10) if salicylate-sensitive | Fine if histamine is your only issue (it was listed as a swap in "My personal triggers"). Avoid during a salicylate trial |
-| **Macadamia milk** | Low | Moderate | Low–moderate | Fair | Your current swap. Test it |
+| **Macadamia milk** | Low | Moderate | Low–moderate | Fair | The author's current swap. Test it |
 | **Soy milk** | Moderate–high (soy releases histamine) | Moderate | **Very high** | Avoid (1/10) | Mainly a problem with **systemic nickel allergy** (a positive nickel patch test) or histamine sensitivity |
 
 **Nickel only matters if you have systemic nickel allergy** (a positive patch test plus hand or flexural eczema). It is not a psoriasis trigger.
@@ -691,7 +751,7 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 
 | Category | Option | How it helps energy | Skin and histamine profile | Evidence and notes |
 |---|---|---|---|---|
-| Metabolic | **CoQ10 (ubiquinol)** (you take it) | Part of the mitochondrial ATP chain | Non-stimulating, no known DAO effect, antioxidant | **C.** It noticeably raises energy only in people who are deficient (statin users, older adults). 100–200 mg with fat |
+| Metabolic | **CoQ10 (ubiquinol)** (author's stack) | Part of the mitochondrial ATP chain | Non-stimulating, no known DAO effect, antioxidant | **C.** It noticeably raises energy only in people who are deficient (statin users, older adults). 100–200 mg with fat |
 | Adaptogen | **Rhodiola rosea** | Reduces stress-related fatigue | Effects on mast cells and DAO are **unknown, not proven safe** | **B-** for fatigue (several small RCTs). 200–400 mg (3% rosavins) in the morning. Interacts with SSRIs and MAOIs; avoid in bipolar disorder. Some immune-modulating data, so introduce it on its own and track |
 | B-vitamin | **P5P (active B6)** | Energy-metabolism cofactor; the DAO enzyme needs it | Supports DAO | Gives no "energy boost" unless you're low. 10–25 mg/day. **Keep under 50 mg/day** (nerve damage risk), and count B6 from multivitamins |
 | Drink | **Rooibos tea** (hot or iced) | Ritual and hydration | Caffeine-free, generally low-histamine | Contains only small amounts of quercetin/luteolin. The mast-cell benefit is minor |
@@ -729,9 +789,9 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 
 | Proposed mechanism | Evidence |
 |---|---|
-| Citrate acts like a salicylate and releases mast-cell histamine | **Unsupported.** Citrate is not a salicylate. It is a normal body chemical (part of the energy cycle that makes ATP), and the body handles grams of it daily. The low-histamine reference list (SIGHI) generally rates added citric acid as tolerated. Your Notion table's salicylate rating for potassium and calcium citrate has no chemical basis |
+| Citrate acts like a salicylate and releases mast-cell histamine | **Unsupported.** Citrate is not a salicylate. It is a normal body chemical (part of the energy cycle that makes ATP), and the body handles grams of it daily. The low-histamine reference list (SIGHI) generally rates added citric acid as tolerated. Tables that rate potassium or calcium citrate as a salicylate have no chemical basis |
 | A sudden dose of potassium widens skin blood vessels and pushes fluid out | **Speculative.** Potassium does relax blood vessels locally, but normal supplement doses keep blood potassium in range. No study has linked oral potassium to eczema weeping |
-| **Pattern worth noticing:** coconut water, banana, avocado (guacamole) and chickpeas (hummus) are all **very high in potassium**, and most of them are on your trigger list | This fits a potassium explanation (or a "plant food concentrate" explanation) better than a citrate one |
+| **Pattern worth noticing:** coconut water, banana, avocado (guacamole) and chickpeas (hummus) are all **very high in potassium**, and most of them are on the author's trigger list | This fits a potassium explanation (or a "plant food concentrate" explanation) better than a citrate one |
 
 **An n-of-1 test that separates potassium from citrate** (only when the skin is calm, and only if you have normal kidney function and take no ACE inhibitors, ARBs or spironolactone):
 1. **Potassium without citrate:** a little potassium chloride salt substitute (e.g. NoSalt, about 1/8 tsp ≈ 300–400 mg potassium) in water, once daily for 3 days.
@@ -748,7 +808,7 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 - **Plain cold water** plus a **small pinch of salt** if you sweat heavily. "Unrefined sea salt" is nutritionally the same as table salt; trace minerals are negligible.
 - Keep **total daily sodium moderate** (section 6.4, the Th17 link). A pinch after a sweaty workout is fine; salty processed foods are not.
 - **Magnesium glycinate** for minerals: gentle on the gut and low-histamine.
-- **Electrolyte powders:** read labels and avoid potassium citrate, magnesium citrate and calcium citrate (based on your own experience). Also skip fruit-flavored and "natural flavor" powders (salicylates).
+- **Electrolyte powders:** read labels and avoid potassium citrate, magnesium citrate and calcium citrate (the author's experience; test your own). Also skip fruit-flavored and "natural flavor" powders (salicylates).
 
 #### Vitamin C without salicylates
 
@@ -822,7 +882,7 @@ FMT transfers stool from a screened healthy donor to reset the gut microbiome.
 
 - **Koebner (trauma → new plaques in 25–50% of patients):** don't pick scale; soften it with salicylic acid or urea instead. Avoid sunburn, tight gear rubbing, aggressive shaving and new tattoos during active disease.
 - **Strep throat:** it triggers guttate psoriasis 1–3 weeks later. **Get a rapid strep test** for any sore throat followed by a flare.
-- **Gum disease (personal experience; grade C):** regular dental cleanings, including laser treatment of my gums, helped my psoriasis a lot. The research backs the link: people with psoriasis have higher rates of periodontitis, and small studies found psoriasis scores improved after periodontal treatment. Gum inflammation is a chronic source of bacteria and inflammatory signals, much like strep is for guttate flares. Get cleanings every 3–6 months and ask your dentist to check gum pocket depths. Laser therapy is an add-on to deep cleaning (scaling and root planing); evidence that it beats deep cleaning alone is mixed, but it was worth it for me.
+- **Gum disease (personal experience; grade B- if you have gum disease):** regular dental cleanings, including laser treatment of my gums, helped my psoriasis a lot. The research backs the link: people with psoriasis have higher rates of periodontitis, and a randomized trial (2024, n=74) found that treating gum disease roughly halved psoriasis scores at 10 weeks compared with no gum treatment (PASI 3.2 vs 7.1), on top of normal skin treatment. The evidence base is still small. Gum inflammation is a chronic source of bacteria and inflammatory signals, much like strep is for guttate flares. Get cleanings every 3–6 months and ask your dentist to check gum pocket depths. Laser therapy is an add-on to deep cleaning (scaling and root planing); evidence that it beats deep cleaning alone is mixed, but it was worth it for me.
   - **Chlorhexidine mouth rinse (personal experience; grade B for gums, C for skin):** chlorhexidine helped my gum health, and my skin improved as a result. It's the best-studied antibacterial rinse for gingivitis and is often prescribed after deep cleanings.
     - In the US it's prescription-only as 0.12% (Peridex, PerioGard); ask your dentist.
     - Typical use is 15 mL swished for 30 seconds twice a day, then spit, for a short course (often 2–4 weeks) rather than indefinitely.
@@ -836,7 +896,7 @@ FMT transfers stool from a screened healthy donor to reset the gut microbiome.
     - Fruit or unflavored is better than mint if you're salicylate-sensitive (mint flavor contains salicylates, section 6.2).
     - **Xylitol is highly toxic to dogs.** Keep gum away from pets.
   - **Nano-hydroxyapatite toothpaste (personal experience; grade B for teeth):** I use [Mouthology 10% Nano Hydroxyapatite Toothpaste, Unflavored](https://www.amazon.com/dp/B0FT8NCGTP) (fluoride-free, SLS-free, with xylitol).
-    - Nano-hydroxyapatite is the same mineral as tooth enamel. It remineralizes early cavities and calms sensitivity, and RCTs found 10% nHA about as good as fluoride at preventing cavities.
+    - Nano-hydroxyapatite is the same mineral as tooth enamel. It remineralizes early cavities and calms sensitivity, and an 18-month RCT in adults found hydroxyapatite toothpaste no worse than fluoride at preventing cavities (Paszynska 2023).
     - **SLS-free** means no foaming detergent that can irritate gums or cause canker sores, and it doesn't block chlorhexidine the way SLS toothpastes do.
     - **Unflavored** is the pick for salicylate sensitivity: mint toothpaste is a salicylate source (section 6.2).
 - **Drug triggers:**
@@ -908,7 +968,8 @@ Scratching causes Koebner plaques and keeps the itch-scratch cycle going, so hav
    - An effect that repeats over 2 cycles is real. **Test milk and whey separately.**
 5. **One variable at a time.** Don't start probiotics, drop mushrooms and begin UVB in the same month.
 6. **Set success criteria in advance**, e.g. a ≥50% drop in plaque scores or itch down ≥2 points. Have someone rate your photos without knowing which phase they're from.
-7. **Watch for regression to the mean.** People start new things at the worst point of a flare, and flares fade on their own.
+7. **Do a weekly check-in** (2 minutes; template in the skill's `references/progress-log-template.md`): itch 0–10, sleep lost to itch, palm-count of affected skin (your palm with fingers ≈ 1%), special areas involved, mood, and photos. Compare to your baseline every 4 weeks. **If you cross the rule of tens (section 9), or you're no better after 8–12 weeks of doing things right, take the log to your dermatologist** instead of adding more experiments.
+8. **Watch for regression to the mean.** People start new things at the worst point of a flare, and flares fade on their own.
 
 ---
 
@@ -1020,7 +1081,7 @@ Psoriasis behaves differently by location, and the right treatment changes with 
 | Area | What works | Avoid | Notes |
 |---|---|---|---|
 | **Scalp** | Descale first: salicylic acid shampoo (e.g. Neutrogena T/Sal), or mineral oil or a salicylic acid scalp oil left on overnight under a shower cap, then wash. Then coal tar shampoo, clobetasol shampoo (Clobex, 15-minute contact then rinse), calcipotriene + betamethasone gel or foam, or roflumilast foam (Zoryve) | Picking or scraping scale (Koebner), hot blow-drying | If there's greasy yellow scale and flaking at the eyebrows and sides of the nose, it may overlap with seborrheic dermatitis ("sebopsoriasis"): add **ketoconazole 2% shampoo** 2×/week. Patch-test hair dye 48 h before use |
-| **Face** | Hydrocortisone 1–2.5%, tacrolimus or pimecrolimus, roflumilast cream (approved on face) | Clobetasol and other strong steroids (thinning, rosacea-like rash) | Your CeraVe Acne Control Cleanser and HOCl spray fit here (section 1) |
+| **Face** | Hydrocortisone 1–2.5%, tacrolimus or pimecrolimus, roflumilast cream (approved on face) | Clobetasol and other strong steroids (thinning, rosacea-like rash) | The CeraVe Acne Control Cleanser and HOCl spray fit here (section 1) |
 | **Folds** (armpits, groin, under breasts, buttock crease) | Low-potency steroid in short bursts, roflumilast, tacrolimus. Zinc oxide paste as a barrier | Salicylic acid, coal tar, strong steroids, occlusion | Folds look smooth, red and shiny, not scaly. Ask your doctor to check for **yeast (candida) or erythrasma**, which look similar and need different treatment. Keep dry; wear moisture-wicking underwear |
 | **Genitals** | Hydrocortisone 1%, desonide, tacrolimus, roflumilast. Fragrance-free lubricant; condoms reduce friction | Tar, salicylic acid, strong steroids, scented products | Very common (studies suggest up to about two-thirds of people with psoriasis at some point) and under-reported. It's a valid reason to ask for a biologic |
 | **Palms and soles** | Urea 40%, salicylic acid, clobetasol under cotton gloves or socks overnight (section 4 occlusion rules), hand-and-foot UVB or excimer | Wet work without gloves, harsh soaps | **Palmoplantar pustulosis** (sterile pus bumps) is strongly linked to smoking; quitting helps. Use cotton-lined nitrile gloves for wet work |
@@ -1073,7 +1134,10 @@ Hair makes creams messy, so I use sprays and liquids that get through to the ski
 
 - **Heart and metabolism:** psoriasis, especially moderate-to-severe, raises the risk of heart disease, diabetes and fatty liver (MASLD). Beyond the yearly labs in section 9: keep blood pressure and LDL on target, and ask whether you qualify for a statin. Controlling the skin inflammation itself may help.
 - **Eyes and gut:** sudden **eye pain, redness and light sensitivity** (uveitis) needs a same-day eye doctor. Ongoing diarrhea, blood in the stool or belly pain can signal IBD; tell your dermatologist before any IL-17 drug.
-- **Mental health:** depression and anxiety are much more common with psoriasis, and stress drives flares. Options with evidence: **CBT** (cognitive behavioral therapy; psychodermatology clinics specialize in skin), mindfulness (section 7), exercise, and peer support such as the **NPF One to One mentoring program** and r/Psoriasis.
+- **Mental health:** depression and anxiety are much more common with psoriasis, and stress drives flares. It's a medical part of the disease, not a personal failing.
+  - **Quick self-check (PHQ-2):** over the last 2 weeks, how often have you (a) had little interest or pleasure in doing things, or (b) felt down, depressed or hopeless? If either is "more than half the days", tell your doctor; it's treatable, and it's also a recognized reason to step up psoriasis treatment.
+  - **If you're having thoughts of harming yourself,** call or text **988** (US Suicide & Crisis Lifeline) or your local emergency number now.
+  - Options with evidence: **CBT** (cognitive behavioral therapy; psychodermatology clinics specialize in skin), mindfulness (section 7), exercise, and peer support such as the **NPF One to One mentoring program** and r/Psoriasis.
 - **Kids and teens:** childhood psoriasis is often triggered by strep (section 7) and linked to excess weight. Roflumilast cream is approved down to age 2 (section 9.1), and several biologics are approved for children. Talk to the school nurse about sunscreen and medication access, and watch for bullying and mood.
 
 ### 11.5 Vaccines, pregnancy and medication safety
@@ -1090,6 +1154,8 @@ Hair makes creams messy, so I use sprays and liquids that get through to the ski
 - **Drug interactions:** tell every doctor about your psoriasis. Lithium, beta-blockers, hydroxychloroquine and a prednisone taper can trigger flares (section 7).
 
 ### 11.6 Getting the most from your dermatologist and insurance
+
+A fill-in one-page visit summary is in the skill's `references/appointment-summary-template.md`.
 
 - **Measure before the visit:** your palm with fingers is about **1% of body surface area**. Count palms for a BSA estimate, and bring dated photos (section 8).
 - **List what you've tried,** with doses and durations ("clobetasol 0.05% twice daily × 2 weeks, partial"). Insurers use this "step therapy" history to approve biologics.
@@ -1145,3 +1211,13 @@ Hair makes creams messy, so I use sprays and liquids that get through to the ski
 - Alipour B et al. (2014). Effects of *Lactobacillus casei* supplementation on disease activity and inflammatory cytokines in rheumatoid arthritis. *Int J Rheum Dis* 17:519–527
 - Multi-strain probiotic capsules for psoriatic arthritis: pilot double-blind RCT (2025). *Food Sci Nutr* — https://pmc.ncbi.nlm.nih.gov/articles/PMC12588955/
 - Sood A et al. (2009). The probiotic preparation VSL#3 induces remission in mild-to-moderately active ulcerative colitis. *Clin Gastroenterol Hepatol* — https://pubmed.ncbi.nlm.nih.gov/19631292
+- Elmets CA et al. (2021). Joint AAD-NPF guidelines of care for the management and treatment of psoriasis with topical therapy and alternative medicine modalities. *J Am Acad Dermatol* 84(2):432–470 — https://pubmed.ncbi.nlm.nih.gov/32738429/ (sections 4, 11.1, 11.2)
+- Elmets CA et al. (2019). Joint AAD-NPF guidelines of care for psoriasis with awareness and attention to comorbidities. *J Am Acad Dermatol* 80(4):1073–1113 — https://pubmed.ncbi.nlm.nih.gov/30772097/ (sections 9, 11.4)
+- Menter A et al. (2020). Joint AAD-NPF guidelines of care for the management and treatment of psoriasis in pediatric patients. *J Am Acad Dermatol* 82(1):161–201 — https://doi.org/10.1016/j.jaad.2019.08.049 (section 11.4)
+- CDC. Shingles (recombinant zoster) vaccine recommendations, including adults ≥19 who are immunosuppressed — https://www.cdc.gov/shingles/hcp/vaccine-considerations/index.html (section 11.5)
+- Treatment of periodontitis ameliorates the severity and extent of psoriasis: a randomized clinical trial (2024). *J Periodontal Res* — https://pubmed.ncbi.nlm.nih.gov/38899599 (section 7)
+- Volden G (1992). Successful treatment of chronic skin diseases with clobetasol propionate and a hydrocolloid occlusive dressing. *Acta Derm Venereol*; Volden G et al. (2001). Remission and relapse of chronic plaque psoriasis treated once a week with clobetasol propionate occluded with a hydrocolloid dressing. *J Dermatolog Treat* 12(3) — https://www.tandfonline.com/doi/abs/10.1080/09546630152607862 (section 4)
+- Fleischer AB Jr et al. (1997). Commercial tanning bed treatment is an effective psoriasis treatment: results from an uncontrolled clinical trial. *J Invest Dermatol* 109(2):170–174 — https://www.sciencedirect.com/science/article/pii/S0022202X15429689 (section 2.8)
+- Paszynska E et al. (2023). Caries-preventing effect of a hydroxyapatite-toothpaste in adults: an 18-month double-blinded randomized clinical trial. *Front Public Health* — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10393266/ (section 7)
+
+**Not yet cited:** the cold plunge, cool-bed, bandage, wipe-down, UV sanitizer, toothbrush and chewing-gum tips in section 7 are personal experience with a plausible mechanism but no psoriasis trials. Sections 11.3 and 11.6 are practical advice without formal citations.

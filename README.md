@@ -31,6 +31,15 @@ cp -r psoriasis-biohack/skills/psoriasis-biohack ~/.claude/skills/
 cp -r psoriasis-biohack/skills/psoriasis-biohack ~/.codex/skills/
 ```
 
+What the skill does beyond answering questions:
+
+- asks about your situation first (diagnosis, how much skin, joints, current treatment) and can save it as a profile you control
+- has a "flare right now" mode: emergency signs, what to do tonight, when to call the doctor
+- suggests the cheapest and simplest options first
+- helps you build your own trigger list and find your own patterns; it treats the author's triggers as one person's data, not advice
+- runs a weekly check-in and tells you when it's time to see a dermatologist
+- prepares a one-page summary for your appointment
+
 Then ask something like *"how long should I hike in shorts at UV index 7?"* or *"design a 308 nm LED spot panel"*. The agent loads the skill automatically.
 
 The skill's `references/guide.md` is a copy of `GUIDE.md`. Edit `GUIDE.md`, then run `cp GUIDE.md skills/psoriasis-biohack/references/guide.md` to keep them in sync.
