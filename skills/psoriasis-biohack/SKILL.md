@@ -18,9 +18,9 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Oozing flare rescue (Burow's, bleach bath, Hibiclens, wet wraps, infection signs) | §3 |
 | Clobetasol rules, Rx non-steroid topicals, OTC adjuncts | §4 |
 | Diet, sugar-free swaps (stevia, allulose, ChocZero biscuits, Vivid Kitchen sauces), dairy/whey, dairy-free protein with leucine targets | §5 |
-| Supplement evidence check | §6 |
-| Histamine-lowering supplements (DAO, vitamin C, PEA, luteolin, low-histamine probiotics) | §6.1 |
-| Salicylate clearance support and the low-salicylate approach | §6.2 |
+| Supplement evidence check (incl. biotin and lab-test interference) | §6 |
+| Histamine-lowering supplements (DAO, vitamin C, PEA, luteolin, diosmin, low-histamine probiotics) | §6.1 |
+| Salicylate clearance support, the low-salicylate approach, and why topical salicylic acid can help even if salicylate-sensitive | §6.2 |
 | Supplements and foods with immune activation risk, plus a low-risk "safe base" food list | §6.3 |
 | High-histamine/high-sodium foods, DAO-inhibiting drinks and drugs | §6.4 |
 | DAO enzyme vs desiccated beef kidney; DAO, vitamin C and diet evidence | §6.5 |
