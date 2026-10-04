@@ -473,7 +473,9 @@ This section started as a check of my own supplement stack. Items marked **(auth
 | **Curcumin** (author's stack) | Meriva (lecithin form) 2 g/day + topical steroid beat steroid alone (Antiga 2015, n=63) | **C/B-.** Only use a bioavailable form (Meriva, phytosome, Longvida). Check liver enzymes if on methotrexate |
 | **Probiotics** (author's stack) | *B. longum* CECT7347 + *B. lactis* CECT8145 + *L. rhamnosus* CECT8361: PASI75 67% vs 42% | **B**, but strain-specific. Generic Lactobacillus may not match. Allow 12 weeks |
 | **Vitamin D3** (author's stack) | Two RCTs null for skin at normal levels (Ingram 2018; Brustad 2023 JAMA Derm) | Take only to correct a deficiency (25-OH-D <20–30 ng/ml) at 1000–2000 IU. Topical vitamin D analogs are what work |
-| **Zinc / Selenium** (author's stack) | RCTs null for psoriasis | Fine for other reasons. Don't expect skin benefit |
+| **Zinc** (author's stack) | Oral zinc RCTs were null for psoriasis (e.g. Burrows 1994). Topical **zinc pyrithione 0.25%** cleared plaques better than placebo in one small RCT (Sadeghian 2011) | **C for skin healing; no proven psoriasis benefit by mouth.** See the benefits below |
+| **Carotenoids** (beta-carotene, lycopene, lutein, astaxanthin) | No psoriasis RCTs. Observational studies link higher carotenoid intake and blood levels with less psoriasis | **C; food first.** See the benefits below |
+| **Selenium** (author's stack) | RCTs null for psoriasis | Fine for other reasons. Don't expect skin benefit |
 | **Niacinamide** (author's stack) | Topical: barrier support. Oral: skin-cancer prevention (ONTRAC trial, 500 mg twice daily), which is relevant if you do a lot of UV | Reasonable if you use phototherapy |
 | **Chaga, cordyceps, lion's mane, Korean ginseng, black seed, shiitake** (flagged as immune-activating in the author's table) | No psoriasis data. Immune stimulants are theoretically unfavorable in an IL-17/IL-23 overactive disease | **Consider dropping them during the flare-tracking period.** Reintroduce one at a time if you miss them |
 | **Quercetin, EGCG** | No psoriasis RCTs | Neutral |
@@ -481,6 +483,27 @@ This section started as a check of my own supplement stack. Items marked **(auth
 | **Collagen peptides** (hydrolyzed collagen; personal experience) | No psoriasis trials. For skin in general, meta-analyses of RCTs found better hydration and elasticity after 8–12 weeks (de Miranda 2021), but a 2025 meta-analysis found the benefit only in industry-funded and lower-quality trials (Myung 2025). It supplies glycine and proline, the building blocks of skin collagen | **C; personal experience.** Collagen peptides seem to help my skin heal. 2.5–10 g/day, with vitamin C (needed to build collagen). Low risk. **Watch-outs:** some low-histamine lists flag collagen, gelatin and bone broth, so test it alone if you're histamine-sensitive; marine collagen is a **fish allergen**; pick unflavored, third-party-tested powder. It doesn't count toward your protein target (section 5) |
 | **Berberine** | Preclinical only (IL-17 suppression in mice) | Neutral. Helps metabolic health, which indirectly helps |
 | Oral indigo, apple cider vinegar, "leaky gut" kits, collagen as your main protein source | None, or harmful | **Avoid** |
+
+**Zinc: benefits and how to take it**
+- **Wound healing and skin repair:** zinc is needed to make new skin cells and collagen, and low zinc slows healing.
+- **Skin barrier and immune balance:** it supports the barrier and normal immune function, and it's a mild antioxidant.
+- **Who benefits:** mainly people who are low in zinc (vegetarians and vegans, heavy sweaters, people with gut problems or who drink a lot). If your level is normal, extra zinc hasn't improved psoriasis in trials.
+- **Dose:** 15–30 mg elemental zinc a day with food (it causes nausea on an empty stomach). Glycinate or picolinate forms are gentle. **Stay under 40 mg a day** long term: more causes copper deficiency and can over-stimulate immunity (section 6.3). Pair long-term zinc with 1–2 mg copper.
+- **Timing:** take it 2 hours apart from iron, calcium and antibiotics such as doxycycline.
+- **Food sources:** oysters, beef, pumpkin seeds, uni.
+- **On the skin:** zinc oxide paste protects skin folds (section 11.1), and zinc pyrithione shampoo helps a flaky scalp.
+
+**Carotenoids: benefits and how to get them**
+- **What they are:** the yellow, orange and red plant pigments, including beta-carotene (carrots, sweet potato), lycopene (tomato, watermelon), lutein (leafy greens, egg yolk) and astaxanthin (salmon; uni has a related pigment).
+- **Antioxidant protection:** they build up in the skin and mop up the reactive molecules made by inflammation and UV.
+- **Mild sun protection:** 10 or more weeks of beta-carotene or lycopene slightly raises the dose of UV it takes to redden skin. It's small (roughly SPF 2–4) and no substitute for dosing UV properly, but worth knowing if you track UV response.
+- **Vitamin A source:** the body turns beta-carotene into vitamin A as needed, which skin cells need to mature normally.
+- **Food first:** a daily serving or two of orange and dark-green vegetables with some fat (they're fat-soluble) is enough. Several are flagged elsewhere in this guide: tomato is a histamine liberator and high in salicylate, and spinach is high in histamine. Carrots, sweet potato, pumpkin and salmon are easier options.
+- **Supplements:** astaxanthin 4–12 mg a day has small trials for skin moisture and elasticity (not psoriasis). Mixed carotenoids at food-like doses are reasonable.
+- **Cautions:**
+  - **Smokers and ex-smokers should not take high-dose beta-carotene** (20 mg a day or more); it raised lung cancer risk in two large trials (ATBC, CARET).
+  - Large amounts turn skin yellow-orange (harmless; fades when you cut back).
+  - Don't confuse carotenoids with **high-dose vitamin A (retinol)**, which is toxic in excess and must never be combined with acitretin.
 
 Sections 6.1–6.3 below use these columns: Histamine level, Salicylate level, Immune activation risk. They are aimed at people who suspect **histamine intolerance**, **salicylate sensitivity**, or flares from immune-stimulating products.
 
@@ -1320,5 +1343,7 @@ Lab-made antibodies that block one specific immune signal. All are given by inje
 
 - de Miranda RB et al. (2021). Effects of hydrolyzed collagen supplementation on skin aging: a systematic review and meta-analysis. *Int J Dermatol* 60(12):1449–1461
 - Myung SK, Park Y (2025). Effects of collagen supplements on skin aging: a systematic review and meta-analysis of randomized controlled trials. *Am J Med*
+- Burrows NP et al. (1994). A trial of oral zinc supplementation in psoriasis. *Cutis* 54(2):117–118
+- Sadeghian G et al. (2011). Treatment of localized psoriasis with a topical formulation of zinc pyrithione. *Acta Dermatovenerol Alp Pannonica Adriat* 20(4):187–190
 
 **Not yet cited:** the cold plunge, cool-bed, bandage, wipe-down, UV sanitizer, toothbrush and chewing-gum tips in section 7 are personal experience with a plausible mechanism but no psoriasis trials. Sections 11.3 and 11.6 are practical advice without formal citations.
