@@ -395,6 +395,11 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 - **Weight loss if overweight (A):** the NPF medical board's only *strong* dietary recommendation.
   - **GLP-1 drugs:** tirzepatide + ixekizumab gave 27% vs 6% reaching both PASI100 and ≥10% weight loss (TOGETHER-PsO). Semaglutide trials show similar signals.
 - **Mediterranean diet (B):** in MEDIPSO (JAMA Derm 2025), 47% reached PASI75 vs 0% on the control diet. Emphasizes extra-virgin olive oil, fish, vegetables and legumes.
+- **Salmon, fish and uni (personal experience; grade B- for oily fish):** eating salmon and other fish seems to help my skin heal and my overall condition. **Uni (sea urchin roe) helped a lot more than other fish** for me.
+  - **Why fish may help:** oily fish (salmon, sardines, herring, trout) supplies EPA and DHA, the anti-inflammatory omega-3 fats, plus vitamin D and selenium. Fish-oil trials in psoriasis are mixed (section 6), but fish is central to the Mediterranean diet above, and eating fish twice a week is also good for the heart.
+  - **Why uni might stand out:** it's rich in EPA, carotenoids (the orange pigments, which act as antioxidants), vitamin A, vitamin E and zinc. No study has tested uni for psoriasis, so this is one person's result. It's also expensive, so treat it as a bonus, not a treatment.
+  - **Keep histamine low:** fish builds histamine fast as it ages. Buy it very fresh or frozen at sea, cook or eat it the same day, and don't keep leftovers. Tuna, mackerel, smoked, canned and leftover fish are the high-histamine ones (section 6.4). Uni is eaten raw and spoils quickly, so only eat it from a trusted source.
+  - **Cautions:** fish is a major allergen, and sea urchin allergy exists though it's rare (it isn't a fish or a shellfish, so tolerance to those doesn't predict it). Avoid raw seafood if you're pregnant or on immune-suppressing drugs or biologics. Choose low-mercury fish (salmon, sardines, trout) over swordfish or large tuna.
 - **Alcohol (C):** the most-reported helpful change in NPF surveys. Minimize it, and avoid it entirely on methotrexate.
 - **Gluten-free (only if positive):** helps only if your celiac blood tests (tTG-IgA plus total IgA) are positive. Test before cutting gluten.
 - **Intermittent fasting / time-restricted eating (C):** probably works through the calorie deficit.

@@ -19,7 +19,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Tanning beds and booths: which lamps help (UVB fraction, /01 retrofit), how to check wavelengths, safe use | §2.8 |
 | Oozing flare rescue (Burow's, bleach bath, Hibiclens, wet wraps, infection signs) | §3 |
 | Clobetasol rules, plastic-wrap, fabric-bandage and hydrocolloid occlusion, Rx non-steroid topicals, OTC adjuncts (incl. lactic acid / ammonium lactate) | §4 |
-| Diet, sugar-free swaps (stevia, allulose, ChocZero biscuits, Vivid Kitchen sauces), dairy/whey, dairy-free protein with leucine targets | §5 |
+| Diet, salmon/oily fish and uni, sugar-free swaps (stevia, allulose, ChocZero biscuits, Vivid Kitchen sauces), dairy/whey, dairy-free protein with leucine targets | §5 |
 | Supplement evidence check (incl. collagen peptides, biotin and lab-test interference) | §6 |
 | Histamine-lowering supplements (DAO, vitamin C, PEA, luteolin, diosmin, low-histamine probiotics) | §6.1 |
 | Salicylate clearance support, the low-salicylate approach, and why topical salicylic acid can help even if salicylate-sensitive | §6.2 |
