@@ -919,6 +919,16 @@ Psoriasis behaves differently by location, and the right treatment changes with 
 | **Palms and soles** | Urea 40%, salicylic acid, clobetasol under cotton gloves or socks overnight (section 4 occlusion rules), hand-and-foot UVB or excimer | Wet work without gloves, harsh soaps | **Palmoplantar pustulosis** (sterile pus bumps) is strongly linked to smoking; quitting helps. Use cotton-lined nitrile gloves for wet work |
 | **Nails** | Keep short. Clobetasol or calcipotriene on the nail fold and cuticle area, tazarotene, steroid injections into the nail fold, IL-17 or IL-23 biologics (the strongest option) | Pushing back or cutting cuticles, aggressive manicures, picking lifted nails (Koebner) | Nails grow slowly, so judge any treatment at **6–12 months**. Get a **fungal test** first: nail fungus is common and looks similar. Nail psoriasis is a strong predictor of psoriatic arthritis (section 9) |
 
+**Itchy scalp: what works for me (personal experience)**
+
+Hair makes creams messy, so I use sprays and liquids that get through to the skin. Part the hair and aim at the plaques.
+
+| Option | How | Grade | Cautions |
+|---|---|---|---|
+| **Salicylic acid spray** (e.g. the PanOxyl 2% spray, section 1) | Spray on scaly, itchy patches, leave on, then wash out at your next shampoo | **A** as a descaler, so other treatments get in | Stings on scratched or open skin. Counts toward total salicylic acid use (section 1) |
+| **Betamethasone liquid** (Rx: betamethasone valerate 0.1% lotion or 0.12% foam, or calcipotriene + betamethasone gel) | Squirt a few drops straight onto the plaques and rub in gently, once or twice a day | **A** | A potent steroid: use it in bursts (about 2–4 weeks), then taper to a few days a week. Keep it off the forehead, face and ears, and wash your hands after |
+| **Diluted rosemary oil in water** (food grade) | A few drops per 100 mL water in a spray bottle (well under 1%). **Shake before every spray**, since oil floats | **C** for itch (studied for hair loss, not psoriasis) | "Food grade" doesn't mean safe on skin. Rosemary is a known contact allergen, so **patch-test** behind the ear for 48 h first. It's **very high in salicylate**, so skip it during a salicylate trial. Never use it on raw or oozing skin |
+
 ### 11.2 Proven treatments not covered above
 
 | Treatment | What it is | Grade | Notes |
