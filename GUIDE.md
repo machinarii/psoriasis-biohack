@@ -927,7 +927,6 @@ Hair makes creams messy, so I use sprays and liquids that get through to the ski
 |---|---|---|---|
 | **Salicylic acid spray** (e.g. the PanOxyl 2% spray, section 1) | Spray on scaly, itchy patches, leave on, then wash out at your next shampoo | **A** as a descaler, so other treatments get in | Stings on scratched or open skin. Counts toward total salicylic acid use (section 1) |
 | **Betamethasone liquid** (Rx: betamethasone valerate 0.1% lotion or 0.12% foam, or calcipotriene + betamethasone gel) | Squirt a few drops straight onto the plaques and rub in gently, once or twice a day | **A** | A potent steroid: use it in bursts (about 2–4 weeks), then taper to a few days a week. Keep it off the forehead, face and ears, and wash your hands after |
-| **Diluted rosemary oil in water** (food grade) | A few drops per 100 mL water in a spray bottle (well under 1%). **Shake before every spray**, since oil floats | **C** for itch (studied for hair loss, not psoriasis) | "Food grade" doesn't mean safe on skin. Rosemary is a known contact allergen, so **patch-test** behind the ear for 48 h first. It's **very high in salicylate**, so skip it during a salicylate trial. Never use it on raw or oozing skin |
 
 ### 11.2 Proven treatments not covered above
 
