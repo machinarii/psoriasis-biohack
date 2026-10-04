@@ -287,6 +287,19 @@ Wrapping clobetasol cream under plastic wrap (Saran or cling film) helped me cle
 - **Stop and tell your dermatologist** if you notice thinning, shiny skin, stretch marks, visible blood vessels, or folliculitis or pus bumps under the wrap.
 - Best done with your dermatologist's OK, especially for children or larger areas.
 
+**Bandage and hydrocolloid occlusion for small spots (personal experience; grade B for hydrocolloid)**
+
+For small, stubborn spots, covering the treated plaque seemed to speed up healing for me:
+- **Moist fabric bandage:** apply the steroid cream or ointment, then cover with a **BAND-AID Brand Flexible Fabric** bandage whose pad is moistened with **sterile or distilled water, the salicylic acid spray, or the hypochlorous acid spray**. It keeps the medicine in contact, keeps the spot moist and stops scratching.
+- **Hydrocolloid patches:** the gel-forming patches used for blisters and pimples. This has trial support: **clobetasol under a hydrocolloid dressing changed weekly** worked better than clobetasol applied openly in small trials, and the dressing alone helps a little by trapping moisture and blocking scratching.
+
+**Rules:**
+- **Only on small, intact plaques.** Never on infected, oozing (with salicylic acid), cracked or raw skin, the face or folds.
+- **Occlusion multiplies steroid strength.** Use a thin layer, and count bandaged clobetasol toward the 50 g/week and 2-week limits above. Use the salicylic acid–wet pad sparingly: under occlusion it also absorbs more and can sting or irritate.
+- **Change fabric bandages daily** (sooner if wet or dirty). Hydrocolloid patches can stay on until they lift or turn white and swollen, usually 1–3 days for small patches (the weekly regimen in trials was dermatologist-supervised).
+- **Peel slowly and in the direction of hair growth,** using water or an adhesive remover, so you don't tear skin; tearing can trigger new plaques (Koebner).
+- **Watch for adhesive allergy** (itchy red rash in the bandage shape), folliculitis or pus bumps, and skin thinning. Stop if any appear; latex-free and sensitive-skin bandages help.
+
 ### Non-steroid prescription topicals (no time limit, safe on face and folds)
 
 Ask your dermatologist about these to replace or rotate with clobetasol:
