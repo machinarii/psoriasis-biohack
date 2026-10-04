@@ -69,7 +69,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 7. **Flag conflicts:** when an item is low-histamine but high-salicylate (or the reverse), say so. Separate personal-experience claims from trial evidence.
    - Everything labeled "personal experience" or "my trigger" in the guide is **the author's n-of-1 data**. Never present it as advice for this user. Use it only as one example of a pattern, and only after the user's own data points the same way (see below).
 8. **Self-experiments:** change one variable at a time, run a 2–4 week baseline, and keep a 6–8 week elimination window.
-9. Keep a friendly, practical tone. End with "not medical advice; confirm Rx and UV dosing with a dermatologist" only once, briefly.
+9. Keep a friendly, practical tone. Always state, once and briefly, that this is **not medical advice and they should talk to their doctor** before changing treatments, supplements, diet or UV exposure.
 
 ## Personal trigger discovery (the author's method, applied to the user's own data)
 

@@ -17,7 +17,7 @@ It is an evidence-graded guide to managing psoriasis (with notes on eczema and o
 
 ➡️ **[Read the guide](GUIDE.md)**
 
-> Research summary, not medical advice. Confirm prescription use and UV dosing with a dermatologist. Never dose UV without a measured irradiance.
+> ⚠️ **Not medical advice. Talk to your doctor** before starting, stopping or changing any treatment, supplement, diet or UV exposure. This is a research summary mixed with one person's experience; what helped me may not help you. Never dose UV without a measured irradiance.
 
 ## Use it as an AI agent skill
 

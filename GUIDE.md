@@ -1,5 +1,7 @@
 # Psoriasis Biohack Guide
 
+> ⚠️ **Not medical advice. Talk to your doctor** (ideally a dermatologist) before starting, stopping or changing any treatment, supplement, diet or UV exposure. This guide mixes research with one person's experience. What helped me may not help you, and some of it can cause harm if misused.
+
 *Compiled 2026-10-01. Evidence grades: **A** = several RCTs or a meta-analysis. **B** = one or two RCTs or small trials. **C** = observational or mechanistic. **Hype** = popular, but the evidence is nil or negative. This is research, not medical advice. Run prescription items and UV dosing past a dermatologist.*
 
 > **First, a diagnosis check.** Oozing and weeping are typical of **eczema (atopic dermatitis)**, not plaque psoriasis. If your plaques ooze, the likely causes are eczema overlap, irritant reaction (salicylic acid, tar), infection (Staph, or herpes = emergency), or inverse psoriasis with candida. Get a dermatologist to confirm which one you have. The two diseases share some tools (steroids, UVB, barrier care) but run on different immune pathways (psoriasis = IL-23/IL-17; AD = IL-4/IL-13), and the biologics differ.
@@ -371,6 +373,7 @@ These come from my own experience, not from trials. Each swap is lower-histamine
 | Condiments | Teriyaki sauce (fermented soy) | Coconut aminos | Coconut aminos is lightly fermented. Most people tolerate it, but test it |
 | Dips / legumes | Hummus (chickpeas, tahini) | Zucchini "hummus" (no tahini), pumpkin seed dip | Guacamole: avocado is **high in histamine and salicylate** on most lists. Some lists also flag pumpkin seeds |
 | Fruit | Banana | Peeled golden pear, peeled golden delicious apple | Blueberries, cherries, tart and unpeeled apples are **high in salicylate**. See section 6.10 |
+| Nuts | Peanuts, Brazil nuts | Test one at a time: sunflower seed butter, or raw cashews (low salicylate on RPAH lists) | Nuts and peanuts are **histamine liberators** on SIGHI lists, and peanuts are high in **nickel** (a skin-allergy trigger). **Brazil nuts are extremely high in selenium** (one nut can have about 50–90 mcg), so they stack with any selenium supplement. Hives, lip swelling or wheezing after peanuts means a true allergy: see an allergist |
 | Sweets / drinks | Chocolate, wine, beer | Carob, fresh herbal tea; clear spirits (vodka or gin with plain soda) | Clear spirits are lower in histamine than wine or beer, but **alcohol of any kind is linked to psoriasis severity**. Keep it rare. Many herbal teas are high in salicylate |
 
 ---
@@ -739,9 +742,10 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
 - **Sleep:** aim for 7–9 h. Itch causes poor sleep, which causes flares. Take an antihistamine at night during itchy flares.
 - **Keep the bed cool (personal experience; grade C):** heat trapped under a blanket makes my itch and inflammation worse and wrecks my sleep. A **Chilipad 2.0** (Sleepme's water-cooled mattress pad) calmed my skin, made it feel better at night, and cut the itch. Warmth is a well-known itch trigger, and itch peaks at night as skin temperature rises, so there's a clear mechanism, though no trials of bed coolers in psoriasis.
   - Aim for a cool room, about 60–67 °F (16–19 °C), and set the pad cooler than feels "normal".
-  - Use breathable bedding (cotton percale, linen or bamboo) and a lighter duvet. Skip heavy synthetic comforters and electric blankets during flares.
+  - Use breathable sheets (cotton percale, linen or bamboo) and a lighter duvet. Skip electric blankets during flares.
+  - **Cooling gel pillows and gel mattress toppers didn't really work for me;** gel only feels cool until it warms up to body temperature. What did work: a **polyester-filled (down-alternative) blanket and pillow**. They're lighter and trap less heat than heavy comforters, they're hypoallergenic (no feathers or down), and you can wash them hot to kill dust mites.
   - Clean the water system as the maker directs (usually hydrogen peroxide or their cleaning solution every few weeks), and use distilled water. Stagnant water grows mold and bacteria.
-  - Cheaper options: a fan, a lighter blanket, a cooling pillowcase, or a cool shower followed by ointment before bed.
+  - Cheaper options: a fan, a lighter polyester-fill blanket, or a cool shower followed by ointment before bed.
 - **Exercise and sweating (personal experience; grade B for exercise):** working out hard enough to sweat helps my skin a lot. Regular exercise lowers systemic inflammation and helps with weight, stress and sleep, all linked to psoriasis severity. Shower soon after (lukewarm, fragrance-free), dry skin folds well, and moisturize. Sweat left sitting on skin, especially in folds, can itch and irritate eczema.
 - **Clean bedding (personal experience; grade C):** washing pillowcases, bed sheets and duvet covers regularly cut my flare-ups and itch. Bedding collects sweat, skin flakes, bacteria and dust mites, a common eczema trigger.
   - Change pillowcases 2–3× a week and sheets and duvet covers weekly.
