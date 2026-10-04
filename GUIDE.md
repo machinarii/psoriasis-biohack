@@ -786,7 +786,7 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 | Category | Option | How it helps energy | Skin and histamine profile | Evidence and notes |
 |---|---|---|---|---|
 | Metabolic | **CoQ10 (ubiquinol)** (author's stack) | Part of the mitochondrial ATP chain | Non-stimulating, no known DAO effect, antioxidant | **C.** It noticeably raises energy only in people who are deficient (statin users, older adults). 100–200 mg with fat |
-| Adaptogen | **Rhodiola rosea** | Reduces stress-related fatigue | Effects on mast cells and DAO are **unknown, not proven safe** | **B-** for fatigue (several small RCTs). 200–400 mg (3% rosavins) in the morning. Interacts with SSRIs and MAOIs; avoid in bipolar disorder. Some immune-modulating data, so introduce it on its own and track |
+| Adaptogen | **Rhodiola rosea** | Reduces stress-related fatigue | Effects on mast cells and DAO are **unknown, not proven safe** | **B-** for fatigue (several small RCTs). 200–400 mg (3% rosavins) in the morning. Check with your doctor or pharmacist before combining it with prescription medication; avoid in bipolar disorder. Some immune-modulating data, so introduce it on its own and track |
 | B-vitamin | **P5P (active B6)** | Energy-metabolism cofactor; the DAO enzyme needs it | Supports DAO | Gives no "energy boost" unless you're low. 10–25 mg/day. **Keep under 50 mg/day** (nerve damage risk), and count B6 from multivitamins |
 | Drink | **Rooibos tea** (hot or iced) | Ritual and hydration | Caffeine-free, generally low-histamine | Contains only small amounts of quercetin/luteolin. The mast-cell benefit is minor |
 | Pre-workout carbs | Tart cherry juice | Fast carbs | Low histamine, but **cherries are high in salicylate**. Diluting doesn't change that | Fine if you aren't salicylate-sensitive. Low-salicylate alternatives: **peeled pear, rice cakes with maple syrup, white rice** |
@@ -927,7 +927,6 @@ FMT transfers stool from a screened healthy donor to reset the gut microbiome.
 | **Stimulant supplements** | **Bitter orange (synephrine)**, **yohimbe / yohimbine**, ephedra (ma huang; banned in the US), DMAA and similar "fat burner" or pre-workout ingredients | Adrenaline-like effects | Avoid these altogether; they also raise heart rate and can cause dangerous rhythm problems |
 | **Herbs** | **Panax (Korean) ginseng**, St John's wort (through drug interactions), high-dose rosemary or arnica taken by mouth | Varies | Ginseng is also an immune stimulant (section 6.3) |
 | **Alcohol** | More than 1–2 drinks a day | Raises blood pressure over time | Also blocks DAO and worsens psoriasis (section 6.7) |
-| **Tyramine-rich foods** | Aged cheese, cured meat, fermented soy | Only a problem if you take an MAOI drug | Also high in histamine (section 6.4) |
 | **Nicotine** | Cigarettes, vapes, pouches | Narrows blood vessels | Smoking worsens psoriasis (section 7) |
 | **Too much vitamin D or calcium** | Vitamin D megadoses, heavy calcium supplements | High blood calcium | Calcipotriene overuse adds to this (section 12.2) |
 | **Over-the-counter drugs** | **Decongestants** (pseudoephedrine, phenylephrine), **NSAIDs** (ibuprofen, naproxen) | Narrow blood vessels; retain salt and water | NSAIDs can also flare psoriasis and bother salicylate-sensitive people |
