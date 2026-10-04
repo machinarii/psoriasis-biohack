@@ -46,6 +46,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Comorbidities (heart, metabolic, uveitis, IBD), mental health, kids | §11.4 |
 | Vaccines, TB/hepatitis screening, pregnancy, drug interactions | §11.5 |
 | Dermatologist visit prep, step therapy, Cost Plus/GoodRx, teledermatology | §11.6 |
+| Medical treatment reference list: steroid creams by potency class, vitamin D analog creams, UV types, methotrexate and other systemic drugs, all biologics with dosing intervals | §12 |
 
 ## Start with the person, not the guide
 

@@ -1175,6 +1175,91 @@ A fill-in one-page visit summary is in the skill's `references/appointment-summa
 
 ---
 
+## 12. Medical treatment reference list
+
+A plain list of the standard medical treatments, so you know the names when you talk to your doctor. All of these except low-strength hydrocortisone need a prescription in the US. Doses are typical adult ranges for orientation only; your prescriber sets yours. Current to October 2026 (newer drugs: section 9.1).
+
+### 12.1 Steroid creams and ointments (topical corticosteroids)
+
+Grouped by US potency class, 1 = strongest. Ointments are stronger than creams of the same drug; foams, sprays, lotions and solutions suit the scalp and hairy areas.
+
+| Class | Strength | Examples (generic, with common brands) | Typical use |
+|---|---|---|---|
+| 1 | Super-potent | **Clobetasol propionate 0.05%** (Temovate, Clobex, Olux), **halobetasol propionate 0.05%** (Ultravate), **augmented betamethasone dipropionate 0.05%** (Diprolene), fluocinonide 0.1% (Vanos), diflorasone diacetate 0.05% ointment | Thick plaques on the body, palms and soles. **2–4 weeks at a time,** up to 50 g a week (section 4) |
+| 2 | Potent | Fluocinonide 0.05% (Lidex), desoximetasone 0.25% (Topicort), betamethasone dipropionate 0.05% ointment, mometasone furoate 0.1% ointment, halcinonide 0.1% | Body plaques; step-down from class 1 |
+| 3–5 | Medium | **Triamcinolone acetonide 0.1%**, **betamethasone valerate 0.1%**, mometasone furoate 0.1% cream (Elocon), fluticasone propionate 0.05% cream (Cutivate), hydrocortisone valerate 0.2%, fluocinolone 0.025% | Larger areas, longer courses, thinner plaques |
+| 6 | Mild | Desonide 0.05%, alclometasone 0.05% (Aclovate), fluocinolone 0.01% | Face, folds, genitals, children; short courses |
+| 7 | Least potent | **Hydrocortisone 1%** (OTC) and 2.5% | Face, eyelids and folds; short courses |
+
+**Risks with overuse:** skin thinning, stretch marks, visible blood vessels, rebound flares on stopping, and (with large areas or occlusion) suppression of the body's own cortisol. The stronger the steroid and the thinner the skin, the shorter the course.
+
+### 12.2 Vitamin D creams (vitamin D analogs)
+
+These are prescription relatives of vitamin D3 that slow skin-cell overgrowth. They are **not** the same as vitamin D3 supplements or cosmetic "vitamin D creams", which don't treat psoriasis.
+
+| Drug | Brands and forms | Notes |
+|---|---|---|
+| **Calcipotriene** (calcipotriol) 0.005% | Dovonex cream, Sorilux foam, generic cream, ointment and scalp solution | The standard. Once or twice daily. **No more than 100 g a week** (can raise blood calcium). Can irritate the face and folds |
+| **Calcitriol** 3 mcg/g ointment (the active form of vitamin D3) | Vectical | Gentler on the face and folds. Up to 200 g a week |
+| Tacalcitol | Curatoderm (outside the US) | Once daily |
+| **Calcipotriene + betamethasone dipropionate** | Taclonex ointment and scalp suspension, **Enstilar** foam, **Wynzora** cream | Once daily. Works better than either drug alone, and the vitamin D part offsets steroid thinning. Good for maintenance twice a week |
+
+Apply vitamin D analogs **after** UV sessions, not before (UV breaks them down, and the cream can block UV). Other non-steroid creams (tapinarof, roflumilast, tacrolimus, tazarotene) are in sections 4 and 11.2.
+
+### 12.3 Ultraviolet light (phototherapy)
+
+| Type | What it is | Notes |
+|---|---|---|
+| **Narrowband UVB (311 nm)** | The standard. Clinic cabinet or prescribed home unit, 2–3 sessions a week | Grade A. Safe in pregnancy and for children. Details in section 2.1 |
+| Broadband UVB (290–320 nm) | The older form of UVB | Less effective and burns more easily than narrowband |
+| **Excimer laser or lamp (308 nm)** | Targeted high-dose UVB for small stubborn areas (XTRAC, Pharos) | Spares healthy skin. Section 2.2 |
+| **PUVA** | Psoralen (a light-sensitizing drug, taken by mouth, in a bath, or painted on) plus UVA | Very effective, including for palms and soles, but raises skin-cancer risk with long-term use. Clinic only. Section 2.3 |
+| Goeckerman | Coal tar plus UVB in a day-treatment center | Section 11.2 |
+| Sunlight (heliotherapy) | Dosed natural sun | Section 2.4 |
+| Tanning beds | Not a medical treatment; benefit depends on UVB output | Section 2.8 |
+
+### 12.4 Pills and other systemic drugs (non-biologic)
+
+"Immunosuppressive" applies to methotrexate and cyclosporine. The others adjust the immune system more narrowly or work differently.
+
+| Drug | Type | Typical adult dose | Key points |
+|---|---|---|---|
+| **Methotrexate** | Immunosuppressant (antimetabolite) | 7.5–25 mg **once a week** (pill or injection), with folic acid | Cheap and long-used; also treats psoriatic arthritis. Needs regular blood counts and liver tests. **No alcohol. Never in pregnancy,** and both partners should avoid conceiving on it. Taking it daily by mistake is dangerous |
+| **Cyclosporine** | Immunosuppressant (calcineurin inhibitor) | 2.5–5 mg/kg a day | Works fast, good for severe flares. Can harm kidneys and raise blood pressure, so usually limited to about a year. Many drug interactions; no grapefruit |
+| **Acitretin** (Soriatane) | Oral retinoid (not immunosuppressive) | 10–50 mg a day | Good for pustular and palm-and-sole psoriasis, and with UVB. Dry lips and skin, raised blood fats. **No pregnancy for 3 years after stopping** |
+| **Apremilast** (Otezla) | PDE4 inhibitor | 30 mg twice a day | No routine blood tests. Modest effect. Diarrhea, nausea, weight loss; watch mood |
+| **Deucravacitinib** (Sotyktu) | TYK2 inhibitor | 6 mg once a day | More effective than apremilast |
+| **Icotrokinra** (Icotyde) | Oral IL-23 receptor blocker | Once a day | Approved March 2026 (section 9.1) |
+| Dimethyl fumarate / fumaric acid esters (Skilarence, Fumaderm) | Immune-modulating | Stepped dosing | Used in Europe, not approved for psoriasis in the US. Flushing, stomach upset, low lymphocytes |
+| Mycophenolate, azathioprine, hydroxyurea | Immunosuppressants | — | Occasional off-label options when others can't be used |
+| Tofacitinib (Xeljanz), upadacitinib (Rinvoq) | JAK inhibitors | — | Approved for psoriatic arthritis, not skin psoriasis |
+
+**Avoid oral steroids (prednisone) for psoriasis:** stopping them can trigger severe pustular or erythrodermic flares (section 7).
+
+### 12.5 Biologics (injections and infusions)
+
+Lab-made antibodies that block one specific immune signal. All are given by injection under the skin except infliximab (IV infusion). The interval is the usual maintenance schedule after starter doses.
+
+| Target | Drug (brand) | Usual interval | Notes |
+|---|---|---|---|
+| **TNF-alpha** | Etanercept (Enbrel) | Weekly | The oldest class. Also treat psoriatic arthritis. Less skin clearance than IL-17 or IL-23 drugs. Avoid with heart failure or multiple sclerosis |
+| | **Adalimumab** (Humira and many biosimilars) | Every 2 weeks | Cheap biosimilars |
+| | Infliximab (Remicade and biosimilars) | IV every 8 weeks | Fast; weight-based dose |
+| | Certolizumab pegol (Cimzia) | Every 2 weeks | Preferred in pregnancy (crosses the placenta least) |
+| **IL-12/23** | **Ustekinumab** (Stelara and biosimilars) | Every 12 weeks | Long safety record; cheap biosimilars |
+| **IL-17** | **Secukinumab** (Cosentyx) | Every 4 weeks | Fast, high clearance; good for joints and nails. Can cause yeast infections; **avoid with inflammatory bowel disease** |
+| | **Ixekizumab** (Taltz) | Every 4 weeks | |
+| | Brodalumab (Siliq) | Every 2 weeks | Blocks the IL-17 receptor. US boxed warning about suicidal thoughts |
+| | **Bimekizumab** (Bimzelx) | Every 8 weeks | Blocks IL-17A and IL-17F; among the highest clearance rates; more oral yeast infections |
+| **IL-23** | **Guselkumab** (Tremfya) | Every 8 weeks | High, durable clearance with few injections and a good safety record |
+| | **Risankizumab** (Skyrizi) | Every 12 weeks | |
+| | Tildrakizumab (Ilumya) | Every 12 weeks | |
+| **IL-36 receptor** | Spesolimab (Spevigo) | IV for flares; injection every 4 weeks for prevention | For **generalized pustular psoriasis** only |
+
+**Before and during a biologic:** TB and hepatitis B/C tests first, no live vaccines while on it, and tell your doctor about infections or planned surgery (section 11.5). Which one fits depends on joints, bowel disease, pregnancy plans, other conditions and insurance; the comparison and cost help are in section 9.
+
+---
+
 ## Key sources
 
 - AAD-NPF phototherapy guideline 2019 — https://www.jaad.org/article/S0190-9622(19)30637-1/fulltext
