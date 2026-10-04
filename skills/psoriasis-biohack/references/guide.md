@@ -737,6 +737,11 @@ This makes vitamin C compatible with both a low-histamine and a low-salicylate p
 - **Stress:** in one trial, mindfulness audio during phototherapy made skin clear about **4× faster** (Kabat-Zinn 1998, small). It's free, so use a meditation app during UV sessions.
 - **Smoking:** dose-dependent link with severity and palmoplantar pustulosis. Quit.
 - **Sleep:** aim for 7–9 h. Itch causes poor sleep, which causes flares. Take an antihistamine at night during itchy flares.
+- **Keep the bed cool (personal experience; grade C):** heat trapped under a blanket makes my itch and inflammation worse and wrecks my sleep. A **Chilipad 2.0** (Sleepme's water-cooled mattress pad) calmed my skin, made it feel better at night, and cut the itch. Warmth is a well-known itch trigger, and itch peaks at night as skin temperature rises, so there's a clear mechanism, though no trials of bed coolers in psoriasis.
+  - Aim for a cool room, about 60–67 °F (16–19 °C), and set the pad cooler than feels "normal".
+  - Use breathable bedding (cotton percale, linen or bamboo) and a lighter duvet. Skip heavy synthetic comforters and electric blankets during flares.
+  - Clean the water system as the maker directs (usually hydrogen peroxide or their cleaning solution every few weeks), and use distilled water. Stagnant water grows mold and bacteria.
+  - Cheaper options: a fan, a lighter blanket, a cooling pillowcase, or a cool shower followed by ointment before bed.
 - **Exercise and sweating (personal experience; grade B for exercise):** working out hard enough to sweat helps my skin a lot. Regular exercise lowers systemic inflammation and helps with weight, stress and sleep, all linked to psoriasis severity. Shower soon after (lukewarm, fragrance-free), dry skin folds well, and moisturize. Sweat left sitting on skin, especially in folds, can itch and irritate eczema.
 - **Clean bedding (personal experience; grade C):** washing pillowcases, bed sheets and duvet covers regularly cut my flare-ups and itch. Bedding collects sweat, skin flakes, bacteria and dust mites, a common eczema trigger.
   - Change pillowcases 2–3× a week and sheets and duvet covers weekly.
