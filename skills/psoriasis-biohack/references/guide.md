@@ -910,6 +910,36 @@ FMT transfers stool from a screened healthy donor to reset the gut microbiome.
 
 **Bottom line:** FMT is promising for some gut diseases, but for psoriasis there are only case reports, and the one psoriatic-arthritis RCT was negative. **Never do DIY FMT.** Unscreened stool can transmit dangerous infections (the FDA reported deaths from drug-resistant bacteria passed through FMT in 2019). If you're curious, ask about a registered clinical trial (clinicaltrials.gov, search "psoriasis fecal microbiota"). Probiotics are the safe, evidence-backed way to work on the gut-skin axis today.
 
+### 6.13 Supplements and ingredients that raise blood pressure
+
+**My experience:** things that raise my blood pressure seem to lead to more oozing.
+
+**What the evidence says:** no study links blood pressure itself to oozing skin. Oozing comes from inflamed, leaky blood vessels in the skin, not from pressure in the arteries. There are more likely explanations for the pattern, and they point to the same list:
+- **Fluid retention.** Salt, licorice, NSAIDs and oral steroids make the body hold water. Swelling, especially in the lower legs, pushes more fluid out through broken skin. This is the most plausible link.
+- **Overlap with other triggers.** Many items below also act on histamine (caffeine, alcohol), salicylate sensitivity (NSAIDs), the Th17 pathway (sodium, section 6.4) or the immune system (ginseng, section 6.3).
+- **Blood pressure matters anyway.** Psoriasis raises the risk of high blood pressure and heart disease (section 11.4), so this list is worth knowing either way.
+
+| Category | Items | How they raise blood pressure | Other notes |
+|---|---|---|---|
+| **Licorice** | Real licorice root, black licorice candy, licorice tea, some herbal blends and "adrenal support" supplements | Glycyrrhizin makes the body retain sodium and water and lose potassium | The strongest food cause. **DGL** (deglycyrrhizinated licorice) doesn't do this |
+| **Sodium** | Table salt, soy sauce, broths, processed and canned food, **baking soda** (sodium bicarbonate), effervescent (fizzy) tablets and vitamin C, sodium ascorbate, many electrolyte powders | Fluid retention | Also drives the Th17 pathway (section 6.4). Fizzy tablets can hold up to 1 g of sodium each |
+| **Caffeine and stimulant plants** | Coffee, energy drinks, pre-workout powders, **guarana**, yerba mate, kola nut, high-dose green tea extract | Stimulate the heart and narrow blood vessels (the rise is short-lived in regular users) | Caffeine also appears on DAO-blocker lists (section 6.7) |
+| **Stimulant supplements** | **Bitter orange (synephrine)**, **yohimbe / yohimbine**, ephedra (ma huang; banned in the US), DMAA and similar "fat burner" or pre-workout ingredients | Adrenaline-like effects | Avoid these altogether; they also raise heart rate and can cause dangerous rhythm problems |
+| **Herbs** | **Panax (Korean) ginseng**, St John's wort (through drug interactions), high-dose rosemary or arnica taken by mouth | Varies | Ginseng is also an immune stimulant (section 6.3) |
+| **Alcohol** | More than 1–2 drinks a day | Raises blood pressure over time | Also blocks DAO and worsens psoriasis (section 6.7) |
+| **Tyramine-rich foods** | Aged cheese, cured meat, fermented soy | Only a problem if you take an MAOI drug | Also high in histamine (section 6.4) |
+| **Nicotine** | Cigarettes, vapes, pouches | Narrows blood vessels | Smoking worsens psoriasis (section 7) |
+| **Too much vitamin D or calcium** | Vitamin D megadoses, heavy calcium supplements | High blood calcium | Calcipotriene overuse adds to this (section 12.2) |
+| **Over-the-counter drugs** | **Decongestants** (pseudoephedrine, phenylephrine), **NSAIDs** (ibuprofen, naproxen) | Narrow blood vessels; retain salt and water | NSAIDs can also flare psoriasis and bother salicylate-sensitive people |
+| **Prescription drugs** | Oral steroids (prednisone), **cyclosporine**, some antidepressants (venlafaxine), ADHD stimulants, estrogen-containing birth control | Varies | **Don't stop these yourself.** Cyclosporine needs regular blood-pressure checks (section 12.4) |
+
+**What to do:**
+- **Measure, don't guess.** A home blood-pressure cuff costs about $30–50. Log readings in your trigger log alongside oozing (section 8) to see whether your pattern holds, and whether it's the blood pressure or the substance.
+- **Check for leg swelling.** If oozing is mostly on the lower legs and worse by evening, tell your doctor; raising your legs and compression (if your doctor agrees) can help.
+- **Sustained readings of 130/80 or higher** deserve a doctor's visit regardless of your skin.
+- **Don't change blood-pressure medicine on your own.** Beta-blockers and, less often, ACE inhibitors can trigger psoriasis (section 7), so if you need treatment, tell the prescriber you have psoriasis and ask about alternatives.
+- **Things that help both:** less sodium, less alcohol, regular exercise, weight loss, good sleep, and potassium from food if your kidneys are healthy (noting the author's own potassium triggers, section 6.11).
+
 ---
 
 ## 7. Lifestyle and triggers
