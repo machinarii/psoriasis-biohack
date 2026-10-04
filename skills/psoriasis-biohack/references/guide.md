@@ -751,6 +751,58 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 
 This makes vitamin C compatible with both a low-histamine and a low-salicylate plan (section 6.1 dosing: 500–1000 mg twice daily). It also replaces the advice to "avoid ascorbate forms," which conflicts with using vitamin C for histamine.
 
+### 6.12 Probiotics, the gut-skin axis, and fecal transplants
+
+**My experience:** probiotics helped my stomach problems, and my psoriasis seemed to improve along with them. That fits the "gut-skin axis": people with psoriasis tend to have a less diverse gut microbiome and more gut inflammation, and calming the gut may lower whole-body inflammation.
+
+**What the evidence says about probiotics (grade B as an add-on):**
+- **The best single trial:** a mix of *B. longum* CECT7347, *B. lactis* CECT8145 and *L. rhamnosus* CECT8361 for 12 weeks, alongside topical steroids, gave 67% PASI75 vs 42% on placebo (Navarro-López 2019, n=90). Patients on the probiotic also relapsed less in the following 6 months.
+- **Meta-analyses:** a 2024 meta-analysis found PASI was clearly lower with probiotics than placebo (SMD −1.40; Wei 2024), and a 2025 meta-analysis of 15 RCTs (1,423 people) of probiotics and synbiotics found a modest PASI drop with no major side effects.
+- **Limits:** trials are small, use different strains, and test probiotics *on top of* standard treatment, not instead of it. Benefits are strain-specific, so a random probiotic may not match the trial.
+
+**Specific strains with trial evidence**
+
+| Strain or product | Condition | Trial | Result | Histamine note |
+|---|---|---|---|---|
+| ***B. longum* CECT7347 + *B. lactis* CECT8145 + *L. rhamnosus* CECT8361** | Psoriasis | Navarro-López 2019, Spain, n=88, 12 weeks + 6-month follow-up | **PASI75 67% vs 42%**; fewer relapses | Low-histamine strains |
+| ***Lactiplantibacillus plantarum* IS-10506** (2×10¹⁰ CFU/day) | Psoriasis | Umborowati 2024, Indonesia, n=49, 12 weeks | PASI lower than placebo at weeks 6 and 12 | Low-histamine species |
+| **Multi-strain *Lactobacillus*/*Bifidobacterium*** (*L. acidophilus*, *B. bifidum*, *B. lactis*, *B. longum*; about 1.8×10⁹ CFU twice daily) | Psoriasis | Moludi 2021, Iran, n=50, 8 weeks | PASI drop −5.3 vs −0.5; lower CRP | Mostly low-histamine |
+| **Lactocare synbiotic** (multi-strain + prebiotic) with hydrocortisone | Psoriasis | Akbarzadeh 2022, Iran, n=52, 12 weeks | Lower PASI than hydrocortisone alone | Contains *L. casei* and *L. bulgaricus* (histamine producers) |
+| ***L. rhamnosus*** | Psoriasis | Gilli 2023 (n=35): PASI fell. Suriano 2023 (n=103, 6 months): **no difference vs placebo** | Mixed | Low-histamine |
+| ***B. infantis* 35624** (sold as Align) | Psoriasis, ulcerative colitis, chronic fatigue | Groeger 2013, small RCTs, 6–8 weeks | Lowered CRP in all three; lowered TNF-α in psoriasis (skin scores not measured) | Low-histamine |
+| **11-strain mix** (1×10⁹ CFU) | Psoriatic arthritis | 2025 pilot RCT, n=14, 12 weeks | Shifted immune markers toward anti-inflammatory (IL-10, TGF-β up; IFN-γ down); **no change in disease activity** | Contains *L. casei*, *L. bulgaricus* |
+| ***L. casei* 01** (10⁸ CFU) | Rheumatoid arthritis | Alipour 2014, Iran, women, 8 weeks | Lower DAS28, CRP and joint counts | *L. casei* produces histamine |
+| **VSL#3 / Visbiome** (8-strain, very high dose) | Ulcerative colitis | Sood 2009 RCT, 12 weeks | Remission 43% vs 16% | Contains *L. casei* and *L. bulgaricus* |
+
+**Reading the table:**
+- The **psoriasis trials are small** and mostly add probiotics to standard treatment. The strongest single result is the Spanish three-strain mix.
+- **No strain is a cure.** Expect a modest add-on effect at best, judged over 8–12 weeks.
+- If you're **histamine-sensitive**, favor the *Bifidobacterium*, *L. rhamnosus* and *L. plantarum* options, and test mixes containing *L. casei* or *L. bulgaricus* carefully.
+- Commercial availability varies by country; match the **exact strain code** on the label when possible.
+
+**How to choose and use one:**
+1. **Use trial strains when you can** (table above), or low-histamine strains (*B. longum*, *B. infantis*, *B. breve*, *B. lactis*, *L. rhamnosus* GG, *L. plantarum*). If you're histamine-sensitive, **avoid** *L. casei*, *L. bulgaricus* and *L. reuteri* (section 6.1).
+2. **Dose:** about 1–10 billion CFU a day, taken daily for **at least 8–12 weeks** before judging.
+3. **Pick a dairy-free label** if dairy is one of your triggers; some probiotics are grown on milk.
+4. **Track it like any other change** (section 8): note stomach symptoms and skin separately. Mild gas or bloating in the first week or two is common.
+5. **Feed them:** fiber from vegetables, oats and legumes (as tolerated) supports the same bacteria.
+6. **Safety:** probiotics are very safe for most people. Ask your doctor first if you're severely immunosuppressed, have a central IV line, or are seriously ill (rare bloodstream infections, especially with yeast-based *Saccharomyces*). On biologics, most dermatologists are fine with them, but mention it.
+
+**Fecal microbiota transplantation (FMT): not ready for psoriasis**
+
+FMT transfers stool from a screened healthy donor to reset the gut microbiome.
+
+| Condition | Best evidence | Result |
+|---|---|---|
+| Recurrent *C. difficile* infection | Many RCTs; FDA-approved products (Rebyota, Vowst) | **Works very well.** The only approved use |
+| Ulcerative colitis | RCTs (e.g. 32% vs 9% remission at 8 weeks with pooled donor FMT, JAMA 2019) | Promising; not standard care |
+| New-onset type 1 diabetes | Small RCT | Slowed loss of insulin-making cells; early |
+| Multiple sclerosis, systemic sclerosis | Case reports and pilot trials | Unclear |
+| **Plaque psoriasis** | **Case reports only** (e.g. a man with severe psoriasis and IBS who improved after 2 FMTs, 2019) | **No RCT yet** |
+| **Psoriatic arthritis** | **FLORA RCT** (n=31, Kragsnaes 2021) | **FMT did worse than sham:** treatment failure 60% vs 19%. It was safe. A 2026 follow-up suggests people with a *Bacteroides*-dominant microbiome may respond better long term, but that's a hypothesis to test |
+
+**Bottom line:** FMT is promising for some gut diseases, but for psoriasis there are only case reports, and the one psoriatic-arthritis RCT was negative. **Never do DIY FMT.** Unscreened stool can transmit dangerous infections (the FDA reported deaths from drug-resistant bacteria passed through FMT in 2019). If you're curious, ask about a registered clinical trial (clinicaltrials.gov, search "psoriasis fecal microbiota"). Probiotics are the safe, evidence-backed way to work on the gut-skin axis today.
+
 ---
 
 ## 7. Lifestyle and triggers
@@ -1069,3 +1121,14 @@ Hair makes creams messy, so I use sprays and liquids that get through to the ski
 - US EPA. Use and Care of Home Humidifiers (EPA 402-F-91-101) — https://www.epa.gov/indoor-air-quality-iaq/use-and-care-home-humidifiers
 - Sain AE et al. (2018). Size and mineral composition of airborne particles generated by an ultrasonic humidifier. *Indoor Air* 28(1):80–88
 - Arlian LG (1992). Water balance and humidity requirements of house dust mites. *Exp Appl Acarol* 16:15–35
+- Navarro-López V et al. (2019). Effect of oral administration of a mixture of probiotic strains on SCORAD index and inflammatory markers in plaque psoriasis: a randomized controlled trial. *Acta Derm Venereol* 99(12):1078–1084
+- Wei X et al. (2024). Efficacy of probiotic supplementation in the treatment of psoriasis: a systematic review and meta-analysis. *J Cosmet Dermatol* — https://pubmed.ncbi.nlm.nih.gov/38551321/
+- Efficacy and safety of gut microbiota-targeted therapy in psoriasis: meta-analysis of RCTs (2025). *BMC Immunology* — https://link.springer.com/article/10.1186/s12865-025-00747-y
+- Kragsnaes MS et al. (2021). Safety and efficacy of faecal microbiota transplantation for active peripheral psoriatic arthritis: an exploratory randomised placebo-controlled trial (FLORA). *Ann Rheum Dis* — https://www.sciencedirect.com/science/article/pii/S0003496724204805
+- Qin et al. (2026). Gut microbiota community types and long-term response to FMT in psoriatic arthritis. *Arthritis Rheumatol* — https://pmc.ncbi.nlm.nih.gov/articles/PMC12936901/
+- Costello SP et al. (2019). Effect of fecal microbiota transplantation on 8-week remission in ulcerative colitis: a randomized clinical trial. *JAMA* — https://pubmed.ncbi.nlm.nih.gov/30644982/
+- Umborowati MA et al. (2024). *Lactiplantibacillus plantarum* IS-10506 in mild-to-moderate psoriasis; and other RCTs summarized in: Efficacy of probiotic supplementation in the management of psoriasis: a systematic review (2025) — https://pmc.ncbi.nlm.nih.gov/articles/PMC12756675/
+- Groeger D et al. (2013). *Bifidobacterium infantis* 35624 modulates host inflammatory processes beyond the gut. *Gut Microbes* — https://www.tandfonline.com/doi/full/10.4161/gmic.25487
+- Alipour B et al. (2014). Effects of *Lactobacillus casei* supplementation on disease activity and inflammatory cytokines in rheumatoid arthritis. *Int J Rheum Dis* 17:519–527
+- Multi-strain probiotic capsules for psoriatic arthritis: pilot double-blind RCT (2025). *Food Sci Nutr* — https://pmc.ncbi.nlm.nih.gov/articles/PMC12588955/
+- Sood A et al. (2009). The probiotic preparation VSL#3 induces remission in mild-to-moderately active ulcerative colitis. *Clin Gastroenterol Hepatol* — https://pubmed.ncbi.nlm.nih.gov/19631292

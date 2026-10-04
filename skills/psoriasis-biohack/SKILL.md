@@ -30,6 +30,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Caffeine-free energy (incl. UCAN gel) and a pre-workout protocol | §6.9 |
 | Fruits ranked by histamine and salicylate | §6.10 |
 | Electrolytes, potassium citrate trigger and potassium-vs-citrate test, salicylate-free vitamin C | §6.11 |
+| Probiotics and the gut-skin axis: strains with trial evidence (psoriasis, PsA, RA, UC), how to choose; fecal transplant (FMT) evidence and why not DIY | §6.12 |
 | Dairy-free protein ranked for muscle gain; the guide author's personal triggers and swaps (one person's data, not defaults) | §5 |
 | Triggers and lifestyle, gum disease, dental cleanings, chlorhexidine rinse, xylitol/erythritol gum, nano-hydroxyapatite toothpaste, exercise and sweating, bedding hygiene, wiping phones and personal items, UV sanitizer boxes, toothbrush disinfection, fragrance-free soap and detergent, cold plunge, cool bed (Chilipad) for night itch | §7 |
 | Itch control: ice pack, heat it device for small spots | §7.1 |
