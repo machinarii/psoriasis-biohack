@@ -301,10 +301,22 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 | Salicylic acid 2–6% (your PanOxyl spray) | Removes scale so other treatments penetrate | A (as an adjunct) |
 | Coal tar 0.5–5% (e.g. Neutrogena T/Gel shampoo) | Scalp | B. Smells and causes photosensitivity, so not right before sun |
 | Urea 20–40% | Thick palms, soles and nails | B |
+| Lactic acid / ammonium lactate 12% (e.g. AmLactin, Rx Lac-Hydrin) | Dry, rough, scaly skin between plaques; elbows, knees, shins, heels. See the benefits below | B (for dry, scaly skin; adjunct only for psoriasis) |
 | Ceramide/petrolatum (your CeraVe) | Daily barrier care, steroid-sparing | A (as an adjunct) |
 | Indigo naturalis oil (Lindioil) | Plaques and nails; works through the same receptor as tapinarof | B. Stains blue. **Never take it orally** (pulmonary hypertension, colitis) |
 | Mahonia aquifolium 10% cream | Mild plaques | C |
 | Aloe vera | Moisturizer only | Hype |
+
+**Lactic acid: benefits and how to use it**
+- **Loosens scale:** an alpha-hydroxy acid (AHA) that dissolves the "glue" between dead skin cells, so scale sheds and steroids, calcipotriene and UV get in better. It's gentler than salicylic acid, and it doesn't add to your salicylate load.
+- **Hydrates:** lactate is part of skin's own natural moisturizing factor and is a humectant (it pulls water into the skin). Ammonium lactate 12% outperformed plain moisturizer for dry, scaly skin in trials.
+- **Smooths and softens** rough patches and rebuilds a more even skin surface with regular use.
+- **How:** apply once or twice daily to dry, scaly (not raw) skin, ideally after showering, then seal with ointment where needed. Start every other day if your skin is sensitive.
+- **Cautions:**
+  - It stings on cracked, scratched, oozing or inflamed skin, and on the face or folds.
+  - **AHAs raise sun sensitivity,** so don't apply right before UV sessions or hikes (use it at night) and wear sunscreen on treated skin you aren't dosing.
+  - Patch-test first.
+- **Not dairy:** cosmetic lactic acid is usually fermented from plant sugar and contains no milk protein or lactose, so it's fine even if dairy is your trigger (section 5).
 
 ---
 
@@ -330,6 +342,7 @@ Ask your dermatologist about these to replace or rotate with clobetasol:
 - No psoriasis RCT exists. About half of people who cut dairy in NPF surveys report improvement (self-report).
 - **Plausible mechanism:** whey spikes insulin and casein raises IGF-1. Both activate mTORC1, which is overactive in psoriatic skin. (That mechanism is established in acne.)
 - Your consistent pattern is a good reason to **formally test it** (section 8) and to switch protein sources.
+- **Lactic acid isn't dairy.** Lactic acid on your skin (section 4) and "sodium lactate" or "calcium lactate" on food labels contain no milk protein or lactose. The suspected dairy triggers are the **proteins** (whey, casein), **lactose** (gut symptoms if intolerant) and **histamine** in aged cheese. Do watch for **lactose** and milk-grown probiotics: "lactic acid bacteria" aren't dairy, but some are cultured on milk, so pick dairy-free labels.
 
 ### Dairy-free protein for building muscle
 
