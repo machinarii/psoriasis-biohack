@@ -580,6 +580,12 @@ Fresh green coffee beans are low in histamine, but coffee may still raise histam
 
 **For psoriasis specifically:** large cohort studies found no link between coffee and developing psoriasis (Nurses' Health Study). For eczema-type oozing, test it the same way as dairy: 3–4 weeks without coffee, then reintroduce it.
 
+**If you need to drink coffee, switch to decaf.** It's the most viable swap: same taste and ritual, but with about 2–15 mg caffeine per cup instead of 95–150 mg. That removes the caffeine-related concerns above (DAO blocking, extra stress hormones, worse sleep, which itself drives flares).
+- **Pick solvent-free decaf:** Swiss Water or CO2-process (methylene chloride decaf is legal, but solvent-free avoids residues).
+- **Buy fresh whole beans** and grind at home; old or pre-ground coffee carries more amines.
+- **It still contains salicylate** (lower than regular, but not low). If you're doing a salicylate trial, pause decaf too, or switch to carob or grain "coffee" below.
+- Drink it with food and not on an empty stomach if coffee gives you reflux.
+
 **Alternatives**
 
 | Option | Histamine | Salicylate | Notes |
@@ -597,6 +603,7 @@ These are not trial results. "Weeping risk" is a ranking extrapolated from mecha
 | Drink | Histamine effect | DAO effect | Weeping risk (estimated) | Salicylate |
 |---|---|---|---|---|
 | Coffee (about 95–150 mg caffeine) | High (proposed histamine releaser + DAO inhibitor) | Inhibits (weak evidence) | High (2/10) | **High.** Some tables rate coffee "low–moderate", but RPAH lists rate coffee high and instant coffee very high |
+| **Decaf coffee** (Swiss Water or CO2, about 2–15 mg caffeine) | Lower than regular coffee | Minimal (little caffeine left) | Moderate–low (estimated) | Moderate (lower than regular, still not low) |
 | Matcha (about 40–90 mg caffeine) | Moderate (concentrated EGCG + caffeine) | Inhibits strongly (EGCG) | Moderate–high (3.5/10) | High |
 | Steeped green tea | Low–moderate | Mild inhibition | Moderate | High |
 | **Hojicha** (roasted green tea, about 10–20 mg caffeine) | Low–moderate | Lower than green tea. Roasting **reduces** EGCG but doesn't eliminate it | Moderate–low (rated 7.5/10 in community tables) | **High** (still tea leaf; RPAH rates most teas high) |

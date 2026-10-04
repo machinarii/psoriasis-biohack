@@ -25,7 +25,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | High-histamine/high-sodium foods, DAO-inhibiting drinks and drugs | §6.4 |
 | DAO enzyme vs desiccated beef kidney; DAO, vitamin C and diet evidence | §6.5 |
 | Mast-cell stabilizers (luteolin, quercetin, curcumin, EGCG) | §6.6 |
-| Coffee, matcha, hojicha, green tea, rooibos, coffee alternatives, and alcohol harm reduction (gin/vodka + soda best) | §6.7 |
+| Coffee, decaf (the go-to swap if you need coffee), matcha, hojicha, green tea, rooibos, coffee alternatives, and alcohol harm reduction (gin/vodka + soda best) | §6.7 |
 | Plant milks (histamine, salicylate, nickel) | §6.8 |
 | Caffeine-free energy (incl. UCAN gel) and a pre-workout protocol | §6.9 |
 | Fruits ranked by histamine and salicylate | §6.10 |
