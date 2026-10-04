@@ -36,7 +36,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Supplements, foods and drugs that raise blood pressure or cause fluid retention (licorice, sodium, stimulants, NSAIDs), and the author's oozing observation | §6.13 |
 | Dairy-free protein ranked for muscle gain; the guide author's personal triggers and swaps (one person's data, not defaults) | §5 |
 | Triggers and lifestyle, gum disease, dental cleanings, chlorhexidine rinse, xylitol/erythritol gum, nano-hydroxyapatite toothpaste, exercise and sweating, virtual group workouts (Zwift, Peloton, Tonal), bedding hygiene, wiping phones and personal items, UV sanitizer boxes, toothbrush disinfection, fragrance-free soap and detergent, cold plunge, cool bed (Chilipad) for night itch | §7 |
-| Itch control: ice pack, heat it device for small spots | §7.1 |
+| Itch control: ice pack, cold shower, heat it device for small spots | §7.1 |
 | n-of-1 tracking and the ABAB elimination protocol | §8 |
 | PsA screening, when to escalate, biologics, cost help | §9 |
 | Latest drug approvals and pipeline (icotrokinra, zasocitinib, envudeucitinib, biosimilars, GUIDE, TOGETHER) as of Oct 2026 | §9.1 |

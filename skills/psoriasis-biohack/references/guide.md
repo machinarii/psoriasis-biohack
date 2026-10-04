@@ -1012,6 +1012,11 @@ FMT transfers stool from a screened healthy donor to reset the gut microbiome.
 
 Scratching causes Koebner plaques and keeps the itch-scratch cycle going, so have a no-scratch option within reach.
 - **Ice pack (grade B for cooling):** cold calms the itch nerves (the same TRPM8 cooling pathway menthol uses). Wrap the pack in a thin cloth, apply for up to 10 minutes, and never put ice directly on skin. It works well for bigger itchy areas and at bedtime.
+- **Cold shower (personal experience; grade C):** a cold shower eases my itch and calms inflamed, hot skin. It works the same way as the ice pack and cold plunge (section 7), but covers the whole body and needs no equipment.
+  - Finish a lukewarm shower with 30 seconds to 2–3 minutes of cool-to-cold water, or use cold water alone on the itchy areas.
+  - It's also a good swap for hot showers, which strip skin oils and worsen itch.
+  - Pat dry and apply ointment within 3 minutes.
+  - Skip it if you get hives from cold, or have Raynaud's or heart disease (check with your doctor first).
 - **[heat it](https://heatit.de/en/products/heat-it) for smaller itchy spots (grade C):** a small device that plugs into a phone and heats a tiny plate to about 50–53 °C for a few seconds. It's approved for insect bites; the short heat pulse is thought to override the itch signal (TRPV1 heat nerves). Data for psoriasis itch is limited, but it worked on my small spots. This is different from the sustained heat that worsens itch.
   - Start on the shortest, mildest setting.
   - Use it on intact skin only: never on oozing, cracked, infected or freshly steroid-thinned skin, or the face. Even a minor burn can trigger new plaques (Koebner).
