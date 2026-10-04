@@ -78,7 +78,7 @@ Excimer is targeted UVB for limited plaques under about 10% BSA. In one trial, 7
 
 ### 2.3 UVA: skip it without psoralen
 
-UVA alone (365/385/395 nm LEDs, tanning beds) **does not clear plaque psoriasis.** NPF, DermNet and the UK Psoriasis Association all agree. PUVA (prescription psoralen + UVA) works but raises SCC and melanoma risk, so it is clinic-only. UVA1 (340–400 nm) helps AD flares and possibly palmoplantar pustulosis, but is weak for plaques. **Don't spend money on UVA LEDs for psoriasis.**
+UVA alone (365/385/395 nm LEDs, mostly-UVA tanning beds) **does not clear plaque psoriasis.** (Tanning beds that also emit some UVB are a different story; see section 2.8.) NPF, DermNet and the UK Psoriasis Association all agree. PUVA (prescription psoralen + UVA) works but raises SCC and melanoma risk, so it is clinic-only. UVA1 (340–400 nm) helps AD flares and possibly palmoplantar pustulosis, but is weak for plaques. **Don't spend money on UVA LEDs for psoriasis.**
 
 ### 2.4 Natural sun while hiking: tank top and shorts (grade B/C)
 
@@ -210,6 +210,31 @@ It is doable, but it costs more per cm² than option A. LED UVB is the least mat
   - photo-aggravated disease
   - pustular or erythrodermic flares (urgent care)
 - **Folate:** UVB may lower folate. Take folic acid if pregnant or planning pregnancy.
+
+### 2.8 Tanning beds and booths (personal experience; grade C)
+
+I've had some success treating psoriasis in tanning beds and stand-up booths. **The benefit comes from the small UVB fraction, not the UVA**, so the machine's lamps decide whether it helps. Dermatology groups (AAD, NPF) don't recommend tanning beds: they're a known carcinogen (IARC Group 1), and starting before age 35 raises melanoma risk. Use them only when NB-UVB isn't available, and tell your dermatologist.
+
+**Check the wavelengths before you pay:**
+
+| Lamp type | What it emits | Psoriasis value |
+|---|---|---|
+| **Narrowband 311 nm lamps** (Philips TL100W/01) | UVB at 311 nm | **Best.** Some "UVB" or "phototherapy" booths use them; ask |
+| **Low-pressure fluorescent tanning lamps** with a stated UVB percentage (about 3–6%) | Mostly UVA plus broadband UVB | **Some benefit.** Higher UVB% = more effect but faster burning |
+| **High-pressure (quartz/metal-halide) beds**, often sold as "bronzing" or "no-burn" | Almost pure UVA; UVB filtered out | **Little to none.** Skip |
+| **Red light / "collagen" beds** | No UV | No plaque benefit (section 2.5) |
+
+- **Ask the salon for the lamp brand and model** (it's printed on the lamp end), then look up its spec sheet for the **UVB/UVA ratio**. "Hybrid" or "high-pressure" beds and stand-up booths vary widely.
+- **Bring a UVB meter** (Solarmeter 6.2 for broadband, 6.5 for 311 nm; section 2.6) to compare beds. It's the only way to know what you're getting.
+- **DIY or home beds:** standard 6 ft tanning lamps (F71, 100 W bipin) share the size of the **Philips TL100W/01**. Re-lamping a home bed with /01 tubes is a known hack. Check that the ballast matches and that the acrylic shield passes UVB. **Then treat it as an NB-UVB unit:** measure irradiance and dose per section 2.1, not by tanning times.
+
+**Safe-use rules:**
+- Start with the **shortest session** the bed allows, below the salon's suggestion for your skin type. Go 2–3 times a week, **never on back-to-back days**, and **never to the point of burning** (sunburn causes Koebner plaques).
+- Don't stack it with sun or UVB on the same day.
+- **Wear the goggles** every time.
+- **Cover skin that's clear,** especially the face and genitals, with clothing or a towel.
+- Check for **photosensitizing drugs** (doxycycline, hydrochlorothiazide, some acne and psoriasis drugs, St John's wort), and skip it if anything in the list above applies.
+- Get a **full skin check every year,** and stop if you see new or changing moles.
 
 ---
 

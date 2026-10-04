@@ -14,6 +14,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | NB-UVB dosing, home units, excimer, UVA, sun while hiking, red/NIR/blue | §2.1–2.5 |
 | DIY build: choosing a Philips /01 lamp (PL-S 9W vs PL-L 36W vs TL 100W), lamp fixture, SMT 308 nm LED PCB, meters, MED test | §2.6 |
 | UV safety and contraindications | §2.7 |
+| Tanning beds and booths: which lamps help (UVB fraction, /01 retrofit), how to check wavelengths, safe use | §2.8 |
 | Oozing flare rescue (Burow's, bleach bath, Hibiclens, wet wraps, infection signs) | §3 |
 | Clobetasol rules, Rx non-steroid topicals, OTC adjuncts | §4 |
 | Diet, sugar-free swaps (stevia, allulose, ChocZero biscuits, Vivid Kitchen sauces), dairy/whey, dairy-free protein with leucine targets | §5 |
