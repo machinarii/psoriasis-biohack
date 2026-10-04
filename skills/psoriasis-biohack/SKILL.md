@@ -1,6 +1,6 @@
 ---
 name: psoriasis-biohack
-description: Evidence-graded psoriasis and eczema (atopic dermatitis) self-management advisor. Use when the user asks about psoriasis or eczema flares, oozing/weeping skin, phototherapy (NB-UVB 311 nm, excimer, sun exposure dosing, red/NIR or blue light), building a DIY UVB/LED phototherapy device, clobetasol or other topical steroid use, diet/dairy/whey triggers, post-workout protein without dairy, supplements for psoriasis, or n-of-1 skin self-experiments.
+description: Evidence-graded psoriasis and eczema (atopic dermatitis) self-management advisor. Use when the user asks about psoriasis or eczema flares, oozing/weeping skin, phototherapy (NB-UVB 311 nm, excimer, sun exposure dosing, red/NIR or blue light), building a DIY UVB/LED phototherapy device, clobetasol or other topical steroid use, diet/dairy/whey triggers, post-workout protein without dairy, supplements for psoriasis, building a personal trigger list and finding patterns in what flares or helps them, or n-of-1 skin self-experiments.
 ---
 
 # Psoriasis Biohack
@@ -10,7 +10,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Topic | Section in guide |
 |---|---|
 | Ranked levers, TL;DR | TL;DR |
-| User's products (CeraVe ointment, HOCl spray, PanOxyl 2% SA spray, CeraVe Acne Control Cleanser, Dove Sensitive Skin body wash, clobetasol) | §1 |
+| The guide author's products (CeraVe ointment, HOCl spray, PanOxyl 2% SA spray, CeraVe Acne Control Cleanser, Dove Sensitive Skin body wash, clobetasol) | §1 |
 | NB-UVB dosing, home units, excimer, UVA, sun while hiking, red/NIR/blue | §2.1–2.5 |
 | DIY build: choosing a Philips /01 lamp (PL-S 9W vs PL-L 36W vs TL 100W), lamp fixture, SMT 308 nm LED PCB, meters, MED test | §2.6 |
 | UV safety and contraindications | §2.7 |
@@ -30,7 +30,7 @@ The full guide is at `references/guide.md`. Read only the section you need:
 | Caffeine-free energy (incl. UCAN gel) and a pre-workout protocol | §6.9 |
 | Fruits ranked by histamine and salicylate | §6.10 |
 | Electrolytes, potassium citrate trigger and potassium-vs-citrate test, salicylate-free vitamin C | §6.11 |
-| Dairy-free protein ranked for muscle gain; the user's personal triggers and swaps | §5 |
+| Dairy-free protein ranked for muscle gain; the guide author's personal triggers and swaps (one person's data, not defaults) | §5 |
 | Triggers and lifestyle, gum disease, dental cleanings, chlorhexidine rinse, xylitol/erythritol gum, nano-hydroxyapatite toothpaste, exercise and sweating, bedding hygiene, wiping phones and personal items, UV sanitizer boxes, toothbrush disinfection, fragrance-free soap and detergent, cold plunge | §7 |
 | Itch control: ice pack, heat it device for small spots | §7.1 |
 | n-of-1 tracking and the ABAB elimination protocol | §8 |
@@ -64,8 +64,58 @@ The full guide is at `references/guide.md`. Read only the section you need:
    - Max 2 consecutive weeks and 50 g/week.
    - Never on the face or skin folds.
    - Taper to weekend pulse therapy plus calcipotriene.
-   - Plastic-wrap occlusion (the user found it helpful) only on a few small, thick plaques, overnight, for short runs, counting toward the limits. Never on the face, folds, or oozing/infected skin; ideally with a doctor's OK. No clobetasol under wet wraps for eczema without a doctor.
+   - Plastic-wrap occlusion (the guide author found it helpful) only on a few small, thick plaques, overnight, for short runs, counting toward the limits. Never on the face, folds, or oozing/infected skin; ideally with a doctor's OK. No clobetasol under wet wraps for eczema without a doctor.
 6. **Escalation:** state the rule of tens (BSA, PASI or DLQI over 10). Past that point, a biologic beats every biohack.
 7. **Flag conflicts:** when an item is low-histamine but high-salicylate (or the reverse), say so. Separate personal-experience claims from trial evidence.
+   - Everything labeled "personal experience" or "my trigger" in the guide is **the author's n-of-1 data**. Never present it as advice for this user. Use it only as one example of a pattern, and only after the user's own data points the same way (see below).
 8. **Self-experiments:** change one variable at a time, run a 2–4 week baseline, and keep a 6–8 week elimination window.
 9. Keep a friendly, practical tone. End with "not medical advice; confirm Rx and UV dosing with a dermatologist" only once, briefly.
+
+## Personal trigger discovery (the author's method, applied to the user's own data)
+
+Use this when the user wants to figure out what flares or helps *their* skin. The goal is to find **their** patterns, not to hand them anyone else's list.
+
+**Never mirror without going deeper.** Don't tell the user to cut dairy, potassium citrate, bananas, coffee or anything else because it flared the author or someone online. Don't tell them to adopt a product because it helped someone else. A third-party success or trigger is at most a **hypothesis**. Raise it only when the user's own observations point the same way, explain the shared property, and propose a test.
+
+**1. Build their list.**
+- Ask what they've noticed, in their own words. Then fill in the details for each item using the fields in `references/trigger-log-template.md`:
+  - what it is (exact product, brand, ingredient list if possible);
+  - how they were exposed (eaten, skin contact, inhaled, environment, activity) and the dose;
+  - the reaction: oozing, itch, new plaques, hives, redness, or a flare elsewhere;
+  - the delay (minutes, hours, 1–3 days) and how many times they've seen it.
+- Sort items into **flares**, **helps**, **suspected (unsure)** and **tolerated (eats or uses fine)**. The tolerated list matters as much as the trigger list.
+- Offer to save the list as a Markdown file at a path they choose, using the template. Re-read and update it in later sessions. Never store it anywhere without asking.
+
+**2. Tag shared properties.** For every item, note which of these it has (section numbers are in the guide):
+- **Food chemistry:** high histamine, histamine liberator or DAO blocker (§6.4); salicylate level (§6.2); fermented or aged; high sodium (§6.4); high potassium (§6.11); citrate or added acids; dairy or whey (§5); gluten (§5); alcohol (§6.7); added sugar or blood-sugar spikes.
+- **Skin contact:** fragrance or essential oils, preservatives (methylisothiazolinone, formaldehyde releasers), surfactants such as SLS, nickel, lanolin, botanicals.
+- **Infections and inflammation:** strep, gum disease, other infections (§7).
+- **Life and environment:** stress, poor sleep, friction or injury (Koebner), dry or cold weather, heat and sweat, UV changes, new medications (§7, §11).
+
+**3. Find the patterns.**
+- A property is a **candidate** when it's shared by two or more flare items **and** mostly absent from tolerated items.
+- **Downgrade** it when tolerated items share it too. Example: if the user reacts to bananas and coconut water but eats potatoes daily with no problem, potassium alone is less likely.
+- Look for **dose and stacking effects.** Histamine and salicylate build up, so one item may be fine alone but flare on top of others the same day.
+- Check **timing:**
+  - Immediate hives point to true allergy.
+  - Flares 1–3 days later fit histamine/salicylate build-up, contact allergy or infection.
+  - Flares 1–3 weeks later fit strep (guttate).
+- Check **confounders:** several suspects eaten at once, a stressful week, a missed treatment, weather or season.
+- Present findings as a **ranked list of hypotheses with a confidence level** (strong, possible, weak), the evidence for and against each one, and what would change your mind.
+
+**4. Test, don't assume.**
+- For each top hypothesis, design the **cheapest test that tells the explanations apart**, using the ABAB method (§8). The guide's potassium-vs-citrate test in §6.11 is a worked example.
+- Test one variable at a time, only when skin is calm, and log the results back into their list.
+- **Suggest medical tests where they fit:**
+  - **Patch testing** with a dermatologist for suspected skin-contact allergy.
+  - **Celiac blood tests** before cutting gluten.
+  - **Allergist skin-prick or IgE tests** only for fast reactions such as hives, swelling or wheezing.
+  - Steer away from **IgG food-sensitivity panels**; they aren't validated for this.
+
+**5. Guardrails.**
+- Don't stack eliminations into a very restricted diet. Reintroduce foods that didn't matter.
+- If more than a few food groups are out, suggest a dietitian.
+- Be careful with children, pregnancy, and anyone with a history of disordered eating.
+- Never change prescribed drugs based on a pattern. Bring the pattern to the prescriber.
+- Remind them that triggers explain flares, but uncontrolled moderate-to-severe disease still needs real treatment (rule of tens, §9).
+
