@@ -931,7 +931,7 @@ FMT transfers stool from a screened healthy donor to reset the gut microbiome.
 | **Nicotine** | Cigarettes, vapes, pouches | Narrows blood vessels | Smoking worsens psoriasis (section 7) |
 | **Too much vitamin D or calcium** | Vitamin D megadoses, heavy calcium supplements | High blood calcium | Calcipotriene overuse adds to this (section 12.2) |
 | **Over-the-counter drugs** | **Decongestants** (pseudoephedrine, phenylephrine), **NSAIDs** (ibuprofen, naproxen) | Narrow blood vessels; retain salt and water | NSAIDs can also flare psoriasis and bother salicylate-sensitive people |
-| **Prescription drugs** | Oral steroids (prednisone), **cyclosporine**, some antidepressants (venlafaxine), ADHD stimulants, estrogen-containing birth control | Varies | **Don't stop these yourself.** Cyclosporine needs regular blood-pressure checks (section 12.4) |
+| **Prescription drugs** | Oral steroids (prednisone), **cyclosporine**, ADHD stimulants, estrogen-containing birth control | Varies | **Don't stop these yourself.** Cyclosporine needs regular blood-pressure checks (section 12.4) |
 
 **What to do:**
 - **Measure, don't guess.** A home blood-pressure cuff costs about $30–50. Log readings in your trigger log alongside oozing (section 8) to see whether your pattern holds, and whether it's the blood pressure or the substance.
