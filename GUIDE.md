@@ -594,7 +594,27 @@ Fresh green coffee beans are low in histamine, but coffee may still raise histam
 | **Swiss Water decaf**, single origin, fresh beans | Lower (no caffeine) | Moderate (lower than regular coffee) | Keeps the coffee ritual. Buy whole beans and grind fresh to limit amines |
 | **Roasted carob drink** | Low | Low–moderate | Coffee-like roasted flavor. Also replaces chocolate (one of your triggers) |
 | **Roasted grain "coffee"** (barley, rye, e.g. Pero, Inka) | Low | Low | Contains gluten, so only if gluten isn't a problem for you |
-| Roasted chicory or dandelion | Low | Moderate | Some people get gut reactions (inulin) |
+| Roasted chicory or dandelion | Low | Moderate | Some people get gut reactions (inulin). **Daisy (Compositae) family:** cross-reacts with ragweed and mugwort pollen, chamomile and echinacea, and can cause contact dermatitis. Blends often add barley or rye (gluten), almonds (tree nut), real coffee or flavors; start with plain 100% roasted chicory root |
+
+**Coffee alternatives ranked by allergen risk** (US major allergens, gluten and the daisy family)
+
+| Rank | Drink | Allergens | Histamine | Salicylate | Notes |
+|---|---|---|---|---|---|
+| 1 | **Roasted brown rice tea** (hyeonmi-cha; not genmaicha, which contains green tea) | Very low | Low | **Very low** (rice is negligible on RPAH lists) | Toasty and nutty. The cleanest pick on allergens, histamine and salicylate |
+| 2 | **Roasted corn tea** (oksusu-cha) | Very low (corn allergy is uncommon) | Low | Low–moderate (lists vary) | Slightly sweet. Some blends add barley, so check the label |
+| 3 | **Rooibos** or **honeybush** | Very low | Low | Low–moderate | Not coffee-like, but rich with plant milk |
+| 4 | **Roasted carob** | Low (legume; cross-reaction with peanut is rare) | Low | Low–moderate | Closest to coffee and chocolate flavor |
+| — | Swiss Water decaf | Low | Lower than coffee | Moderate | See above |
+| — | Barley tea (mugicha), grain coffees (Pero, Inka) | **Gluten** | Low | Low | Only if gluten isn't an issue |
+| — | Chicory, dandelion | **Daisy family** | Low | Moderate | See the row above |
+| Avoid | Roasted buckwheat tea (soba-cha) | **Buckwheat can cause severe allergy** (common in Korea and Japan) | Low | Low | |
+| Avoid | Lupin or chickpea "coffee" | **Lupin is a major EU allergen** and cross-reacts with peanut | Low | Varies | |
+| Avoid | Acorn coffee | Tree-nut cross-reactions | Low | Unknown | |
+| Avoid | Cacao husk tea | Chocolate plant | Moderate | High | Chocolate is a common trigger |
+| Avoid | Mushroom coffee (chaga, lion's mane) | — | — | — | Possible immune activation (section 6.3) |
+| Avoid | Yerba mate, matcha, golden milk (turmeric) | — | Caffeine or EGCG | **High** | |
+
+Test one at a time (section 8).
 
 **Drink comparison (how the low-histamine community ranks them)**
 
